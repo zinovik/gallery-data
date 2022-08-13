@@ -4,7 +4,6 @@
     "url": "https://maxhere.netlify.app/static/e97dd917a52bf76f9d8aba848ce8d700/a41d1/all-around-sri-lanka.jpg",
     "urlThumbnail": "https://maxhere.netlify.app/static/e97dd917a52bf76f9d8aba848ce8d700/a41d1/all-around-sri-lanka.jpg",
     "description": "the view of Pidurangala Mountain from the Sigiriya Ancient Rock Fortress 20.01.2022 07:47",
-    "text": "",
     "order": 0,
     "date": "20220113_110042"
   },
@@ -13,9 +12,15 @@
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1644070591/maxhere/all-around-sri-lanka/20220113_110042.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1644070591/maxhere/all-around-sri-lanka/20220113_110042.jpg",
     "description": "the view of Dubai",
-    "text": "",
     "order": 1,
     "date": "20220113_110042"
+  },
+  {
+    "path": "zalessie",
+    "url": "https://maxhere.netlify.app/static/b82f54780732f04b15ecba67a0144997/a41d1/zalessie-owl-house-in-spring-and-autumn.jpg",
+    "urlThumbnail": "https://maxhere.netlify.app/static/b82f54780732f04b15ecba67a0144997/a41d1/zalessie-owl-house-in-spring-and-autumn.jpg",
+    "description": "the owl house from inside",
+    "order": 0
   },
   {
     "path": "zalessie/transport",

@@ -45,13 +45,13 @@
     "title": "Outside",
     "path": "zalessie/the-owl-house/outside",
     "order": 0,
-    "text": "."
+    "text": ""
   },
   {
     "title": "Inside",
     "path": "zalessie/the-owl-house/inside",
     "order": 0,
-    "text": "."
+    "text": ""
   },
   {
     "title": "The forest",
@@ -68,7 +68,7 @@
   {
     "title": "bonus",
     "path": "zalessie/bonus",
-    "order": 0,
+    "order": 5,
     "text": "The owner shared the 📗 book he had created about tourism in these places with me. Feel free to download it here:\n\nThe cover: https://drive.google.com/file/d/1u1EK7zyfhPjh9SX0n8mx3UZsKMJf5elz/view\n\nThe book: https://drive.google.com/file/d/1nOz3zPaBIhA4FxbVtfSB3ba9ltenhTKJ/view"
   }
 ]
