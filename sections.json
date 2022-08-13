@@ -21,30 +21,54 @@
     "title": "🦉 Zalessie owl house in spring and autumn",
     "path": "zalessie",
     "order": 0,
-    "text": "This trip was planned for early 2020 but then covid-19 happened…"
+    "text": "The ornithology paradise between swamps in the wild Bielaviežskaja pušča."
   },
   {
-    "title": "Intro Sub1 Test",
-    "path": "sri-lanka/intro/sub1",
+    "title": "Intro",
+    "path": "zalessie/intro",
     "order": 0,
-    "text": ""
+    "text": "🌲 Zalessie (za lesom - behind the forest) is an almost extinct village in Bielaviežskaja pušča in Belarus.\n\nIt’s also the name of the hostel house you can stay in (facebook.com/zalessie). Also, you can rent bicycles and kayaks here.\n\nI have been there two times (in spring and 🍂 autumn) this year, because it’s the kind of place you want to return to.\n\nYou will not find this place on booking or airbnb. It’s a kind of filter for the guests of the house."
   },
   {
-    "title": "Intro Sub2 Test",
-    "path": "sri-lanka/intro/sub2",
+    "title": "Transport",
+    "path": "zalessie/transport",
     "order": 1,
     "text": ""
   },
   {
-    "title": "Dubai Sub1 Test",
-    "path": "sri-lanka/dubai/sub1",
-    "order": 0,
-    "text": ""
+    "title": "The owl house",
+    "path": "zalessie/the-owl-house",
+    "order": 2,
+    "text": "The owl house is a really nice place to sleep. It’s located so close to the forest so you can touch it from the terrace. You can feel yourself the part of nature but still in safety."
   },
   {
-    "title": "Dubai Sub2 Test",
-    "path": "sri-lanka/dubai/sub2",
-    "order": 1,
-    "text": ""
+    "title": "Outside",
+    "path": "zalessie/the-owl-house/outside",
+    "order": 0,
+    "text": "."
+  },
+  {
+    "title": "Inside",
+    "path": "zalessie/the-owl-house/inside",
+    "order": 0,
+    "text": "."
+  },
+  {
+    "title": "The forest",
+    "path": "zalessie/the-forest",
+    "order": 3,
+    "text": "But the main attraction here is the forest. It’s a natural museum. On the first trip, our host was our forest guide and showed some interesting places.\n\nOrnithology is a hobby of our host. His profession is psychology. And this forest is a really good place for the “puščatherapy”."
+  },
+  {
+    "title": "The birds",
+    "path": "zalessie/the-birds",
+    "order": 4,
+    "text": "Unfortunately, I didn’t have enough good 📷 camera to take photos of the birds I have seen.\n\nBut this place is perfect for birdwatching. Wild forests and swamps are the ideal places for many kinds.\n\nWatching the birds is really calm hobby, you are 🚶 walking in the forest and can collect photos of different birds and classify it. Try yourself if you haven’t tried it yet. Just start from the closest part.\n\nIf you are not in this hobby yet it’s hard to notice the birds, but with a good guide, it’s not a problem.\n\nI couldn’t understand the uniquity of the birds I had watched. That’s why I decided to start from the birds in the 🏙️ city - the simplest ones.\n\nHonestly, I had bought a binoculars and a bird’s definer book and download the birds’ application after this trip.\n\nSo, next time I will be more 💪 prepared."
+  },
+  {
+    "title": "bonus",
+    "path": "zalessie/bonus",
+    "order": 0,
+    "text": "The owner shared the 📗 book he had created about tourism in these places with me. Feel free to download it here:\n\nThe cover: https://drive.google.com/file/d/1u1EK7zyfhPjh9SX0n8mx3UZsKMJf5elz/view\n\nThe book: https://drive.google.com/file/d/1nOz3zPaBIhA4FxbVtfSB3ba9ltenhTKJ/view"
   }
 ]
