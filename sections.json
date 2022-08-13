@@ -1,10 +1,5 @@
 [
   {
-    "title": "Intro",
-    "path": "sri-lanka/intro",
-    "text": "Sri Lanka (formerly known as Ceylon) is a fascinating destination for all kinds of tourists. You can try local cuisine, surfing and hiking, find the traces of old cities or enjoy rich nature with animals variety."
-  },
-  {
     "title": "🦉 Zalessie owl house in spring and autumn",
     "path": "zalessie",
     "text": "The ornithology paradise between swamps in the wild Bielaviežskaja pušča."
@@ -53,6 +48,11 @@
     "title": "🇱🇰 All-around Sri Lanka",
     "path": "sri-lanka",
     "text": "Postponed by almost 2 years trip to the paradise-like island with amazing nature and traces of old civilization. This trip was planned for early 2020 but then covid-19 happened…"
+  },
+  {
+    "title": "Intro",
+    "path": "sri-lanka/intro",
+    "text": "Sri Lanka (formerly known as Ceylon) is a fascinating destination for all kinds of tourists. You can try local cuisine, surfing and hiking, find the traces of old cities or enjoy rich nature with animals variety."
   },
   {
     "title": "Dubai",
