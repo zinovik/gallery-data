@@ -1,22 +1,8 @@
 [
   {
-    "path": "sri-lanka",
-    "url": "https://maxhere.netlify.app/static/e97dd917a52bf76f9d8aba848ce8d700/a41d1/all-around-sri-lanka.jpg",
-    "urlThumbnail": "https://maxhere.netlify.app/static/e97dd917a52bf76f9d8aba848ce8d700/a41d1/all-around-sri-lanka.jpg",
-    "description": "the view of Pidurangala Mountain from the Sigiriya Ancient Rock Fortress 20.01.2022 07:47",
-    "date": "20220113_110042"
-  },
-  {
-    "path": "sri-lanka/dubai",
-    "url": "https://res.cloudinary.com/zinovik/image/upload/v1644070591/maxhere/all-around-sri-lanka/20220113_110042.jpg",
-    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1644070591/maxhere/all-around-sri-lanka/20220113_110042.jpg",
-    "description": "the view of Dubai",
-    "date": "20220113_110042"
-  },
-  {
     "path": "zalessie",
-    "url": "https://maxhere.netlify.app/static/b82f54780732f04b15ecba67a0144997/a41d1/zalessie-owl-house-in-spring-and-autumn.jpg",
-    "urlThumbnail": "https://maxhere.netlify.app/static/b82f54780732f04b15ecba67a0144997/a41d1/zalessie-owl-house-in-spring-and-autumn.jpg",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1631862368/maxhere/zalessie-owl-house-in-spring-and-autumn/20210424_143342.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1631862368/maxhere/zalessie-owl-house-in-spring-and-autumn/20210424_143342.jpg",
     "description": "the owl house from inside"
   },
   {
@@ -24,28 +10,28 @@
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1631862368/maxhere/zalessie-owl-house-in-spring-and-autumn/20210424_092855.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1631862368/maxhere/zalessie-owl-house-in-spring-and-autumn/20210424_092855.jpg",
     "description": "the road between Kamyanyets and Kamianiuki",
-    "text": "The first time we get to this place by 🚴 bicycles (it’s ~110 km from Brest)."
+    "text": "The first time we get to this place by 🚴 bicycles (it's ~110 km from **Brest**)."
   },
   {
     "path": "zalessie/transport",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1631862384/maxhere/zalessie-owl-house-in-spring-and-autumn/Screenshot_20210424-151326_Strava.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1631862384/maxhere/zalessie-owl-house-in-spring-and-autumn/Screenshot_20210424-151326_Strava.jpg",
     "description": "a track from Brest to Zalessie",
-    "text": "The great thing the most part of the road is in the Bielaviežskaja pušča. It’s a forest around and fresh air. This is the track to Zalessie:"
+    "text": "The great thing the most part of the road is in the **Bielaviežskaja pušča**. It's a forest around and fresh air. This is the track to **Zalessie**:"
   },
   {
     "path": "zalessie/transport",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1631862385/maxhere/zalessie-owl-house-in-spring-and-autumn/Screenshot_20210425-140612_Strava.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1631862385/maxhere/zalessie-owl-house-in-spring-and-autumn/Screenshot_20210425-140612_Strava.jpg",
     "description": "a track from Zalessie to Arančycy",
-    "text": "About the way back home… It was too 🥶 cold for April and we spent the whole morning watching birds so we decided to go to the closest train station (< 40 km) to get home."
+    "text": "About the way back home... It was too 🥶 cold for April and we spent the whole morning watching birds so we decided to go to the closest train station (< 40 km) to get home."
   },
   {
     "path": "zalessie/transport",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1631862373/maxhere/zalessie-owl-house-in-spring-and-autumn/20210424_143138.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1631862373/maxhere/zalessie-owl-house-in-spring-and-autumn/20210424_143138.jpg",
     "description": "the transport for the spring trip",
-    "text": "The bicycles are the best but not the only transport to get to this place.\n\nIt’s possible to use a car (like we did in autumn) or a regular 🚌 bus. It’s located in the forest but not far from the road."
+    "text": "The bicycles are the best but not the only transport to get to this place.\n\nIt's possible to use a car (like we did in autumn) or a regular 🚌 bus. It's located in the forest but not far from the road."
   },
   {
     "path": "zalessie/the-owl-house/outside",
@@ -94,7 +80,7 @@
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1631862392/maxhere/zalessie-owl-house-in-spring-and-autumn/20210424_160033.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1631862392/maxhere/zalessie-owl-house-in-spring-and-autumn/20210424_160033.jpg",
     "description": "the third floor of the forest tower",
-    "text": "If you couldn’t find any birds it’s a peaceful place for chill and 🧘 meditation or reading anyway."
+    "text": "If you couldn't find any birds it's a peaceful place for chill and 🧘 meditation or reading anyway."
   },
   {
     "path": "zalessie/the-owl-house/outside",
@@ -129,7 +115,7 @@
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1631862384/maxhere/zalessie-owl-house-in-spring-and-autumn/20210911_200133.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1631862384/maxhere/zalessie-owl-house-in-spring-and-autumn/20210911_200133.jpg",
     "description": "a barbecue in front of the owl house terrace evening illumination",
-    "text": "What a pity it’s a photo, but not a video. September is a 🦌 deer mating season. At this time males scream in the forest to attract females. And it can be heard clearly in this place. It’s a little bit scary in the beginning especially because there is no fence between you and the forest with the deers. But the cozy terrace illumination can calm down everyone."
+    "text": "What a pity it's a photo, but not a video. September is a 🦌 deer mating season. At this time males scream in the forest to attract females. And it can be heard clearly in this place. It's a little bit scary in the beginning especially because there is no fence between you and the forest with the deers. But the cozy terrace illumination can calm down everyone."
   },
   {
     "path": "zalessie/the-owl-house/outside",
@@ -143,21 +129,20 @@
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1631862384/maxhere/zalessie-owl-house-in-spring-and-autumn/20210912_103634.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1631862384/maxhere/zalessie-owl-house-in-spring-and-autumn/20210912_103634.jpg",
     "description": "the owl house terrace",
-    "text": "The wall on the terrace looks like a decoration, but it’s natural at the same time."
+    "text": "The wall on the terrace looks like a decoration, but it's natural at the same time."
   },
   {
     "path": "zalessie/the-owl-house/inside",
-    "url": "https://res.cloudinary.com/zinovik/image/upload/v1631862400/maxhere/zalessie-owl-house-in-spring-and-autumn/20210911_153734.mp4",
-    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1631862400/maxhere/zalessie-owl-house-in-spring-and-autumn/20210911_153734.mp4",
+    "url": "https://res.cloudinary.com/zinovik/video/upload/v1631862400/maxhere/zalessie-owl-house-in-spring-and-autumn/20210911_153734.mp4",
     "description": "inside the owl house",
-    "text": "But let’s go inside the house."
+    "text": "But let's go inside the house."
   },
   {
     "path": "zalessie/the-owl-house/inside",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1631862369/maxhere/zalessie-owl-house-in-spring-and-autumn/20210424_143417.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1631862369/maxhere/zalessie-owl-house-in-spring-and-autumn/20210424_143417.jpg",
     "description": "the ows inside the owl house",
-    "text": "It so cozy because of a large number of a small details. Everything was made with love and looks like it’s used not for the guest but for the owners.\n\nIt’s warm and alive. And I bet nobody can count the number of birds inside. It’s everywhere!"
+    "text": "It so cozy because of a large number of a small details. Everything was made with love and looks like it's used not for the guest but for the owners.\n\nIt's warm and alive. And I bet nobody can count the number of birds inside. It's everywhere!"
   },
   {
     "path": "zalessie/the-owl-house/inside",
@@ -171,28 +156,28 @@
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1631862372/maxhere/zalessie-owl-house-in-spring-and-autumn/20210424_143909.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1631862372/maxhere/zalessie-owl-house-in-spring-and-autumn/20210424_143909.jpg",
     "description": "a really old, loud, and rare refrigerator Zil Moskva in the owl house",
-    "text": "And maybe it’s better to turn off this nice refrigerator to enjoy the 🔇 silence."
+    "text": "And maybe it's better to turn off this nice refrigerator to enjoy the 🔇 silence."
   },
   {
     "path": "zalessie/the-owl-house/inside",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1631862388/maxhere/zalessie-owl-house-in-spring-and-autumn/20210424_145037.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1631862388/maxhere/zalessie-owl-house-in-spring-and-autumn/20210424_145037.jpg",
     "description": "the owl posters and the owl plate inside the owl house",
-    "text": "Something like “Even [hit] the owl on the stump, even [hit] the stump on the owl - the owl hurts anyway”."
+    "text": "Something like \"Even [hit] the owl on the stump, even [hit] the stump on the owl - the owl hurts anyway\"."
   },
   {
     "path": "zalessie/the-owl-house/inside",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1631862380/maxhere/zalessie-owl-house-in-spring-and-autumn/20210425_085523.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1631862380/maxhere/zalessie-owl-house-in-spring-and-autumn/20210425_085523.jpg",
     "description": "the books inside the owl house",
-    "text": "A lot of interesting 📚 books everywhere in case you didn’t take yours with you."
+    "text": "A lot of interesting 📚 books everywhere in case you didn't take yours with you."
   },
   {
     "path": "zalessie/the-forest",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1631862374/maxhere/zalessie-owl-house-in-spring-and-autumn/20210424_162614.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1631862374/maxhere/zalessie-owl-house-in-spring-and-autumn/20210424_162614.jpg",
     "description": "a wild animals (wild boar and others) bath in the forest",
-    "text": "Let’s start with a 🛁 bathroom."
+    "text": "Let's start with a 🛁 bathroom."
   },
   {
     "path": "zalessie/the-forest",
@@ -213,7 +198,7 @@
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1631862378/maxhere/zalessie-owl-house-in-spring-and-autumn/20210424_170229.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1631862378/maxhere/zalessie-owl-house-in-spring-and-autumn/20210424_170229.jpg",
     "description": "an old house in the Yuzefin village not far from Zalessie",
-    "text": "Yuzefin is a village not far from Zalessie. It’s almost extinct and even deeper in the forest."
+    "text": "**Yuzefin** is a village not far from **Zalessie**. It's almost extinct and even deeper in the forest."
   },
   {
     "path": "zalessie/the-forest",
