@@ -1,5 +1,71 @@
 [
   {
+    "title": "🏡 From Brest to Naliboki forest and back",
+    "path": "naliboki",
+    "text": "The last winter weekend south-west Belarus trip."
+  },
+  {
+    "title": "Intro",
+    "path": "naliboki/intro"
+  },
+  {
+    "title": "From Brest to Naliboki forest",
+    "path": "naliboki/to-naliboki"
+  },
+  {
+    "title": "Sviciaz lake",
+    "path": "naliboki/to-naliboki/sviciaz"
+  },
+  {
+    "title": "Navahrudak",
+    "path": "naliboki/to-naliboki/navahrudak"
+  },
+  {
+    "title": "Lubcha castle",
+    "path": "naliboki/to-naliboki/lubcha"
+  },
+  {
+    "title": "Hraptovichy palace in Shchorsy",
+    "path": "naliboki/to-naliboki/hraptovichy"
+  },
+  {
+    "title": "Kroman lake",
+    "path": "naliboki/to-naliboki/kroman"
+  },
+  {
+    "title": "Naliboki agrotown",
+    "path": "naliboki/to-naliboki/naliboki"
+  },
+  {
+    "title": "Elagma Shale guest house in Naliboki forest",
+    "path": "naliboki/elagma"
+  },
+  {
+    "title": "From Naliboki forest to Brest",
+    "path": "naliboki/to-brest"
+  },
+  {
+    "title": "Dzyarzhynskaya hara",
+    "path": "naliboki/to-brest/dzyarzhynskaya"
+  },
+  {
+    "title": "Mir castle",
+    "path": "naliboki/to-brest/mir"
+  },
+  {
+    "title": "Nesvizh castle",
+    "path": "naliboki/to-brest/nesvizh"
+  },
+  {
+    "title": "Hrusauka manor",
+    "path": "naliboki/to-brest/hrusauka"
+  },
+  {
+    "title": "Milavidy memorial complex",
+    "path": "naliboki/to-brest/milavidy"
+  },
+
+  {
     "title": "🦉 Zalessie owl house in spring and autumn",
     "path": "zalessie",
     "text": "The ornithology paradise between swamps in the wild Bielaviežskaja pušča."
@@ -11,8 +77,7 @@
   },
   {
     "title": "Transport",
-    "path": "zalessie/transport",
-    "text": ""
+    "path": "zalessie/transport"
   },
   {
     "title": "The owl house",
@@ -21,13 +86,11 @@
   },
   {
     "title": "Outside",
-    "path": "zalessie/the-owl-house/outside",
-    "text": ""
+    "path": "zalessie/the-owl-house/outside"
   },
   {
     "title": "Inside",
-    "path": "zalessie/the-owl-house/inside",
-    "text": ""
+    "path": "zalessie/the-owl-house/inside"
   },
   {
     "title": "The forest",
