@@ -3,7 +3,7 @@ Main repository: https://github.com/zinovik/gallery
 Interfaces:
 
 ```typescript
-export interface SectionInterface {
+interface SectionInterface {
   path: string;
   title: string;
   text?: string;
@@ -12,7 +12,7 @@ export interface SectionInterface {
 ```
 
 ```typescript
-export interface ImageInterface {
+interface ImageInterface {
   path: string;
   url: string;
   urlThumbnail?: string;
