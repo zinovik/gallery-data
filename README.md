@@ -1,3 +1,5 @@
+Main repository: https://github.com/zinovik/gallery
+
 Interfaces:
 
 ```typescript
