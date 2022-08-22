@@ -58,11 +58,16 @@
   },
   {
     "title": "Hrusauka manor",
-    "path": "naliboki/to-brest/hrusauka"
+    "path": "naliboki/to-brest/hrusauka",
+    "text": "It was one of the most interesting stops of our trip. Maybe, also because of the man who was not far from the manor and escorted us inside, telling the history of this place."
   },
   {
     "title": "Milavidy memorial complex",
-    "path": "naliboki/to-brest/milavidy"
+    "path": "naliboki/to-brest/milavidy",
+    "text": [
+      "This is the last point of our trip - a memorial complex in few kilometers from the Milavidy village, it was a battle during the January Uprising here in 1863.",
+      "<a href=\"https://en.wikipedia.org/wiki/January_Uprising\" target=\"_blank\">The January Uprising</a> (the Polish Uprising 1963-1964) was an insurrection against the Russian Empire aimed at the restoration of the Polish–Lithuanian Commonwealth."
+    ]
   },
 
   {
@@ -73,7 +78,12 @@
   {
     "title": "Intro",
     "path": "zalessie/intro",
-    "text": "🌲 **Zalessie** (_za lesom_ - behind the forest) is an almost extinct village in **Bielaviežskaja pušča** in Belarus.\n\nIt's also the name of the hostel house you can stay in (<a href=\"https://facebook.com/zalessie\" target=\"_blank\">facebook.com/zalessie</a>). Also, you can rent bicycles and kayaks here.\n\nI have been there two times (in spring and 🍂 autumn) this year, because it's the kind of place you want to return to.\n\nYou will not find this place on booking or airbnb. It's a kind of filter for the guests of the house."
+    "text": [
+      "🌲 **Zalessie** (_za lesom_ - behind the forest) is an almost extinct village in **Bielaviežskaja pušča** in Belarus.",
+      "It's also the name of the hostel house you can stay in (<a href=\"https://facebook.com/zalessie\" target=\"_blank\">facebook.com/zalessie</a>). Also, you can rent bicycles and kayaks here.",
+      "I have been there two times (in spring and 🍂 autumn) this year, because it's the kind of place you want to return to.",
+      "You will not find this place on booking or airbnb. It's a kind of filter for the guests of the house."
+    ]
   },
   {
     "title": "Transport",
@@ -95,16 +105,31 @@
   {
     "title": "The forest",
     "path": "zalessie/the-forest",
-    "text": "But the main attraction here is the forest. It's a natural museum. On the first trip, our host was our forest guide and showed some interesting places.\n\nOrnithology is a hobby of our host. His profession is psychology. And this forest is a really good place for the **\"puščatherapy\"**."
+    "text": [
+      "But the main attraction here is the forest. It's a natural museum. On the first trip, our host was our forest guide and showed some interesting places.",
+      "Ornithology is a hobby of our host. His profession is psychology. And this forest is a really good place for the **\"puščatherapy\"**."
+    ]
   },
   {
     "title": "The birds",
     "path": "zalessie/the-birds",
-    "text": "Unfortunately, I didn't have enough good 📷 camera to take photos of the birds I have seen.\n\nBut this place is perfect for birdwatching. Wild forests and swamps are the ideal places for many kinds.\n\nWatching the birds is really calm hobby, you are 🚶 walking in the forest and can collect photos of different birds and classify it. Try yourself if you haven't tried it yet. Just start from the closest part.\n\nIf you are not in this hobby yet it's hard to notice the birds, but with a good guide, it's not a problem.\n\nI couldn't understand the uniquity of the birds I had watched. That's why I decided to start from the birds in the 🏙️ city - the simplest ones.\n\nHonestly, I had bought a binoculars and a bird's definer book and download the birds' application after this trip.\n\nSo, next time I will be more 💪 prepared."
+    "text": [
+      "Unfortunately, I didn't have enough good 📷 camera to take photos of the birds I have seen.",
+      "But this place is perfect for birdwatching. Wild forests and swamps are the ideal places for many kinds.",
+      "Watching the birds is really calm hobby, you are 🚶 walking in the forest and can collect photos of different birds and classify it. Try yourself if you haven't tried it yet. Just start from the closest part.",
+      "If you are not in this hobby yet it's hard to notice the birds, but with a good guide, it's not a problem.",
+      "I couldn't understand the uniquity of the birds I had watched. That's why I decided to start from the birds in the 🏙️ city - the simplest ones.",
+      "Honestly, I had bought a binoculars and a bird's definer book and download the birds' application after this trip.",
+      "So, next time I will be more 💪 prepared."
+    ]
   },
   {
     "title": "bonus",
     "path": "zalessie/bonus",
-    "text": "The owner shared the 📗 book he had created about tourism in these places with me. Feel free to download it here:\n\nThe cover: https://drive.google.com/file/d/1u1EK7zyfhPjh9SX0n8mx3UZsKMJf5elz/view\n\nThe book: https://drive.google.com/file/d/1nOz3zPaBIhA4FxbVtfSB3ba9ltenhTKJ/view"
+    "text": [
+      "The owner shared the 📗 book he had created about tourism in these places with me. Feel free to download it here:",
+      "The cover: https://drive.google.com/file/d/1u1EK7zyfhPjh9SX0n8mx3UZsKMJf5elz/view",
+      "The book: https://drive.google.com/file/d/1nOz3zPaBIhA4FxbVtfSB3ba9ltenhTKJ/view"
+    ]
   }
 ]
