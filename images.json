@@ -1,150 +1,188 @@
 [
   {
+    "path": "naliboki",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1661231296/maxhere/from-brest-to-naliboki-forest-and-back/20210228_100709.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1661231296/maxhere/from-brest-to-naliboki-forest-and-back/20210228_100709.jpg",
+    "description": "Elagma Shale guest house in Naliboki forest"
+  },
+  {
+    "path": "naliboki/intro",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1661231217/maxhere/from-brest-to-naliboki-forest-and-back/from-brest-to-naliboki-forest-and-back.png",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1661231217/maxhere/from-brest-to-naliboki-forest-and-back/from-brest-to-naliboki-forest-and-back.png",
+    "description": "from Brest to Naliboki forest and back",
+    "text": [
+      "Winter is not the best time for traveling, but you can see places underneath with a completely different perspective. So, here is our plan:",
+      "- 🟢 Green marks - nature points",
+      "- 🔵 Blue marks - historical points",
+      "- ⚫ Grey marks - missed points (next time)"
+    ]
+  },
+  {
+    "path": "naliboki/to-naliboki",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1661231217/maxhere/from-brest-to-naliboki-forest-and-back/from-brest-to-naliboki-forest.png",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1661231217/maxhere/from-brest-to-naliboki-forest-and-back/from-brest-to-naliboki-forest.png",
+    "description": "from Brest to Naliboki forest"
+  },
+  {
     "path": "naliboki/to-naliboki/navahrudak",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210227_125545.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210227_125545.jpg",
     "description": "the road to Navahrudak castle ruins",
-    "text": ""
+    "text": "<a href=\"https://en.wikipedia.org/wiki/Novogrudok\" target=\"_blank\">Navahrudak</a> is a cozy town on the hills with 🏰 castle ruins. It is a possible first capital of the <a href=\"https://en.wikipedia.org/wiki/Grand_Duchy_of_Lithuania\" target=\"_blank\">Grand Duchy of Lithuania</a>."
   },
   {
     "path": "naliboki/to-naliboki/navahrudak",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210227_124930.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210227_124930.jpg",
     "description": "Navahrudak castle ruins",
-    "text": ""
+    "text": "The <a href=\"https://en.wikipedia.org/wiki/Navahrudak_Castle\" target=\"_blank\">castle in Navahrudak</a> was one of the key strongholds of the <a href=\"https://en.wikipedia.org/wiki/Grand_Duchy_of_Lithuania\" target=\"_blank\">Grand Duchy of Lithuania</a>."
   },
   {
     "path": "naliboki/to-naliboki/navahrudak",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210227_125144.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210227_125144.jpg",
     "description": "the view from the Navahrudak castle hill to Transfiguration Roman Catholic Church",
-    "text": ""
+    "text": "The ⛪ Roman Catholic Transfiguration Church (1712–23, includes surviving chapels of an older gothic building), where <a href=\"https://en.wikipedia.org/wiki/Adam_Mickiewicz\" target=\"blank\">Adam Mickiewicz</a> was baptised."
   },
   {
     "path": "naliboki/to-naliboki/navahrudak",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210227_124733.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210227_124733.jpg",
     "description": "the view from the Navahrudak castle hill",
-    "text": ""
+    "text": "According to ⛏️ archaeological research conducted in Navahrudak in the 1960s, the settlement on the territory of modern Navahrudak arose at the end of the 10th century, and the fortifications by the middle of the 11th century."
   },
   {
     "path": "naliboki/to-naliboki/lubcha",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210227_133515.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210227_133515.jpg",
     "description": "the Lubcha barbican outside",
-    "text": ""
+    "text": "<a href=\"https://en.wikipedia.org/wiki/Lubcha_Castle\" target=\"_blank\">Lubcha castle</a> was a <a href=\"https://en.wikipedia.org/wiki/Radziwi%C5%82%C5%82_family\" target=\"_blank\">Radziwiłł family</a> residential castle on the left bank of the <a href=\"https://en.wikipedia.org/wiki/Neman\" target=\"_blank\">Neman</a> river at <a href=\"https://en.wikipedia.org/wiki/Lubcha\" target=\"_blank\">Lubcha</a> town."
   },
   {
     "path": "naliboki/to-naliboki/lubcha",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210227_133813.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210227_133813.jpg",
     "description": "the Neman river",
-    "text": ""
+    "text": "The castle was built in 1581 as a fortified residence of <a href=\"https://en.wikipedia.org/wiki/Jan_Kiszka\" target=\"_blank\">Jan Kiszka</a>, a powerful Calvinist magnate. It had timber walls, a single stone tower, and was surrounded by moats on three sides, the fourth side protected by the river."
   },
   {
     "path": "naliboki/to-naliboki/lubcha",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210227_134036.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210227_134036.jpg",
     "description": "the Lubcha barbican inside",
-    "text": ""
+    "text": "Lubcha later passed to <a href=\"https://en.wikipedia.org/wiki/Janusz_Radziwi%C5%82%C5%82_(1612%E2%80%931655)\" target=\"_blank\">Janusz Radziwiłł</a>, who expanded the castle by adding three stone towers."
   },
   {
     "path": "naliboki/to-naliboki/lubcha",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210227_134054.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210227_134054.jpg",
     "description": "the palace was remodeled into a school",
-    "text": ""
+    "text": [
+      "In 1655 it was taken and devastated by the rebellious Cossacks under Ivan Zolotarenko.",
+      "Only the barbican and one other tower were left standing after the Cossack incursion. The deserted estate changed owners several times, remaining untenanted until the mid-19th century, when a Gothic Revival palace was built on the grounds.",
+      "The Lubcha estate suffered much damage during both world wars. The palace was reduced to a shell in 1914 and was remodeled into a 🏫 school building by the Soviets in 1947.",
+      "In the early 21st century, some of the 🧱 castle walls were rebuilt by a team of volunteers."
+    ]
   },
   {
     "path": "naliboki/elagma",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210227_154242.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210227_154242.jpg",
     "description": "a bed under the roof",
-    "text": ""
+    "text": "This cozy place was the final destination. It's a small 4-persons max <a href=\"https://www.airbnb.com/rooms/45323131\" target=\"_blank\">guest house</a> with a beautiful view of the <a href=\"https://en.wikipedia.org/wiki/Naliboki_forest\" target=\"_blank\">Naliboki forest</a>."
   },
   {
     "path": "naliboki/elagma",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210227_154901.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210227_154901.jpg",
     "description": "warm stove",
-    "text": ""
+    "text": "With a warm stove this 🥶 cold winter."
   },
   {
     "path": "naliboki/elagma",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210227_165520.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210227_165520.jpg",
     "description": "Vjendzhanyja prysmaki and Naliboki forest",
-    "text": ""
+    "text": "And 🥓 delicious treats \"Vjendzhanyja prysmaki\" after long way."
   },
   {
     "path": "naliboki/elagma",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210227_195550.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210227_195550.jpg",
     "description": "Playing Love Letter",
-    "text": ""
+    "text": [
+      "Have you tried ale with juniper before? I haven't, until this trip. And it's one of the tastiest ale I have ever tried!",
+      "What can create even better atmosphere? Yes, 🎲 board games."
+    ]
   },
   {
     "path": "naliboki/elagma",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210227_203023.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210227_203023.jpg",
-    "description": "Elagma Shale in the evening",
-    "text": ""
+    "description": "Elagma Shale in the evening"
   },
   {
     "path": "naliboki/elagma",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210228_093342.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210228_093342.jpg",
-    "description": "Draniki, fried potato pancakes - a popular Belarusian dish",
-    "text": ""
+    "description": "Draniki, fried potato pancakes - a popular Belarusian dish"
   },
   {
     "path": "naliboki/elagma",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210228_093352.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210228_093352.jpg",
     "description": "Pancakes and eggs with fried pork rinds",
-    "text": ""
+    "text": "There was an interesting sauce for 🥞 pancakes: sour cream with cinnamon. Tasty!"
+  },
+  {
+    "path": "naliboki/to-brest",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1661231217/maxhere/from-brest-to-naliboki-forest-and-back/from-naliboki-forest-to-brest.png",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1661231217/maxhere/from-brest-to-naliboki-forest-and-back/from-naliboki-forest-to-brest.png",
+    "description": "from Naliboki Forest to Brest"
   },
   {
     "path": "naliboki/to-brest/dzyarzhynskaya",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210228_105331.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210228_105331.jpg",
     "description": "Dzyarzhynskaya hara is 345 meters above the sea level",
-    "text": ""
+    "text": "There is nothing special here. Just ⛰️ <a href=\"https://en.wikipedia.org/wiki/Dzyarzhynskaya_Hara\" target=\"_blank\">the highest point in Belarus</a>. It is 345 meters (1,130 ft) above sea level and is located west of Minsk, near Dzyarzhynsk, in the village Skirmuntava."
   },
   {
     "path": "naliboki/to-brest/mir",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210228_121240.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210228_121240.jpg",
     "description": "Mir castle outside",
-    "text": ""
+    "text": "<a href=\"https://en.wikipedia.org/wiki/Mir_Castle_Complex\" target=\"_blank\">Mir castle</a> probably is one of the two most popular historical places in Belarus."
   },
   {
     "path": "naliboki/to-brest/mir",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210228_121549.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210228_121549.jpg",
     "description": "Mir castle tower",
-    "text": ""
+    "text": "Built at the beginning of the 16th century by a tycoon, the castle became the first private property castle on the lands of Belarus."
   },
   {
     "path": "naliboki/to-brest/mir",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210228_121606.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210228_121606.jpg",
     "description": "Mir castle courtyard",
-    "text": ""
+    "text": [
+      "Since 1568, the castle was owned by the <a href=\"https://en.wikipedia.org/wiki/Radziwi%C5%82%C5%82_family\" target=\"_blank\">Radziwiłł family</a> (until 1828), then the Wittgensteins (until 1891). The last owners of the castle were the princes <a href=\"https://en.wikipedia.org/wiki/Svyatopolk-Mirsky\" target=\"_blank\">Svyatopolk-Mirsky</a> (until 1939), after which, with the advent of the Soviets, the castle became state property.",
+      "Mir castle is the most eastern Gothic building, as well as the largest and only non-cult object of the few surviving examples of the original <a href=\"https://en.wikipedia.org/wiki/Belarusian_Gothic\" target=\"_blank\">Belarusian Gothic</a>."
+    ]
   },
   {
     "path": "naliboki/to-brest/nesvizh",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210228_130402.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210228_130402.jpg",
-    "description": "Nesvizh castle outside the moat",
-    "text": ""
+    "description": "Nesvizh castle outside the moat"
   },
   {
     "path": "naliboki/to-brest/nesvizh",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210228_130813.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210228_130813.jpg",
     "description": "Nesvizh castle courtyard",
-    "text": ""
+    "text": "It was built in the 16th and 17th centuries and maintained by the <a href=\"https://en.wikipedia.org/wiki/Radziwi%C5%82%C5%82_family\" target=\"_blank\">Radziwiłł family</a> until 1939."
   },
   {
     "path": "naliboki/to-brest/hrusauka",
@@ -157,7 +195,10 @@
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210228_144414.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041298/maxhere/from-brest-to-naliboki-forest-and-back/20210228_144414.jpg",
     "description": "the Hrusauka manor rooms",
-    "text": "This estate belonged to the Rejtan family. On 20 August 1742, <a href=\"https://en.wikipedia.org/wiki/Tadeusz_Rejtan\" target=\"_blank\" />Tadeusz Rejtan</a> was born here. Rejtan is remembered for a dramatic gesture he made in September 1773, as a deputy of the <a href=\"https://en.wikipedia.org/wiki/Partition_Sejm\" target=\"_blank\" />Partition Sejm</a>. There, Rejtan tried to prevent the legalization of the first partition of Poland, a scene that has been immortalized in the painting <a href=\"https://en.wikipedia.org/wiki/Rejtan_(painting)\" target=\"_blank\" />Rejtan</a> by <a href=\"https://en.wikipedia.org/wiki/Jan_Matejko\" target=\"_blank\" />Jan Matejko</a>: \"Kill me, do not kill the Fatherland!\"."
+    "text": [
+      "This estate belonged to the Rejtan family. On 20 August 1742, <a href=\"https://en.wikipedia.org/wiki/Tadeusz_Rejtan\" target=\"_blank\">Tadeusz Rejtan</a> was born here. Rejtan is remembered for a dramatic gesture he made in September 1773, as a deputy of the <a href=\"https://en.wikipedia.org/wiki/Partition_Sejm\" target=\"_blank\">Partition Sejm</a>. There, Rejtan tried to prevent the legalization of the first partition of Poland, a scene that has been immortalized in the painting <a href=\"https://en.wikipedia.org/wiki/Rejtan_(painting)\" target=\"_blank\">Rejtan</a> by <a href=\"https://en.wikipedia.org/wiki/Jan_Matejko\" target=\"_blank\">Jan Matejko</a>:",
+      "> Kill me, do not kill the Fatherland!"
+    ]
   },
   {
     "path": "naliboki/to-brest/hrusauka",

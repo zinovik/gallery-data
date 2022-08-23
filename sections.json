@@ -14,7 +14,13 @@
   },
   {
     "title": "Sviciaz lake",
-    "path": "naliboki/to-naliboki/sviciaz"
+    "path": "naliboki/to-naliboki/sviciaz",
+    "text": [
+      "Sviciaz lake was the first nature point during our trip. Don't mix it up with the Ukrainian lake with the same name 250 km south-west.",
+      "This is the beautiful lake in the forest. There are a lot of legends related to this lake. For example, the legend of the origin:",
+      "> In the XIII century the town of Svityaz, ruled by Prince Turan, stood on the site of the lake. During the war with the Russian (Volyn) princes Mindauh called Svityazh's squad to help defend Navahrudak. Turan, obeying his duty, left the city for women, the elderly, and children.",
+      "> When the enemy army approached Svityaz, the inhabitants decided to resist, but not being able to hold the city, they set fire to their houses. At this point, the city collapsed into a lake that formed in its place. All the inhabitants turned into flowers, and the enemies who touched them died. So the inhabitants of Svityaz escaped the shame of captivity."
+    ]
   },
   {
     "title": "Navahrudak",
@@ -26,15 +32,31 @@
   },
   {
     "title": "Hraptovichy palace in Shchorsy",
-    "path": "naliboki/to-naliboki/hraptovichy"
+    "path": "naliboki/to-naliboki/hraptovichy",
+    "text": [
+      "The main attraction of the village of Shchorsy are fragments of an extensive palace complex with a large park and ponds. Most of the buildings that belonged to the palace and park complex in the village of Shchorsy were built in the second half of the 18th and 19th centuries.",
+      "The palace itself, built in 1776, has not survived to this day, only the cellars remained. In addition to the palace itself, in the 19th century there were many different economic, residential and administrative buildings. Many of these secondary buildings have been preserved to some extent to this day.",
+      "Unfortunately, we didn't stop here to take a photo and had a quick look from the road. Probably it's not the best place to visit in ❄️ winter."
+    ]
   },
   {
     "title": "Kroman lake",
-    "path": "naliboki/to-naliboki/kroman"
+    "path": "naliboki/to-naliboki/kroman",
+    "text": [
+      "It was the hardest part of our trip. The unpaved road with snow and mud started. In the beginning, we thought it should be not really long part. Then we couldn't stop to turn the car back. And then we had stuck trying to miss the car of local fishermen, and pushed the car with hands!",
+      "We couldn't go too slowly afraid to stuck again, and couldn't go too fast because there were a lot of water pits under the snow.",
+      "That's why we saw the lake only through the trees and didn't have a stop there.",
+      "But we saw a 🦌 deer here in wildwood!",
+      "And that's why we have to change a route a little bit to go through the <a href=\"https://en.wikipedia.org/wiki/Nalibaki\" target=\"_blank\" />Naliboki agrotown</a>."
+    ]
   },
   {
     "title": "Naliboki agrotown",
-    "path": "naliboki/to-naliboki/naliboki"
+    "path": "naliboki/to-naliboki/naliboki",
+    "text": [
+      "During the times of the Polish–Lithuanian Commonwealth, since 1555 the settlement belonged to the <a href=\"https://en.wikipedia.org/wiki/Radziwi%C5%82%C5%82_family\" target=\"_blank\" />family of the Radziwiłł</a> magnates. Eventually, it has grown into a miasteczko. Since 1722 it was the home of a glass factory founded by <a href=\"https://en.wikipedia.org/wiki/Anna_Radziwi%C5%82%C5%82_(nobility)\" target\"_blank\" />Anna Radziwiłł</a>, closed in 1862.",
+      "After the <a href=\"https://en.wikipedia.org/wiki/Second_Partition_of_Poland\" target=\"_blank\" />Second Partition of Poland</a>, since 1793 it belonged to the Russian Empire. In 1896 it was part of Powiat oszmiański Vilna Governorate, Russian Empire."
+    ]
   },
   {
     "title": "Elagma Shale guest house in Naliboki forest",
@@ -54,7 +76,11 @@
   },
   {
     "title": "Nesvizh castle",
-    "path": "naliboki/to-brest/nesvizh"
+    "path": "naliboki/to-brest/nesvizh",
+    "text": [
+      "<a href=\"https://en.wikipedia.org/wiki/Nesvizh_Castle\" target=\"_blank\">Nesvizh castle</a> is one of the two most popular historical places in Belarus together with <a href=\"https://en.wikipedia.org/wiki/Mir_Castle_Complex\" target=\"_blank\">Mir castle</a>.",
+      "There are a lot of info about it. But in two words the castle is a residential castle of the <a href=\"https://en.wikipedia.org/wiki/Radziwi%C5%82%C5%82_family\" target=\"_blank\">Radziwiłł family</a>."
+    ]
   },
   {
     "title": "Hrusauka manor",
@@ -128,8 +154,8 @@
     "path": "zalessie/bonus",
     "text": [
       "The owner shared the 📗 book he had created about tourism in these places with me. Feel free to download it here:",
-      "The cover: https://drive.google.com/file/d/1u1EK7zyfhPjh9SX0n8mx3UZsKMJf5elz/view",
-      "The book: https://drive.google.com/file/d/1nOz3zPaBIhA4FxbVtfSB3ba9ltenhTKJ/view"
+      "The cover: <a href=\"https://drive.google.com/file/d/1u1EK7zyfhPjh9SX0n8mx3UZsKMJf5elz/view\" target=\"_blank\">https://drive.google.com/file/d/1u1EK7zyfhPjh9SX0n8mx3UZsKMJf5elz/view</a>",
+      "The book: <a href=\"https://drive.google.com/file/d/1nOz3zPaBIhA4FxbVtfSB3ba9ltenhTKJ/view\" target=\"_blank\">https://drive.google.com/file/d/1nOz3zPaBIhA4FxbVtfSB3ba9ltenhTKJ/view</a>"
     ]
   }
 ]
