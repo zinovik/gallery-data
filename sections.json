@@ -1,5 +1,77 @@
 [
   {
+    "title": "🇹🇿 Unguja Zanzibar Tanzania",
+    "path": "zanzibar",
+    "text": "The quarantine Hakuna Matata trip to the Southern Hemisphere in New Year."
+  },
+  {
+    "title": "Intro",
+    "path": "zanzibar/intro",
+    "text": [
+      "**Unguja** is the main 🏝️ island of the Zanzibar archipelago. **Zanzibar** archipelago is an island part of 🇹🇿 Tanzania (Zanzibar city is the only city on the Unguja island). **Tanzania** is a country in 🌍 East Africa. But people use to refer to Unguja island as Zanzibar.",
+      "During the 😷 coronavirus, many countries closed their borders or restricted their visiting, but Tanzania is open, that's why many tourists choose this country to visit.",
+      "If you want to visit Tanzania's mainland (there are some safari tours there) you should be aware of diseases like 🦟 Malaria and Yellow fever.",
+      "But for the island, 🌞 the sun is a more dangerous thing, because it's easy to completely be burnt in hours even if you are mostly in the shadow. The equator is not so far from here."
+    ]
+  },
+  {
+    "title": "Beaches",
+    "path": "zanzibar/beaches",
+    "text": [
+      "Probably the main reason why the majority of tourists want to visit Unguja is 🏖️ the beaches.",
+      "I have visited only three beaches: **Kendwa** (northeast), **Nungwi** (north), and **Paje** (east)."
+    ]
+  },
+  {
+    "title": "Transport",
+    "path": "zanzibar/transport",
+    "text": "But beaches are not the only interesting thing to visit on the island. You can use local transport to go to other places. If you don't want to rent a car or motorbike you cab basically use three types of transport: 🚕 **private taxi**, 🚌 **public bus** and 💨 **dala dala**."
+  },
+  {
+    "title": "Places",
+    "path": "zanzibar/places",
+    "text": [
+      "You can visit other beaches and other interesting points on the island.",
+      "These places usually have local guides to hire. Also, if you don't want to visit it by yourself you can buy a tour. But the tours are usually a combination of the local guide, the transport (a car or a boat) and sometimes some food. Bargain skills are important to buy it at a normal price."
+    ]
+  },
+  {
+    "title": "Stone Town",
+    "path": "zanzibar/stone-town"
+  },
+  {
+    "title": "Food",
+    "path": "zanzibar/food"
+  },
+  {
+    "title": "Bargain",
+    "path": "zanzibar/bargain",
+    "text": [
+      "Every time you spend 💵 money you have to bargain with locals. It's really important for them. It's a kind of traditional way of modern marketing with discounts in the shop. People want not only to buy something, but they also want to feel the benefit. That's why discounts are important nowadays. But the bargain is a kind of a two-side discount. Also, it looks like two side auction with the theater elements.",
+      "To show how it's important I can provide you an example. Somebody offers something for 100 000 tsh (~$45), but he is ready to sell it for 50 000 tsh (~$22.5). If you offer to buy it for 50 000 tsh (~$22.5) in the beginning he will definitely refuse it. But if you offer to buy it for 25 000 tsh (~11.25) and then he decreases his offer price and you increase yours he will be glad to sell it for 50 000 tsh (~$22.5) in the end. So 50 000 tsh (~$22.5) is not a good price for the seller, but 50 000 tsh (~$22.5) **with a bargain** is a good price.",
+      "It's like a game when the seller not only changes the good for the money but interacts with the buyer a lot.",
+      "But it also has another side. If you can't do it well you feel cheated all the time. They start with really big prices and laugh when you offer the real ones, but then decrease theirs. And sometimes there is a situation (for example, they have not many goods) they can 🙅‍♂️ refuse any offers."
+    ]
+  },
+  {
+    "title": "Other",
+    "path": "zanzibar/other",
+    "text": [
+      "It seems the overbooking is a pretty common thing here. We didn't live in a hotel that was booked, because it was busy. And we had to wait for several hours until our hotel will have been replaced with another one. It's not the best feeling where you are in another hemisphere with winter clothes (🌡️ the temperature is +30 °C here), cash in the pockets, with all the baggage but without the place to sleep. But a few days ago we realized it was not only our case here.",
+      "It so unusual to celebrate 🎉 the New Year in a country like this. First of all, the atmosphere - there is no ❄️ snow and 🎄 Christmas trees there. But the more important thing is local people don't actually celebrate it here. So, the holiday you use to consider as global and worldwide is only your holiday here (and other tourists from countries like yours). At this moment you understand how far are you from home.",
+      "If you stayed not in the expensive hotel with all-inclusive you switch between two conditions all the time here:",
+      "1. Everything is so cool, I can't believe it's real.",
+      "2. Why is it happening with me, can anybody stop it?",
+      "This is the place where the 🧱 hotel wall can separate different people having dinner for $1 and $100. It's a place full of contrasts. For example, the island has problems with ⚡ electricity. It can be turned off several times per day, and nobody knows when will it work again. Sometimes it's felt like you are in a pretty wild place. I am not sure is there 🏥 a hospital at all.",
+      "But people are kind and positive and smile all the time. Even when they try to cheaе you) And this is pretty common here (🍹 the drinks become more expensive when you ask for the check because of the \"party time\", the private boat with bigger price can become public, and the change can be forgotten). But when you note it to them they usually fix the problem without any conflicts.",
+      "Also, it's unusual to see African people who are Muslims. I don't know why. Maybe I haven't traveled enough before or not educated enough.",
+      "Anyway, it's interesting not to bring your culture to the place you traveling to, but to dive into the local's life, to eat the local food, to go out of 🛋️ the comfort zone. Traveling is a much more interesting thing than simply resting in another country.",
+      "It's an interesting place. It's easy to find more comfort for this money in other places. But there are many things you can't find elsewhere.",
+      "And it's unbelievable that you can turn on the hot summer anytime in the year. But it has the other side. You have to return to the country without the smiles after all."
+    ]
+  },
+
+  {
     "title": "🏡 From Brest to Naliboki forest and back",
     "path": "naliboki",
     "text": "The last winter weekend south-west Belarus trip."
@@ -54,7 +126,7 @@
     "title": "Naliboki agrotown",
     "path": "naliboki/to-naliboki/naliboki",
     "text": [
-      "During the times of the Polish–Lithuanian Commonwealth, since 1555 the settlement belonged to the <a href=\"https://en.wikipedia.org/wiki/Radziwi%C5%82%C5%82_family\" target=\"_blank\" />family of the Radziwiłł</a> magnates. Eventually, it has grown into a miasteczko. Since 1722 it was the home of a glass factory founded by <a href=\"https://en.wikipedia.org/wiki/Anna_Radziwi%C5%82%C5%82_(nobility)\" target\"_blank\" />Anna Radziwiłł</a>, closed in 1862.",
+      "During the times of the Polish–Lithuanian Commonwealth, since 1555 the settlement belonged to the <a href=\"https://en.wikipedia.org/wiki/Radziwi%C5%82%C5%82_family\" target=\"_blank\" />family of the Radziwiłł</a> magnates. Eventually, it has grown into a miasteczko. Since 1722 it was the home of a glass factory founded by <a href=\"https://en.wikipedia.org/wiki/Anna_Radziwi%C5%82%C5%82_(nobility)\" target\"_blank\">Anna Radziwiłł</a>, closed in 1862.",
       "After the <a href=\"https://en.wikipedia.org/wiki/Second_Partition_of_Poland\" target=\"_blank\" />Second Partition of Poland</a>, since 1793 it belonged to the Russian Empire. In 1896 it was part of Powiat oszmiański Vilna Governorate, Russian Empire."
     ]
   },
@@ -94,6 +166,12 @@
       "This is the last point of our trip - a memorial complex in few kilometers from the Milavidy village, it was a battle during the January Uprising here in 1863.",
       "<a href=\"https://en.wikipedia.org/wiki/January_Uprising\" target=\"_blank\">The January Uprising</a> (the Polish Uprising 1963-1964) was an insurrection against the Russian Empire aimed at the restoration of the Polish–Lithuanian Commonwealth."
     ]
+  },
+
+  {
+    "title": "🇬🇪 Gorgeous and tasty Sakartvelo (Georgia)",
+    "path": "sakartvelo",
+    "text": "A summer trip to a small and underrated country with unique nature, cuisine and culture."
   },
 
   {
@@ -157,5 +235,11 @@
       "The cover: <a href=\"https://drive.google.com/file/d/1u1EK7zyfhPjh9SX0n8mx3UZsKMJf5elz/view\" target=\"_blank\">https://drive.google.com/file/d/1u1EK7zyfhPjh9SX0n8mx3UZsKMJf5elz/view</a>",
       "The book: <a href=\"https://drive.google.com/file/d/1nOz3zPaBIhA4FxbVtfSB3ba9ltenhTKJ/view\" target=\"_blank\">https://drive.google.com/file/d/1nOz3zPaBIhA4FxbVtfSB3ba9ltenhTKJ/view</a>"
     ]
+  },
+
+  {
+    "title": "🇱🇰 All-around Sri Lanka",
+    "path": "sri-lanka",
+    "text": "Postponed by almost 2 years trip to the paradise-like island with amazing nature and traces of old civilization."
   }
 ]

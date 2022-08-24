@@ -1,5 +1,826 @@
 [
   {
+    "path": "zanzibar",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1661313703/maxhere/unguja-zanzibar-tanzania/20201228_182224.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1661313703/maxhere/unguja-zanzibar-tanzania/20201228_182224.jpg",
+    "description": "the view from the Sunseabar Beach Hotel Restaurant in Kendwa",
+    "text": "This is my first 🗺️ traveling post so go easy on me. This is my experience."
+  },
+  {
+    "path": "zanzibar/beaches",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041312/maxhere/unguja-zanzibar-tanzania/20201228_064438.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041312/maxhere/unguja-zanzibar-tanzania/20201228_064438.jpg",
+    "description": "Kendwa beach",
+    "text": "1. **Kendwa** looks like a paradise place from the advertising, the sand there is like white snow and the water is clean and has a nice color. Probably, the best beach."
+  },
+  {
+    "path": "zanzibar/beaches",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041311/maxhere/unguja-zanzibar-tanzania/20201228_091353.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041311/maxhere/unguja-zanzibar-tanzania/20201228_091353.jpg",
+    "description": "Kendwa beach",
+    "text": "The ocean is simply perfect."
+  },
+  {
+    "path": "zanzibar/beaches",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041361/maxhere/unguja-zanzibar-tanzania/20210102_060830.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041361/maxhere/unguja-zanzibar-tanzania/20210102_060830.jpg",
+    "description": "Kendwa beach"
+  },
+  {
+    "path": "zanzibar/beaches",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041298/maxhere/unguja-zanzibar-tanzania/20201226_170245.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041298/maxhere/unguja-zanzibar-tanzania/20201226_170245.jpg",
+    "description": "fishermen in Kendwa",
+    "text": "**Kendwa** is a fishing village, so you can see how the locals bring a big fish every day here."
+  },
+  {
+    "path": "zanzibar/beaches",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041299/maxhere/unguja-zanzibar-tanzania/20201226_180315.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041299/maxhere/unguja-zanzibar-tanzania/20201226_180315.jpg",
+    "description": "local boats in Kendwa"
+  },
+  {
+    "path": "zanzibar/beaches",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041299/maxhere/unguja-zanzibar-tanzania/20201226_180948.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041299/maxhere/unguja-zanzibar-tanzania/20201226_180948.jpg",
+    "description": "strange shaped nets in Kendwa"
+  },
+  {
+    "path": "zanzibar/beaches",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041314/maxhere/unguja-zanzibar-tanzania/20201228_100202.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041314/maxhere/unguja-zanzibar-tanzania/20201228_100202.jpg",
+    "description": "boats in Nungwi",
+    "text": [
+      "2. **Nungwi** is the closest beach to **Kendwa** (you can go there by walk for 40 minutes right on the beach if the water is low). Mostly it looks the same but in the north part, it looks like **Paje**.",
+      "**Nungwi** is a fishing village too, a lot of boats here:"
+    ]
+  },
+  {
+    "path": "zanzibar/beaches",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041318/maxhere/unguja-zanzibar-tanzania/20201228_100633.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041318/maxhere/unguja-zanzibar-tanzania/20201228_100633.jpg",
+    "description": "boats in Nungwi"
+  },
+  {
+    "path": "zanzibar/beaches",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041315/maxhere/unguja-zanzibar-tanzania/20201228_101808.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041315/maxhere/unguja-zanzibar-tanzania/20201228_101808.jpg",
+    "description": "lighthouse in Nungwi",
+    "text": "**Nungwi** situated in the north of the island, there is ⛯ a lighthouse here:"
+  },
+  {
+    "path": "zanzibar/beaches",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041302/maxhere/unguja-zanzibar-tanzania/20201227_102353.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041302/maxhere/unguja-zanzibar-tanzania/20201227_102353.jpg",
+    "description": "Paje beach",
+    "text": "3. **Paje** is the beach in 80-90 km from the first two. I haven't seen it when water is high but when it's low it looks like 🪐 another planet. You have to walk a lot to the water if you want to swim or to kitesurf, but you can taste products of the seaweed farm during the way)."
+  },
+  {
+    "path": "zanzibar/beaches",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041300/maxhere/unguja-zanzibar-tanzania/20201226_181446.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041300/maxhere/unguja-zanzibar-tanzania/20201226_181446.jpg",
+    "description": "seastar in Kendwa",
+    "text": "It's easy to find ⭐ seastars on the beaches:"
+  },
+  {
+    "path": "zanzibar/beaches",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041313/maxhere/unguja-zanzibar-tanzania/20201228_095747.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041313/maxhere/unguja-zanzibar-tanzania/20201228_095747.jpg",
+    "description": "wonderful seastars in Nungwi"
+  },
+  {
+    "path": "zanzibar/beaches",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041313/maxhere/unguja-zanzibar-tanzania/20201228_093025.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041313/maxhere/unguja-zanzibar-tanzania/20201228_093025.jpg",
+    "description": "local cows between Kendwa and Nungwi",
+    "text": [
+      "The local 🐮 cows between **Kendwa** and **Nungwi** rest in shadow while the sun is hot:",
+      "Note, they have a hump like 🐪 camels. This is Africa!"
+    ]
+  },
+  {
+    "path": "zanzibar/transport",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041286/maxhere/unguja-zanzibar-tanzania/20201225_073851.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041286/maxhere/unguja-zanzibar-tanzania/20201225_073851.jpg",
+    "description": "public bus №116",
+    "text": [
+      "1. **Private taxi** is the most expensive and the most boring type of transport. It costs $20 - $50 (depends on your bargain skills) from one to another part of the island. There is usually AC there.",
+      "2. **Public bus** is absolutely ordinary transport. It costs $1 from one to another part of the island. There is usually no AC there and sometimes a lot of people."
+    ]
+  },
+  {
+    "path": "zanzibar/transport",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041302/maxhere/unguja-zanzibar-tanzania/20201225_160442.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041302/maxhere/unguja-zanzibar-tanzania/20201225_160442.jpg",
+    "description": "dala dala №116",
+    "text": [
+      "3. **Dala dala** is the local minibus share taxis. The craziest and the most fun way to explore the island. It's always overcrowded and accelerates to unsafety speeds. Every time you think it's completely full they add more people and baggage there. Some baggage is on the roof but another part is inside. Also, the roof is pretty low so you hit it with your head many times. It's really unforgettable experience.",
+      "Dala dala inside:"
+    ]
+  },
+  {
+    "path": "zanzibar/transport",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041295/maxhere/unguja-zanzibar-tanzania/20201225_162355.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041295/maxhere/unguja-zanzibar-tanzania/20201225_162355.jpg",
+    "description": "dala dala №116",
+    "text": "The conductor here can hang on the back of the car only with his neck, teach Swahili people inside, invite people outside to join the trip, manage free space inside and use his cellphone at the same time! The true multitasking."
+  },
+  {
+    "path": "zanzibar/transport",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041296/maxhere/unguja-zanzibar-tanzania/20201225_164932.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041296/maxhere/unguja-zanzibar-tanzania/20201225_164932.jpg",
+    "description": "dala dala №116",
+    "text": "Dala dala outside:"
+  },
+  {
+    "path": "zanzibar/transport",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041360/maxhere/unguja-zanzibar-tanzania/20210101_145653.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041360/maxhere/unguja-zanzibar-tanzania/20210101_145653.jpg",
+    "description": "dala dala in Stone Town",
+    "text": "Dala dala in **Stone Town**:"
+  },
+  {
+    "path": "zanzibar/transport",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041307/maxhere/unguja-zanzibar-tanzania/20201227_070527.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041307/maxhere/unguja-zanzibar-tanzania/20201227_070527.jpg",
+    "description": "between Nungwi/Kendwa and Stone Town",
+    "text": "There are a bus and dala dala **116** between **Stone Town** and **Nungwi**/**Kendwa** villages."
+  },
+  {
+    "path": "zanzibar/transport",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041302/maxhere/unguja-zanzibar-tanzania/20201227_083127.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041302/maxhere/unguja-zanzibar-tanzania/20201227_083127.jpg",
+    "description": "city bus in Zanzibar city",
+    "text": [
+      "Also you can use city buses in 🌁 **Zanzibar city**, it's really cheap:",
+      "I have added this photo with purpose. This conductor is a really honest man. While others tried to cheat with 💸 the change (sometimes), he had returned everything even the coins, while I tried to give him more money (I didn't know the price)."
+    ]
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041304/maxhere/unguja-zanzibar-tanzania/20201227_131508.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041304/maxhere/unguja-zanzibar-tanzania/20201227_131508.jpg",
+    "description": "Zanzibar Red Colobus in Jozani Chwaka Bay National Park",
+    "text": "🏞️ **Jozani Chwaka Bay National Park** (or **Jozani Forest**) is a nice place to visit on a hot day. It is the only national park in Zanzibar. You can meet 🐒 the Zanzibar red colobus (Piliocolobus kirkii), an endemic monkey species that exists only in Zanzibar."
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041308/maxhere/unguja-zanzibar-tanzania/20201227_131938.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041308/maxhere/unguja-zanzibar-tanzania/20201227_131938.jpg",
+    "description": "Zanzibar Red Colobus in Jozani Chwaka Bay National Park"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041306/maxhere/unguja-zanzibar-tanzania/20201227_132700.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041306/maxhere/unguja-zanzibar-tanzania/20201227_132700.jpg",
+    "description": "ants in Jozani Chwaka Bay National Park",
+    "text": "Our fearless guide with 🐜 the big ants:"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041306/maxhere/unguja-zanzibar-tanzania/20201227_132716.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041306/maxhere/unguja-zanzibar-tanzania/20201227_132716.jpg",
+    "description": "big ants in Jozani Chwaka Bay National Park"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041308/maxhere/unguja-zanzibar-tanzania/20201227_133407.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041308/maxhere/unguja-zanzibar-tanzania/20201227_133407.jpg",
+    "description": "ficus parasitising another tree in Jozani Chwaka Bay National Park"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041309/maxhere/unguja-zanzibar-tanzania/20201227_134616.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041309/maxhere/unguja-zanzibar-tanzania/20201227_134616.jpg",
+    "description": "local 🐛 fauna in Jozani Chwaka Bay National Park"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041317/maxhere/unguja-zanzibar-tanzania/20201227_135633.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041317/maxhere/unguja-zanzibar-tanzania/20201227_135633.jpg",
+    "description": "mahagoni tree in Jozani Chwaka Bay National Park",
+    "text": "🌳 Mahagoni tree (are used to create the furniture, really heavy furniture):"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041313/maxhere/unguja-zanzibar-tanzania/20201227_143005.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041313/maxhere/unguja-zanzibar-tanzania/20201227_143005.jpg",
+    "description": "mangrove forest in Jozani Chwaka Bay National Park",
+    "text": "Also, you can walk through Mangrove forest and plant a tree here ;)"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041330/maxhere/unguja-zanzibar-tanzania/20201231_094832.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041330/maxhere/unguja-zanzibar-tanzania/20201231_094832.jpg",
+    "description": "white cacao on Tangawizi Spice Farm",
+    "text": "**Tangawizi Spice Farm** is a place for tourists. The place where you can know how looks the famous plants and spices used in 🧑‍🍳 cooking, cosmetics, or pharmacy in real nature."
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041331/maxhere/unguja-zanzibar-tanzania/20201231_095113.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041331/maxhere/unguja-zanzibar-tanzania/20201231_095113.jpg",
+    "description": "jackfruit (a really big fruit!) on Tangawizi Spice Farm"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041347/maxhere/unguja-zanzibar-tanzania/20201231_095526.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041347/maxhere/unguja-zanzibar-tanzania/20201231_095526.jpg",
+    "description": "aloe vera on Tangawizi Spice Farm"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041331/maxhere/unguja-zanzibar-tanzania/20201231_095640.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041331/maxhere/unguja-zanzibar-tanzania/20201231_095640.jpg",
+    "description": "red bananas on Tangawizi Spice Farm",
+    "text": "🍌 Red bananas (the interesting fact: all the bananas trees have only one branch and after it bears fruit you can cut the tree down):"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041332/maxhere/unguja-zanzibar-tanzania/20201231_100228.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041332/maxhere/unguja-zanzibar-tanzania/20201231_100228.jpg",
+    "description": "nutmeg on Tangawizi Spice Farm"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041339/maxhere/unguja-zanzibar-tanzania/20201231_100622.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041339/maxhere/unguja-zanzibar-tanzania/20201231_100622.jpg",
+    "description": "red cacao (we drink this one) on Tangawizi Spice Farm"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041333/maxhere/unguja-zanzibar-tanzania/20201231_101211.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041333/maxhere/unguja-zanzibar-tanzania/20201231_101211.jpg",
+    "description": "clove on Tangawizi Spice Farm",
+    "text": "Clove (the king of the local plains, they export it a lot, you need special permission to cut down the tree on the island):"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041334/maxhere/unguja-zanzibar-tanzania/20201231_101251.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041334/maxhere/unguja-zanzibar-tanzania/20201231_101251.jpg",
+    "description": "green orange on Tangawizi Spice Farm",
+    "text": "Green orange (the name sounds really strange in English):"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041351/maxhere/unguja-zanzibar-tanzania/20201231_101520.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041351/maxhere/unguja-zanzibar-tanzania/20201231_101520.jpg",
+    "description": "coffea canephora on Tangawizi Spice Farm",
+    "text": "☕ Coffea canephora (because coffea arabica is more common in the mountains, but there are no mountains on the island):"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041335/maxhere/unguja-zanzibar-tanzania/20201231_102217.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041335/maxhere/unguja-zanzibar-tanzania/20201231_102217.jpg",
+    "description": "cinnamon on Tangawizi Spice Farm",
+    "text": "Cinnamon (it was hard to believe it is just bark, but the smell convinced me):"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041337/maxhere/unguja-zanzibar-tanzania/20201231_102700.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041337/maxhere/unguja-zanzibar-tanzania/20201231_102700.jpg",
+    "description": "cardamom on Tangawizi Spice Farm"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041340/maxhere/unguja-zanzibar-tanzania/20201231_103321.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041340/maxhere/unguja-zanzibar-tanzania/20201231_103321.jpg",
+    "description": "🍍 pineapples on Tangawizi Spice Farm"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041339/maxhere/unguja-zanzibar-tanzania/20201231_104513.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041339/maxhere/unguja-zanzibar-tanzania/20201231_104513.jpg",
+    "description": "ginger on Tangawizi Spice Farm",
+    "text": "Ginger (the name of the farm is ginger in Swahili - **Tangawizi**):"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041341/maxhere/unguja-zanzibar-tanzania/20201231_104918.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041341/maxhere/unguja-zanzibar-tanzania/20201231_104918.jpg",
+    "description": "vanilla on Tangawizi Spice Farm",
+    "text": "Vanilla (the most expensive spice in the world after the saffron):"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041362/maxhere/unguja-zanzibar-tanzania/20201231_105213.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041362/maxhere/unguja-zanzibar-tanzania/20201231_105213.jpg",
+    "description": "black pepper on Tangawizi Spice Farm"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041342/maxhere/unguja-zanzibar-tanzania/20201231_105228.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041342/maxhere/unguja-zanzibar-tanzania/20201231_105228.jpg",
+    "description": "black pepper on Tangawizi Spice Farm"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041349/maxhere/unguja-zanzibar-tanzania/20201231_111325.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041349/maxhere/unguja-zanzibar-tanzania/20201231_111325.jpg",
+    "description": "fruits on Tangawizi Spice Farm",
+    "text": "In the end, you can taste some 🥭 fruits (maybe you haven't try something of it before):"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041345/maxhere/unguja-zanzibar-tanzania/20201231_115430.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041345/maxhere/unguja-zanzibar-tanzania/20201231_115430.jpg",
+    "description": "🦇 bats inside the Mangapwani coral cave",
+    "text": "**Mangapwani Coral Cave** is a large natural cavern with a freshwater pool that was used as a source of 🚰 drinking water for local people and to hold the slaves before the trade. It's dark and slippery and holds many bats inside. Somewhere it's very narrow and you need climbing up in the end."
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041344/maxhere/unguja-zanzibar-tanzania/20201231_115950.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041344/maxhere/unguja-zanzibar-tanzania/20201231_115950.jpg",
+    "description": "lake inside the Mangapwani coral cave"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041346/maxhere/unguja-zanzibar-tanzania/20201231_115957.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041346/maxhere/unguja-zanzibar-tanzania/20201231_115957.jpg",
+    "description": "lake inside the Mangapwani coral cave"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041347/maxhere/unguja-zanzibar-tanzania/20201231_120345.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041347/maxhere/unguja-zanzibar-tanzania/20201231_120345.jpg",
+    "description": "way through the Mangapwani coral cave"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041348/maxhere/unguja-zanzibar-tanzania/20201231_120555.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041348/maxhere/unguja-zanzibar-tanzania/20201231_120555.jpg",
+    "description": "exit from the Mangapwani coral cave",
+    "text": "There were a lot of people who spoke different languages in the dark without the toilet and the future. The slave trade was really popular here. The Zanzibar means the land of the blacks."
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041350/maxhere/unguja-zanzibar-tanzania/20201231_120851.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041350/maxhere/unguja-zanzibar-tanzania/20201231_120851.jpg",
+    "description": "Mangapwani coral cave ℹ️ info stand",
+    "text": "It's interesting that people who accepted Islam stopped being slaves here."
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041333/maxhere/unguja-zanzibar-tanzania/20201229_121600.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041333/maxhere/unguja-zanzibar-tanzania/20201229_121600.jpg",
+    "description": "snorkeling",
+    "text": [
+      "There are many small islands over the Unguja to visit. Some of them are so small that you can visit them only if the water is low, otherwise, it will be under the water. Snorkeling is popular among these islands. But there are some bigger islands to visit.",
+      "**Kwale Island** is famous because of the Baobab Tree - the popular symbol of Africa. Usually, the way here is combined with other small islands, 🤿 snorkeling, the mangrove lagoon, and seafood dinner.",
+      "Snorkeling near the island:"
+    ]
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041319/maxhere/unguja-zanzibar-tanzania/20201229_132504.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041319/maxhere/unguja-zanzibar-tanzania/20201229_132504.jpg",
+    "description": "mangrove lagoon"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041319/maxhere/unguja-zanzibar-tanzania/20201229_145219.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041319/maxhere/unguja-zanzibar-tanzania/20201229_145219.jpg",
+    "description": "baobab",
+    "text": "Baobab (~500 years old, also, did you know the baobab fruit is edible and tasty?):"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041360/maxhere/unguja-zanzibar-tanzania/20210101_163406.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041360/maxhere/unguja-zanzibar-tanzania/20210101_163406.jpg",
+    "description": "baobab in Kendwa",
+    "text": "Also, there are a lot of baobabs on **Unguja**. For example, this beautiful one grows right in **Kendwa** main street:"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041322/maxhere/unguja-zanzibar-tanzania/20201229_135756.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041322/maxhere/unguja-zanzibar-tanzania/20201229_135756.jpg",
+    "description": "🦞 lobster and other seafood"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041327/maxhere/unguja-zanzibar-tanzania/20201230_091922.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041327/maxhere/unguja-zanzibar-tanzania/20201230_091922.jpg",
+    "description": "Changu Island",
+    "text": [
+      "**Changu Island** (aka Prison Island) is the island close to **Stone Town**. You can find the old prison (that was never actually used as a prison) and 🐢 giant tortoises here. The tortoises are really impressive. They look like 🤖 massive robots, move so slowly. In 1919 the British governor of Seychelles sent a gift of four Aldabra giant tortoises to Changuu. More tortoises continue to be brought to the island from other locations for conservation. Visitors are able to observe and to feed the tortoises.",
+      "The simples way to visit Changu Island is 🛥️ the boat from the Stone Town."
+    ]
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041321/maxhere/unguja-zanzibar-tanzania/20201230_092833.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041321/maxhere/unguja-zanzibar-tanzania/20201230_092833.jpg",
+    "description": "cute tortoises on Changu Island"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041322/maxhere/unguja-zanzibar-tanzania/20201230_093008.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041322/maxhere/unguja-zanzibar-tanzania/20201230_093008.jpg",
+    "description": "a lot of tortoises on Changu Island"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041323/maxhere/unguja-zanzibar-tanzania/20201230_095157.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041323/maxhere/unguja-zanzibar-tanzania/20201230_095157.jpg",
+    "description": "the age of the tortoise on Changu Island",
+    "text": "You can check the ages of tortoises on their backs. This one is 132 years old!"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041324/maxhere/unguja-zanzibar-tanzania/20201230_100228.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041324/maxhere/unguja-zanzibar-tanzania/20201230_100228.jpg",
+    "description": "those same 3 turtles"
+  },
+  {
+    "path": "zanzibar/places",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041331/maxhere/unguja-zanzibar-tanzania/20201230_102521.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041331/maxhere/unguja-zanzibar-tanzania/20201230_102521.jpg",
+    "description": "duiker antelope (try to find it)"
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041296/maxhere/unguja-zanzibar-tanzania/20201223_113429.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041296/maxhere/unguja-zanzibar-tanzania/20201223_113429.jpg",
+    "description": "Zanzibar city",
+    "text": [
+      "**Stone Town** is an old part of **Zanzibar city**.",
+      "**Zanzibar city** from ✈️ the plain:"
+    ]
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041310/maxhere/unguja-zanzibar-tanzania/20201227_160953.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041310/maxhere/unguja-zanzibar-tanzania/20201227_160953.jpg",
+    "description": "arabs corner in Stone Town",
+    "text": [
+      "**Stone Town** is a wonderful place. It's an old town in **Zanzibar city**. **Stone town** is a mix of 4 cultures: African, Arabian, Indian, and European. The mix in all the senses - people, architecture, food, etc.",
+      "This is the arabs corner in **Stone Town**. Guess what is under lock on the wall?"
+    ]
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041361/maxhere/unguja-zanzibar-tanzania/20210101_125102.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041361/maxhere/unguja-zanzibar-tanzania/20210101_125102.jpg",
+    "description": "indians in Stone Town",
+    "text": [
+      "This is 📺 TV :). So they drink coffee, play dominoes and watch TV in the evenings. This is a sort of party place.",
+      "The indians live here (🍂 the leaves mean they are celebrating the New Year):"
+    ]
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041328/maxhere/unguja-zanzibar-tanzania/20201230_140604.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041328/maxhere/unguja-zanzibar-tanzania/20201230_140604.jpg",
+    "description": "indian door in Stone Town",
+    "text": "This door idea is from Indian too. But in India thorns were longer and sharper and used to protect from 🐘 elephants. But there are no elephants on the island, so this is the decoration here."
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041303/maxhere/unguja-zanzibar-tanzania/20201227_081806.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041303/maxhere/unguja-zanzibar-tanzania/20201227_081806.jpg",
+    "description": "East Germany building in Stone Town",
+    "text": "But in **Zanzibar city** you can find even DDR-built apartment blocks in Michenzani:"
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041287/maxhere/unguja-zanzibar-tanzania/20201225_080430.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041287/maxhere/unguja-zanzibar-tanzania/20201225_080430.jpg",
+    "description": "Stone Town",
+    "text": "It's interesting to simply 🚶‍♂️ walk here and look around."
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041291/maxhere/unguja-zanzibar-tanzania/20201225_100718.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041291/maxhere/unguja-zanzibar-tanzania/20201225_100718.jpg",
+    "description": "Stone Town"
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041289/maxhere/unguja-zanzibar-tanzania/20201225_101624.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041289/maxhere/unguja-zanzibar-tanzania/20201225_101624.jpg",
+    "description": "Stone Town"
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041329/maxhere/unguja-zanzibar-tanzania/20201230_075522.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041329/maxhere/unguja-zanzibar-tanzania/20201230_075522.jpg",
+    "description": "Stone Town"
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041320/maxhere/unguja-zanzibar-tanzania/20201230_080407.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041320/maxhere/unguja-zanzibar-tanzania/20201230_080407.jpg",
+    "description": "Stone Town"
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041351/maxhere/unguja-zanzibar-tanzania/20210101_081904.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041351/maxhere/unguja-zanzibar-tanzania/20210101_081904.jpg",
+    "description": "Stone Town"
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041353/maxhere/unguja-zanzibar-tanzania/20210101_095737.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041353/maxhere/unguja-zanzibar-tanzania/20210101_095737.jpg",
+    "description": "Stone Town"
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041354/maxhere/unguja-zanzibar-tanzania/20210101_113035.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041354/maxhere/unguja-zanzibar-tanzania/20210101_113035.jpg",
+    "description": "Stone Town"
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041355/maxhere/unguja-zanzibar-tanzania/20210101_121117.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041355/maxhere/unguja-zanzibar-tanzania/20210101_121117.jpg",
+    "description": "Stone Town"
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041358/maxhere/unguja-zanzibar-tanzania/20210101_145549.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041358/maxhere/unguja-zanzibar-tanzania/20210101_145549.jpg",
+    "description": "Stone Town"
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041288/maxhere/unguja-zanzibar-tanzania/20201225_081630.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041288/maxhere/unguja-zanzibar-tanzania/20201225_081630.jpg",
+    "description": "buildings condition in Stone Town",
+    "text": "But be careful - many buildings are in really bad condition."
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041354/maxhere/unguja-zanzibar-tanzania/20210101_095318.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041354/maxhere/unguja-zanzibar-tanzania/20210101_095318.jpg",
+    "description": "buildings condition in Stone Town"
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041293/maxhere/unguja-zanzibar-tanzania/20201225_085918.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041293/maxhere/unguja-zanzibar-tanzania/20201225_085918.jpg",
+    "description": "house of wonders (before) in Stone Town",
+    "text": [
+      "For example, the House of Wonders collapsed and became the \"House of Shame\" at the time when I was walking close to it.",
+      "The House of Wonders (before; maybe the last photo in history before the collapse, also look like the women use their heads to carry things!):"
+    ]
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041294/maxhere/unguja-zanzibar-tanzania/20201225_141441.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041294/maxhere/unguja-zanzibar-tanzania/20201225_141441.jpg",
+    "description": "house of wonders (after, a couple of hours later) in Stone Town"
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041292/maxhere/unguja-zanzibar-tanzania/20201225_122548.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041292/maxhere/unguja-zanzibar-tanzania/20201225_122548.jpg",
+    "description": "house of wonders (after) in Stone Town"
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041294/maxhere/unguja-zanzibar-tanzania/20201225_123015.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041294/maxhere/unguja-zanzibar-tanzania/20201225_123015.jpg",
+    "description": "house of wonders (after) in Stone Town",
+    "text": "It was the largest and tallest building of Stone Town."
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041301/maxhere/unguja-zanzibar-tanzania/20201225_113014.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041301/maxhere/unguja-zanzibar-tanzania/20201225_113014.jpg",
+    "description": "Slavery memorial in Stone Town",
+    "text": [
+      "It's not like the Asian cities or European cities. It has its own style and atmosphere.",
+      "Also, tourists like to visit **Old Slave Market/Anglican Cathedral** in Stone Town."
+    ]
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041291/maxhere/unguja-zanzibar-tanzania/20201225_113338.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041291/maxhere/unguja-zanzibar-tanzania/20201225_113338.jpg",
+    "description": "Anglican Cathedral in Stone Town"
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041310/maxhere/unguja-zanzibar-tanzania/20201227_161305.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041310/maxhere/unguja-zanzibar-tanzania/20201227_161305.jpg",
+    "description": "St. Joseph's Cathedral in Stone Town",
+    "text": "But it's not only the cathedral in **Stone Town** (despite the majority of people here are muslims). This is **St. Joseph's Cathedral**:"
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041356/maxhere/unguja-zanzibar-tanzania/20210101_120138.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041356/maxhere/unguja-zanzibar-tanzania/20210101_120138.jpg",
+    "description": "Darajani Market in Stone Town",
+    "text": "**Darajani Market** is a popular place to visit. It is a pity that the photos do not convey 👃 smells and the number of flies (especially the fish part)."
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041357/maxhere/unguja-zanzibar-tanzania/20210101_115321.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041357/maxhere/unguja-zanzibar-tanzania/20210101_115321.jpg",
+    "description": "spices in Stone Town"
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041327/maxhere/unguja-zanzibar-tanzania/20201230_135517.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041327/maxhere/unguja-zanzibar-tanzania/20201230_135517.jpg",
+    "description": "big fish in Stone Town"
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041326/maxhere/unguja-zanzibar-tanzania/20201230_135556.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041326/maxhere/unguja-zanzibar-tanzania/20201230_135556.jpg",
+    "description": "🐙 Octopus in Stone Town"
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041359/maxhere/unguja-zanzibar-tanzania/20210101_115916.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041359/maxhere/unguja-zanzibar-tanzania/20210101_115916.jpg",
+    "description": "🦑 Squids in Stone Town"
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041299/maxhere/unguja-zanzibar-tanzania/20201225_135636.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041299/maxhere/unguja-zanzibar-tanzania/20201225_135636.jpg",
+    "description": "Stone Town view",
+    "text": "And there are a lot of places to have 🍽️ dinner here (with cool food and/or cool views):"
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041319/maxhere/unguja-zanzibar-tanzania/20201227_162709.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041319/maxhere/unguja-zanzibar-tanzania/20201227_162709.jpg",
+    "description": "Stone Town from the public bus",
+    "text": "Goodbye, **Stone Town**!"
+  },
+  {
+    "path": "zanzibar/stone-town",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041365/maxhere/unguja-zanzibar-tanzania/20210102_131909.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041365/maxhere/unguja-zanzibar-tanzania/20210102_131909.jpg",
+    "description": "Stone Town from the plain"
+  },
+  {
+    "path": "zanzibar/food",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/a_-90/v1610041286/maxhere/unguja-zanzibar-tanzania/20201224_123935.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/a_-90/v1610041286/maxhere/unguja-zanzibar-tanzania/20201224_123935.jpg",
+    "description": "seafood carry - 13 000 tsh (~$5.6) in Cocoa Guest House in Nungwi",
+    "text": "The audience award goes to the seafood carry:"
+  },
+  {
+    "path": "zanzibar/food",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041304/maxhere/unguja-zanzibar-tanzania/20201227_115849.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041304/maxhere/unguja-zanzibar-tanzania/20201227_115849.jpg",
+    "description": "seafood carry - in Rooftop Restaurant in Paje"
+  },
+  {
+    "path": "zanzibar/food",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041353/maxhere/unguja-zanzibar-tanzania/20201231_145510.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041353/maxhere/unguja-zanzibar-tanzania/20201231_145510.jpg",
+    "description": "seafood carry - 15 000 tsh (~$6.5) in Mama Africa in Kendwa"
+  },
+  {
+    "path": "zanzibar/food",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041286/maxhere/unguja-zanzibar-tanzania/20201224_123847.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041286/maxhere/unguja-zanzibar-tanzania/20201224_123847.jpg",
+    "description": "octopus carry - 12 000 tsh (~$5) in Cocoa Guest House in Nungwi",
+    "text": "Also, the octopus carry is really good here too."
+  },
+  {
+    "path": "zanzibar/food",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041310/maxhere/unguja-zanzibar-tanzania/20201227_115839.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041310/maxhere/unguja-zanzibar-tanzania/20201227_115839.jpg",
+    "description": "octopus carry - in Rooftop Restaurant in Paje"
+  },
+  {
+    "path": "zanzibar/food",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041316/maxhere/unguja-zanzibar-tanzania/20201228_130337.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041316/maxhere/unguja-zanzibar-tanzania/20201228_130337.jpg",
+    "description": "grilled octopus - 12 000 tsh (~$5) in Cocoa Guest House in Nungwi",
+    "text": "The octopus can also be grilled here:"
+  },
+  {
+    "path": "zanzibar/food",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041353/maxhere/unguja-zanzibar-tanzania/20201231_210523.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041353/maxhere/unguja-zanzibar-tanzania/20201231_210523.jpg",
+    "description": "grilled octopus - the restaurant on the beach in Kendwa"
+  },
+  {
+    "path": "zanzibar/food",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041362/maxhere/unguja-zanzibar-tanzania/20210101_185111.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041362/maxhere/unguja-zanzibar-tanzania/20210101_185111.jpg",
+    "description": "grilled octopus - in Sunseabar Beach Hotel Restaurant in Kendwa"
+  },
+  {
+    "path": "zanzibar/food",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041358/maxhere/unguja-zanzibar-tanzania/20210101_123606.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041358/maxhere/unguja-zanzibar-tanzania/20210101_123606.jpg",
+    "description": "soup from octopus - 3 000 tsh (~$1.3) in Ma Shaa Allah Cafe in Stone Town",
+    "text": "It's not hard to find even the soup from octopus:"
+  },
+  {
+    "path": "zanzibar/food",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041286/maxhere/unguja-zanzibar-tanzania/20201224_170608.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041286/maxhere/unguja-zanzibar-tanzania/20201224_170608.jpg",
+    "description": "grilled Barracuda Fish - 15 000 tsh (~$6.5) in Fisherman Local Restaurant in Kendwa",
+    "text": "There are a lot of different 🐟 fishes here to taste:"
+  },
+  {
+    "path": "zanzibar/food",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041318/maxhere/unguja-zanzibar-tanzania/20201228_185101.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041318/maxhere/unguja-zanzibar-tanzania/20201228_185101.jpg",
+    "description": "grilled Dorado Fish - in Sunseabar Beach Hotel Restaurant in Kendwa"
+  },
+  {
+    "path": "zanzibar/food",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041325/maxhere/unguja-zanzibar-tanzania/20201230_122802.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041325/maxhere/unguja-zanzibar-tanzania/20201230_122802.jpg",
+    "description": "King Fish - in Lazuli Cafe in **Stone Town**",
+    "text": "King Fish - in Lazuli Cafe in **Stone Town** (the cafe with the best bananas shakes ever, but you have to ⌛ wait for it for an hour):"
+  },
+  {
+    "path": "zanzibar/food",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041350/maxhere/unguja-zanzibar-tanzania/20201231_185309.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041350/maxhere/unguja-zanzibar-tanzania/20201231_185309.jpg",
+    "description": "red Snapper - 15 000 tsh (~$6.5) in Sunseabar Beach Hotel Restaurant in Kendwa"
+  },
+  {
+    "path": "zanzibar/food",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041285/maxhere/unguja-zanzibar-tanzania/20201224_172451.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041285/maxhere/unguja-zanzibar-tanzania/20201224_172451.jpg",
+    "description": "bananas fritters - 7 000 tsh ($3) in Fisherman Local Restaurant in Kendwa",
+    "text": "And some deserts, of course:"
+  },
+  {
+    "path": "zanzibar/food",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041362/maxhere/unguja-zanzibar-tanzania/20210102_062825.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041362/maxhere/unguja-zanzibar-tanzania/20210102_062825.jpg",
+    "description": "local cookies - 6 000 tsh (~$2.6) in Lukmaan Restaurant in Stone Town"
+  },
+  {
+    "path": "zanzibar/food",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041288/maxhere/unguja-zanzibar-tanzania/20201225_082015.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041288/maxhere/unguja-zanzibar-tanzania/20201225_082015.jpg",
+    "description": "streetfood - 3 000 tsh (~$1.3) somewhere in Stone Town",
+    "text": "**Stone Town** has one of the best streetfood in the world. And it's so different!"
+  },
+  {
+    "path": "zanzibar/food",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041290/maxhere/unguja-zanzibar-tanzania/20201225_114840.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041290/maxhere/unguja-zanzibar-tanzania/20201225_114840.jpg",
+    "description": "streetfood - 3 000 tsh (~$1.3) in Lukmaan Restaurant in Stone Town"
+  },
+  {
+    "path": "zanzibar/food",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/a_-90/v1610041367/maxhere/unguja-zanzibar-tanzania/20210101_083622.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/a_-90/v1610041367/maxhere/unguja-zanzibar-tanzania/20210101_083622.jpg",
+    "description": "streetfood desert - 5 000 tsh (~$1.3) somewhere in Stone Town",
+    "text": "And this is the streetfood desert - 5 000 tsh (~$1.3) somewhere in **Stone Town** (also there were some donuts here, but they were too good not to eat it before the photo):"
+  },
+  {
+    "path": "zanzibar/food",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041297/maxhere/unguja-zanzibar-tanzania/20201226_144606.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041297/maxhere/unguja-zanzibar-tanzania/20201226_144606.jpg",
+    "description": "pineapple and bananas - 4 000 tsh ($1.7) in local shop in Kendwa",
+    "text": "And the fruits. The local pineapples are so sweet and juicy. It's impossible to describe how good they are."
+  },
+  {
+    "path": "zanzibar/food",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041329/maxhere/unguja-zanzibar-tanzania/20201231_082838.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041329/maxhere/unguja-zanzibar-tanzania/20201231_082838.jpg",
+    "description": "local 🛒 shop in Kendwa"
+  },
+  {
+    "path": "zanzibar/food",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041339/maxhere/unguja-zanzibar-tanzania/20201230_150817.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041339/maxhere/unguja-zanzibar-tanzania/20201230_150817.jpg",
+    "description": "🍚 biryani with vegetables and beef - 5 000 tsh ($2.2) in Al Jabry Restaurant in Stone Town"
+  },
+  {
+    "path": "zanzibar/food",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/a_-90/v1610041357/maxhere/unguja-zanzibar-tanzania/20210101_121442.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/a_-90/v1610041357/maxhere/unguja-zanzibar-tanzania/20210101_121442.jpg",
+    "description": "biryani with vegetables - 4 000 tsh ($1.7) in Al Jabry Restaurant in Stone Town"
+  },
+  {
+    "path": "zanzibar/other",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041316/maxhere/unguja-zanzibar-tanzania/20201227_111427.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041316/maxhere/unguja-zanzibar-tanzania/20201227_111427.jpg",
+    "description": "view from the in Rooftop Restaurant in Paje",
+    "text": [
+      "I can't omit 🎲 the **board games** on the island. I saw people playing 4 games. The game looks most interesting is <a href=\"https://boardgamegeek.com/boardgame/14186/bao\" target=\"_blank\">Bao</a>. The name itself \"Bao\" is the Swahili word for \"board\" or \"board game\".",
+      "Also, people play <a href=\"https://boardgamegeek.com/boardgame/5072/carrom\" target=\"_blank\">Carrom</a>, <a href=\"https://boardgamegeek.com/boardgame/2394/dominoes\" target=\"_blank\">dominos</a> and <a href=\"https://boardgamegeek.com/boardgame/2083/checkers\" target=\"_blank\">checkers</a> here."
+    ]
+  },
+  {
+    "path": "zanzibar/other",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1610041362/maxhere/unguja-zanzibar-tanzania/20210102_113919.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1610041362/maxhere/unguja-zanzibar-tanzania/20210102_113919.jpg",
+    "description": "airport",
+    "text": [
+      "The island has hakuna matata life pace. Sometimes it looks like the majority of local people can hurry only when they drive Dala dala) The flight from the island was postponed for 1.5 hours during the giant lines.",
+      "It's so unusual to be in such a crowd in coronavirus time. But for the country where around 1.5 million people have HIV/AIDS, where the malaria and tuberculosis are some of the most popular causes of 💀 mortality... Maybe, it's not the biggest problem here."
+    ]
+  },
+
+  {
     "path": "naliboki",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1661231296/maxhere/from-brest-to-naliboki-forest-and-back/20210228_100709.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1661231296/maxhere/from-brest-to-naliboki-forest-and-back/20210228_100709.jpg",
@@ -8,7 +829,6 @@
   {
     "path": "naliboki/intro",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1661231217/maxhere/from-brest-to-naliboki-forest-and-back/from-brest-to-naliboki-forest-and-back.png",
-    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1661231217/maxhere/from-brest-to-naliboki-forest-and-back/from-brest-to-naliboki-forest-and-back.png",
     "description": "from Brest to Naliboki forest and back",
     "text": [
       "Winter is not the best time for traveling, but you can see places underneath with a completely different perspective. So, here is our plan:",
@@ -20,7 +840,6 @@
   {
     "path": "naliboki/to-naliboki",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1661231217/maxhere/from-brest-to-naliboki-forest-and-back/from-brest-to-naliboki-forest.png",
-    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1661231217/maxhere/from-brest-to-naliboki-forest-and-back/from-brest-to-naliboki-forest.png",
     "description": "from Brest to Naliboki forest"
   },
   {
@@ -137,7 +956,6 @@
   {
     "path": "naliboki/to-brest",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1661231217/maxhere/from-brest-to-naliboki-forest-and-back/from-naliboki-forest-to-brest.png",
-    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1661231217/maxhere/from-brest-to-naliboki-forest-and-back/from-naliboki-forest-to-brest.png",
     "description": "from Naliboki Forest to Brest"
   },
   {
@@ -244,6 +1062,14 @@
   },
 
   {
+    "path": "sakartvelo",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1661351521/maxhere/gorgeous-and-tasty-sakartvelo-georgia/20210802_121548.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1661351521/maxhere/gorgeous-and-tasty-sakartvelo-georgia/20210802_121548.jpg",
+    "description": "the view from the Narikala Fortress in Tbilisi",
+    "text": "A summer trip to a small and underrated country with unique nature, cuisine and culture."
+  },
+
+  {
     "path": "zalessie",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1631862368/maxhere/zalessie-owl-house-in-spring-and-autumn/20210424_143342.jpg",
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1631862368/maxhere/zalessie-owl-house-in-spring-and-autumn/20210424_143342.jpg",
@@ -259,14 +1085,12 @@
   {
     "path": "zalessie/transport",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1631862384/maxhere/zalessie-owl-house-in-spring-and-autumn/Screenshot_20210424-151326_Strava.jpg",
-    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1631862384/maxhere/zalessie-owl-house-in-spring-and-autumn/Screenshot_20210424-151326_Strava.jpg",
     "description": "a track from Brest to Zalessie",
     "text": "The great thing the most part of the road is in the **Bielaviežskaja pušča**. It's a forest around and fresh air. This is the track to **Zalessie**:"
   },
   {
     "path": "zalessie/transport",
     "url": "https://res.cloudinary.com/zinovik/image/upload/v1631862385/maxhere/zalessie-owl-house-in-spring-and-autumn/Screenshot_20210425-140612_Strava.jpg",
-    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1631862385/maxhere/zalessie-owl-house-in-spring-and-autumn/Screenshot_20210425-140612_Strava.jpg",
     "description": "a track from Zalessie to Arančycy",
     "text": "About the way back home... It was too 🥶 cold for April and we spent the whole morning watching birds so we decided to go to the closest train station (< 40 km) to get home."
   },
@@ -497,5 +1321,13 @@
     "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1631862377/maxhere/zalessie-owl-house-in-spring-and-autumn/20210424_185341.jpg",
     "description": "Dikoye (Wild) swamp",
     "text": "A nice view of the Dikoye (Wild) swamp - a home for so many birds."
+  },
+
+  {
+    "path": "sri-lanka",
+    "url": "https://res.cloudinary.com/zinovik/image/upload/v1661350932/maxhere/all-around-sri-lanka/20220120_074706.jpg",
+    "urlThumbnail": "https://res.cloudinary.com/zinovik/image/upload/c_scale,h_0.25,w_0.25/v1661350932/maxhere/all-around-sri-lanka/20220120_074706.jpg",
+    "description": "the view of Pidurangala Mountain from the Sigiriya Ancient Rock Fortress",
+    "text": "This trip was planned for early 2020 but then covid-19 happened..."
   }
 ]
