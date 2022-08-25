@@ -173,6 +173,210 @@
     "path": "sakartvelo",
     "text": "A summer trip to a small and underrated country with unique nature, cuisine and culture."
   },
+  {
+    "title": "Intro",
+    "path": "sakartvelo/intro"
+  },
+  {
+    "title": "Batumi",
+    "path": "sakartvelo/batumi"
+  },
+  {
+    "title": "Alphabetic tower",
+    "path": "sakartvelo/batumi/alphabetic-tower"
+  },
+  {
+    "title": "Ali and Nino statue",
+    "path": "sakartvelo/batumi/ali-and-nino"
+  },
+  {
+    "title": "Europe square",
+    "path": "sakartvelo/batumi/europe-square"
+  },
+  {
+    "title": "Neptune fountain",
+    "path": "sakartvelo/batumi/neptune-fountain"
+  },
+  {
+    "title": "Batumi Piazza",
+    "path": "sakartvelo/batumi/batumi-piazza"
+  },
+  {
+    "title": "Astronomical clock",
+    "path": "sakartvelo/batumi/astronomical-clock"
+  },
+  {
+    "title": "Mosque",
+    "path": "sakartvelo/batumi/mosque"
+  },
+  {
+    "title": "Dancing fountains",
+    "path": "sakartvelo/batumi/dancing-fountains"
+  },
+  {
+    "title": "Sea",
+    "path": "sakartvelo/batumi/sea"
+  },
+  {
+    "title": "Botanical garden",
+    "path": "sakartvelo/batumi/botanical-garden"
+  },
+  {
+    "title": "Gonio fortress",
+    "path": "sakartvelo/batumi/gonio"
+  },
+  {
+    "title": "Mirveti waterfall",
+    "path": "sakartvelo/batumi/mirveti"
+  },
+  {
+    "title": "Makhuntseti waterfall",
+    "path": "sakartvelo/batumi/makhuntseti"
+  },
+  {
+    "title": "Mtirala national park",
+    "path": "sakartvelo/batumi/mtirala"
+  },
+  {
+    "title": "Tbilisi",
+    "path": "sakartvelo/tbilisi"
+  },
+  {
+    "title": "Mtkvari river",
+    "path": "sakartvelo/tbilisi/mtkvari"
+  },
+  {
+    "title": "Bridge of Peace",
+    "path": "sakartvelo/tbilisi/bridge-of-peace"
+  },
+  {
+    "title": "Botanical garden",
+    "path": "sakartvelo/tbilisi/botanical-garden"
+  },
+  {
+    "title": "Metekhi St. Virgin Church",
+    "path": "sakartvelo/tbilisi/metekhi"
+  },
+  {
+    "title": "Rezo Gabriadze marionette theater",
+    "path": "sakartvelo/tbilisi/rezo-theater"
+  },
+  {
+    "title": "Anchiskhati Basilica",
+    "path": "sakartvelo/tbilisi/anchiskhati"
+  },
+  {
+    "title": "Rike park",
+    "path": "sakartvelo/tbilisi/rike-park"
+  },
+  {
+    "title": "Mtatsminda park",
+    "path": "sakartvelo/tbilisi/mtatsminda"
+  },
+  {
+    "title": "Leghvtakhevi canyon and waterfall",
+    "path": "sakartvelo/tbilisi/leghvtakhevi"
+  },
+  {
+    "title": "Sulphur baths",
+    "path": "sakartvelo/tbilisi/sulphur-baths"
+  },
+  {
+    "title": "Narikala fortress",
+    "path": "sakartvelo/tbilisi/narikala"
+  },
+  {
+    "title": "Gudauri",
+    "path": "sakartvelo/gudauri"
+  },
+  {
+    "title": "Cable car",
+    "path": "sakartvelo/gudauri/cable-car"
+  },
+  {
+    "title": "Peace monument",
+    "path": "sakartvelo/gudauri/peace-monument"
+  },
+  {
+    "title": "Stepantsminda",
+    "path": "sakartvelo/gudauri/stepantsminda"
+  },
+  {
+    "title": "Kutaisi",
+    "path": "sakartvelo/kutaisi"
+  },
+  {
+    "title": "Martvili canyon",
+    "path": "sakartvelo/kutaisi/martvili"
+  },
+  {
+    "title": "Okatse canyon",
+    "path": "sakartvelo/kutaisi/okatse"
+  },
+  {
+    "title": "Kinchkha waterfall",
+    "path": "sakartvelo/kutaisi/kinchkha"
+  },
+  {
+    "title": "Prometheus cave",
+    "path": "sakartvelo/kutaisi/prometheus"
+  },
+  {
+    "title": "Dogs",
+    "path": "sakartvelo/dogs"
+  },
+  {
+    "title": "Street art",
+    "path": "sakartvelo/street-art"
+  },
+  {
+    "title": "Food",
+    "path": "sakartvelo/food"
+  },
+  {
+    "title": "Cold appetizer",
+    "path": "sakartvelo/food/appetizer"
+  },
+  {
+    "title": "Salads",
+    "path": "sakartvelo/food/salads"
+  },
+  {
+    "title": "Soups",
+    "path": "sakartvelo/food/soups"
+  },
+  {
+    "title": "Breads",
+    "path": "sakartvelo/food/breads"
+  },
+  {
+    "title": "Dairy dishes",
+    "path": "sakartvelo/food/dairy-dishes"
+  },
+  {
+    "title": "Meat",
+    "path": "sakartvelo/food/meat"
+  },
+  {
+    "title": "Chicken",
+    "path": "sakartvelo/food/chicken"
+  },
+  {
+    "title": "Vegetarian",
+    "path": "sakartvelo/food/vegetarian"
+  },
+  {
+    "title": "Fish",
+    "path": "sakartvelo/food/fish"
+  },
+  {
+    "title": "Desserts",
+    "path": "sakartvelo/food/desserts"
+  },
+  {
+    "title": "Wine",
+    "path": "sakartvelo/wine"
+  },
 
   {
     "title": "🦉 Zalessie owl house in spring and autumn",
