@@ -175,11 +175,16 @@
   },
   {
     "title": "Intro",
-    "path": "sakartvelo/intro"
+    "path": "sakartvelo/intro",
+    "text": [
+      "🇬🇪 **Georgia** (locals call it Sakartvelo) is a small country between 🇷🇺 **Russia** on the north, Black sea on the west and 🇹🇷 **Turkey**, 🇦🇲 **Armenia** and 🇦🇿 **Azerbaijan** on the south and south-east.",
+      "🇬🇪 **Georgia** is really rich for the tourists: it has the 🌊 sea, ⛰️ mountains, 🍲 cuisine, and ⛪ culture. Everyone can find something interesting. Also, Georgians are 🍷 hospitable people, so feel yourself welcome guests here."
+    ]
   },
   {
     "title": "Batumi",
-    "path": "sakartvelo/batumi"
+    "path": "sakartvelo/batumi",
+    "text": "**Batumi** is the second-largest city in the country. It's located on the coast of the Black Sea and offers a lot of entertainment for tourists."
   },
   {
     "title": "Alphabetic tower",
@@ -211,19 +216,23 @@
   },
   {
     "title": "Dancing fountains",
-    "path": "sakartvelo/batumi/dancing-fountains"
+    "path": "sakartvelo/batumi/dancing-fountains",
+    "text": "Dancing ⛲ fountains are a real miracle to unite people of all the cultures and ages. All the people here look happy to observe these dances."
   },
   {
     "title": "Sea",
-    "path": "sakartvelo/batumi/sea"
+    "path": "sakartvelo/batumi/sea",
+    "text": "**Batumi** is the city on the coast of the Black Sea. For many people, it's the main attraction here."
   },
   {
     "title": "Botanical garden",
-    "path": "sakartvelo/batumi/botanical-garden"
+    "path": "sakartvelo/batumi/botanical-garden",
+    "text": "The botanical garden is a famous place in **Batumi** to visit. It's not far from the city and it has an amazing collection of plants and 🌲 trees from over the world."
   },
   {
     "title": "Gonio fortress",
-    "path": "sakartvelo/batumi/gonio"
+    "path": "sakartvelo/batumi/gonio",
+    "text": "The next stop is the Gonio fortress. It is located on the other side (south) of the city."
   },
   {
     "title": "Mirveti waterfall",
@@ -239,15 +248,18 @@
   },
   {
     "title": "Tbilisi",
-    "path": "sakartvelo/tbilisi"
+    "path": "sakartvelo/tbilisi",
+    "text": "The next city that is definitely worth visiting is **Tbilisi**. The capital and the biggest city in the country. There is a 5.5h 🚆 train with AC from **Batumi** to Tbilisi."
   },
   {
     "title": "Mtkvari river",
-    "path": "sakartvelo/tbilisi/mtkvari"
+    "path": "sakartvelo/tbilisi/mtkvari",
+    "text": "As always the city has its own river. Its name Kura (the Georgian name of Kura is Mtkvari)."
   },
   {
     "title": "Bridge of Peace",
-    "path": "sakartvelo/tbilisi/bridge-of-peace"
+    "path": "sakartvelo/tbilisi/bridge-of-peace",
+    "text": "The bridge was designed by an Italian architect. It had some criticism because it looks much more modern than the old town."
   },
   {
     "title": "Botanical garden",
@@ -255,7 +267,8 @@
   },
   {
     "title": "Metekhi St. Virgin Church",
-    "path": "sakartvelo/tbilisi/metekhi"
+    "path": "sakartvelo/tbilisi/metekhi",
+    "text": "The Virgin Mary Assumption Church of Metekhi looks beautiful on the cliff by the river."
   },
   {
     "title": "Rezo Gabriadze marionette theater",
@@ -263,27 +276,33 @@
   },
   {
     "title": "Anchiskhati Basilica",
-    "path": "sakartvelo/tbilisi/anchiskhati"
+    "path": "sakartvelo/tbilisi/anchiskhati",
+    "text": "The ⛪ church was built by the King Dachi of Iberia (circa 522-534). It's the oldest surviving church in **Tbilisi**."
   },
   {
     "title": "Rike park",
-    "path": "sakartvelo/tbilisi/rike-park"
+    "path": "sakartvelo/tbilisi/rike-park",
+    "text": "This is the park you can easily get by the Bridge of Peace from the old town."
   },
   {
     "title": "Mtatsminda park",
-    "path": "sakartvelo/tbilisi/mtatsminda"
+    "path": "sakartvelo/tbilisi/mtatsminda",
+    "text": "Mtatsminda park is a nice city park on the top of the ⛰️ mountain with great views of the city."
   },
   {
     "title": "Leghvtakhevi canyon and waterfall",
-    "path": "sakartvelo/tbilisi/leghvtakhevi"
+    "path": "sakartvelo/tbilisi/leghvtakhevi",
+    "text": "How many cities do you know with the canyon and waterfall in the center?"
   },
   {
     "title": "Sulphur baths",
-    "path": "sakartvelo/tbilisi/sulphur-baths"
+    "path": "sakartvelo/tbilisi/sulphur-baths",
+    "text": "But probably the main place in the city is sulphur 🛀 baths. That's the reason the city was founded here."
   },
   {
     "title": "Narikala fortress",
-    "path": "sakartvelo/tbilisi/narikala"
+    "path": "sakartvelo/tbilisi/narikala",
+    "text": "Narikala fortress is an ancient fortress with another great view of the city. You can use a cable car or stairs to visit it."
   },
   {
     "title": "Gudauri",
@@ -295,7 +314,8 @@
   },
   {
     "title": "Peace monument",
-    "path": "sakartvelo/gudauri/peace-monument"
+    "path": "sakartvelo/gudauri/peace-monument",
+    "text": "There is a peace monument not far from **Gudauri**. One more viewpoint to the gorge. It can be found if you go to the ⬆️ North from **Gudauri**."
   },
   {
     "title": "Stepantsminda",
@@ -303,7 +323,8 @@
   },
   {
     "title": "Kutaisi",
-    "path": "sakartvelo/kutaisi"
+    "path": "sakartvelo/kutaisi",
+    "text": "**Kutaisi** is one of the oldest continuously inhabited cities in the world and the third-most populous city in Georgia."
   },
   {
     "title": "Martvili canyon",
@@ -311,7 +332,8 @@
   },
   {
     "title": "Okatse canyon",
-    "path": "sakartvelo/kutaisi/okatse"
+    "path": "sakartvelo/kutaisi/okatse",
+    "text": "Okatse canyon is famous because of the road you must go through to visit it."
   },
   {
     "title": "Kinchkha waterfall",
@@ -319,7 +341,8 @@
   },
   {
     "title": "Prometheus cave",
-    "path": "sakartvelo/kutaisi/prometheus"
+    "path": "sakartvelo/kutaisi/prometheus",
+    "text": "If you read The Lord of the Rings you had to imagine Moria. This cave looks exactly like the imagination."
   },
   {
     "title": "Dogs",
@@ -331,7 +354,8 @@
   },
   {
     "title": "Food",
-    "path": "sakartvelo/food"
+    "path": "sakartvelo/food",
+    "text": "It's time to introduce the Georgian 🍲 cuisine. And it's really a lot of dishes there."
   },
   {
     "title": "Cold appetizer",
@@ -359,11 +383,13 @@
   },
   {
     "title": "Chicken",
-    "path": "sakartvelo/food/chicken"
+    "path": "sakartvelo/food/chicken",
+    "text": "There are several traditional dishes from chicken."
   },
   {
     "title": "Vegetarian",
-    "path": "sakartvelo/food/vegetarian"
+    "path": "sakartvelo/food/vegetarian",
+    "text": "There are also some hot dishes without meat."
   },
   {
     "title": "Fish",
@@ -375,7 +401,17 @@
   },
   {
     "title": "Wine",
-    "path": "sakartvelo/wine"
+    "path": "sakartvelo/wine",
+    "text": "Wine is a very traditional Georgian drink. They are really proud of it."
+  },
+  {
+    "title": "Outro",
+    "path": "sakartvelo/wine",
+    "text": [
+      "An interesting fact that proves one more time the uniqueness of the country: Georgians count not by 10, but by 20: not twenty, thirty, forty, but something like twenty, twenty and ten, two-twenty...",
+      "It's impossible to put all impressions on one page. I have no more space for amazing toasts by <a href=\"https://youtube.com/watch?v=YgAQu8O7gFg\" target=\"_blank\">Vaja Davitadze</a>, for stories about two crazy 🏎️ drivers in Georgia and one in my country on the way home, and much more...",
+      "It was really nice trip, but I haven't been to **Svaneti** yet. Hope to return there one day."
+    ]
   },
 
   {
@@ -445,5 +481,103 @@
     "title": "🇱🇰 All-around Sri Lanka",
     "path": "sri-lanka",
     "text": "Postponed by almost 2 years trip to the paradise-like island with amazing nature and traces of old civilization."
+  },
+  {
+    "title": "Intro",
+    "path": "sri-lanka/intro",
+    "text": "Sri Lanka (formerly known as Ceylon) is a fascinating destination for all kinds of tourists. You can try local cuisine, surfing and hiking, find the traces of old cities or enjoy rich nature with animals variety."
+  },
+  {
+    "title": "Dubai",
+    "path": "sri-lanka/dubai",
+    "text": "Our path included a plane transfer in the United Arab Emirates. Dubai is a pretty modern city in the desert with many interesting places."
+  },
+  {
+    "title": "Hikkaduwa",
+    "path": "sri-lanka/hikkaduwa"
+  },
+  {
+    "title": "Sunsets and the Ocean",
+    "path": "sri-lanka/hikkaduwa/sunsets"
+  },
+  {
+    "title": "Surfing",
+    "path": "sri-lanka/hikkaduwa/surfing"
+  },
+  {
+    "title": "Sri Devol Maha Devalaya",
+    "path": "sri-lanka/hikkaduwa/sri-devol-maha-devalaya"
+  },
+  {
+    "title": "Udawalawe National Park",
+    "path": "sri-lanka/udawalawe"
+  },
+  {
+    "title": "Galle",
+    "path": "sri-lanka/galle"
+  },
+  {
+    "title": "Ella",
+    "path": "sri-lanka/ella"
+  },
+  {
+    "title": "Ella - Nuwara Eliya",
+    "path": "sri-lanka/ella-nuwara-eliya"
+  },
+  {
+    "title": "Nuwara Eliya",
+    "path": "sri-lanka/nuwara-eliya"
+  },
+  {
+    "title": "Damro tea factory",
+    "path": "sri-lanka/nuwara-eliya/damro"
+  },
+  {
+    "title": "Pedro tea factory",
+    "path": "sri-lanka/nuwara-eliya/pedro"
+  },
+  {
+    "title": "Sri Pada (Adam's Peak)",
+    "path": "sri-lanka/sri-pada"
+  },
+  {
+    "title": "Kandy",
+    "path": "sri-lanka/kandy"
+  },
+  {
+    "title": "Sigiriya",
+    "path": "sri-lanka/sigiriya"
+  },
+  {
+    "title": "Polonnaruwa",
+    "path": "sri-lanka/polonnaruwa"
+  },
+  {
+    "title": "Colombo",
+    "path": "sri-lanka/colombo"
+  },
+  {
+    "title": "Yala National Park",
+    "path": "sri-lanka/yala"
+  },
+  {
+    "title": "Animals",
+    "path": "sri-lanka/animals"
+  },
+  {
+    "title": "Transport",
+    "path": "sri-lanka/transport"
+  },
+  {
+    "title": "Food",
+    "path": "sri-lanka/food"
+  },
+  {
+    "title": "Sweets",
+    "path": "sri-lanka/food/sweets"
+  },
+  {
+    "title": "Drinks",
+    "path": "sri-lanka/food/drinks"
   }
 ]
