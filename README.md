@@ -14,11 +14,10 @@ interface SectionInterface {
 ```typescript
 interface ImageInterface {
   path: string;
-  url: string;
-  urlThumbnail?: string;
+  filename: string;
+  thumbnail?: string;
   description?: string;
   text?: string | string[];
-  date?: string;
   order?: number;
 }
 ```
