@@ -494,15 +494,34 @@
   },
   {
     "title": "Hikkaduwa",
-    "path": "sri-lanka/hikkaduwa"
+    "path": "sri-lanka/hikkaduwa",
+    "text": [
+      "But finally, we are in Hikkaduwa. This is a small village by the ocean. A nice place to stay if you like big ocean waves and would like to try yourself surfing.",
+      "There are several interesting things to do in Hikkaduwa: to visit a big turtle spot and the local temple Seenigama Sri Devol Maha Devalaya.",
+      "But the main two sides of Hikkaduwas are relaxation and surfing."
+    ]
   },
   {
     "title": "Sunsets and the Ocean",
-    "path": "sri-lanka/hikkaduwa/sunsets"
+    "path": "sri-lanka/hikkaduwa/sunsets",
+    "text": "Hikkaduwa is situated on the west coast of Sri Lanka so you can meet the fabulous sunsets every evening here. It is impossible to add something to these photos. It's a view definitely worth seeing at least once."
   },
   {
     "title": "Surfing",
-    "path": "sri-lanka/hikkaduwa/surfing"
+    "path": "sri-lanka/hikkaduwa/surfing",
+    "text": [
+      "This is the other side of Hikkaduwa. Narigama beach has a nice spot for surfing even for beginners.",
+      "I am not a successful surfer but let me try to explain how it works. Surfing includes a lot of difficult parts:",
+      "1. Firstly, you need to get to the spot. The waves are pretty big near the bank and try to interfere with you. You go (on this step, it's better to hold the board behind you), then you swim (here, if you see the white wave it's better to leave the board and go down).",
+      "2. On the spot, you have to see the waves for yourself. Some of them are too big, and some of them are too small. The waves are grouped in sets. Probably it's one of the hardest parts - to find your wave. And it takes some time.",
+      "3. Finally, there is a wave. You have to puddle as quickly as possible to the bank on your board. Your legs are starting to go up and your head is going down. And here is a really difficult moment. You have to get up as quickly as possible. Only one jump from lying down to standing on the board. And the board is not stable at that moment, it's moving! The majority of beginners get up too late.",
+      "4. And the final part: your are on the wave. You are cool and happy but you have to remember about your position. If you are too behind you will stop pretty fast and the wave will go ahead without you.",
+      "Go to step 1.",
+      "If something went out of control you feel the how powerful ocean is. Even the small wave looks like tsunami when you are inside and you are absolutely helpless.",
+      "But if everything ok it's a really nice feeling. You are high above the sea and it feels like the board has a powerful motor to drag you forward.",
+      "One more advice: don't try to stay on board as long as possible. If you are losing the speed and the wave it's better to stop to save some strength going back not from the bank",
+      "If you want to tame even a softboard (for beginners) take into account that it will take a lot of time and strength. It requires many days."
+    ]
   },
   {
     "title": "Sri Devol Maha Devalaya",
@@ -510,7 +529,8 @@
   },
   {
     "title": "Udawalawe National Park",
-    "path": "sri-lanka/udawalawe"
+    "path": "sri-lanka/udawalawe",
+    "text": "Udawalawe is an elephant park. It has a lot of animals and birds, awesome trees and view. But the main character here is elephant, it's not a problem to find they here."
   },
   {
     "title": "Galle",
@@ -522,47 +542,67 @@
   },
   {
     "title": "Ella - Nuwara Eliya",
-    "path": "sri-lanka/ella-nuwara-eliya"
+    "path": "sri-lanka/ella-nuwara-eliya",
+    "text": "Our driver went to Nuwara Eliya to meet us but we chose another transport because this train path is one of the most breathtaking in the world."
   },
   {
     "title": "Nuwara Eliya",
-    "path": "sri-lanka/nuwara-eliya"
+    "path": "sri-lanka/nuwara-eliya",
+    "text": "People call this city old England. This is the coldest place on the island I have visited."
   },
   {
     "title": "Damro tea factory",
-    "path": "sri-lanka/nuwara-eliya/damro"
+    "path": "sri-lanka/nuwara-eliya/damro",
+    "text": "As I mentioned the city is famous because of tea plantations and tea factories. It exports tea over the world. And the women on these plantations from the ads from childhood are really here."
   },
   {
     "title": "Pedro tea factory",
-    "path": "sri-lanka/nuwara-eliya/pedro"
+    "path": "sri-lanka/nuwara-eliya/pedro",
+    "text": "Pedro tea factory is another factory to visit. It's interesting to compare everything with the first one. If you have time - why not?"
   },
   {
     "title": "Sri Pada (Adam's Peak)",
-    "path": "sri-lanka/sri-pada"
+    "path": "sri-lanka/sri-pada",
+    "text": "Adam's Peak or Sri Pada is a sacred place on the island. It's not the tallest mountain but it is the most important for locals and tourists. The path to the top is not easy but every Lankan tries to do it at least once in a couple of years."
   },
   {
     "title": "Kandy",
-    "path": "sri-lanka/kandy"
+    "path": "sri-lanka/kandy",
+    "text": "We didn't plan to visit Kandy but there is no other way to our next destination. That's why we decided to make a stop to visit a famous Temple of the Sacred Tooth Relic and to have lunch here. And we didn't regret it."
   },
   {
     "title": "Sigiriya",
-    "path": "sri-lanka/sigiriya"
+    "path": "sri-lanka/sigiriya",
+    "text": [
+      "Probably the most bright point, visiting card of the island, our trip culmination. Sigiriya rock fortress!",
+      "The best decoration for all Indiana Jones movies! You feel like in the movie here. It's hard to believe that this is real and so old."
+    ]
   },
   {
     "title": "Polonnaruwa",
-    "path": "sri-lanka/polonnaruwa"
+    "path": "sri-lanka/polonnaruwa",
+    "text": "The next point is Polonnaruwa. This city is pretty well preserved. There is a museum with uniq exhibits."
   },
   {
     "title": "Colombo",
-    "path": "sri-lanka/colombo"
+    "path": "sri-lanka/colombo",
+    "text": "Time to say goodbye to our driver but our trip is not over yet. Colombo is not the capital but it's the biggest and the most modern city on the island."
   },
   {
     "title": "Yala National Park",
-    "path": "sri-lanka/yala"
+    "path": "sri-lanka/yala",
+    "text": [
+      "We returned to Hikkaduwa then relaxed for some time and decided to make one more one-day trip to the biggest and oldest national park on the island.",
+      "There are a lot of different animals here. Maybe, not so many particularly elephants compared to Udawalawe but it has even better views.",
+      "And the main character here is... the leopard. Every tourist wants to see it and every driver wants to show it.",
+      "The driver wanted to show us the best places, a couple of times I thought that we can roll over.",
+      "My camera didn't have zoom so you have to find the animals in some photos by yourself. But every photo has a description so it should be easier."
+    ]
   },
   {
     "title": "Animals",
-    "path": "sri-lanka/animals"
+    "path": "sri-lanka/animals",
+    "text": "What about the animals in general. They live peacefully everywhere on the island. It looks like a big natural park."
   },
   {
     "title": "Transport",
@@ -579,5 +619,10 @@
   {
     "title": "Drinks",
     "path": "sri-lanka/food/drinks"
+  },
+  {
+    "title": "Outro",
+    "path": "sri-lanka/outro",
+    "text": "Sri Lanka is a paradise-like place with magnificent nature where people and animals still live in peace. It has places for sport and for people who like history. Absolutely an all-around place."
   }
 ]
