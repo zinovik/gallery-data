@@ -9,8 +9,9 @@ const PREFIXES = [
   "gallery/sakartvelo",
   "gallery/zalessie",
   "gallery/sri-lanka",
+  "gallery/board-games",
 ];
-const IMAGES_URL_FILE = "./image-urls-automated.json";
+const IMAGES_URL_FILE = "./image-urls.json";
 
 const AUTHORIZATION = `Basic ${Buffer.from(`${LOGIN}:${PASS}`).toString(
   "base64"
@@ -57,9 +58,10 @@ const getPrefixUrls = async (prefix) => {
   const allUrls = [];
 
   for (i = 0; i < PREFIXES.length; i++) {
-    console.log(`${i + 1} / ${PREFIXES.length}: ${PREFIXES[i]}...`);
+    console.log(`${i + 1} / ${PREFIXES.length}: ${PREFIXES[i]}`);
     const urls = await getPrefixUrls(PREFIXES[i]);
     allUrls.push(...urls);
+    console.log(urls.length);
   }
 
   fs.writeFileSync(IMAGES_URL_FILE, JSON.stringify(allUrls));
