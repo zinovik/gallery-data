@@ -624,5 +624,14 @@
     "title": "Outro",
     "path": "sri-lanka/outro",
     "text": "Sri Lanka is a paradise-like place with magnificent nature where people and animals still live in peace. It has places for sport and for people who like history. Absolutely an all-around place."
+  },
+
+  {
+    "title": "Board Games",
+    "path": "board-games"
+  },
+  {
+    "title": "Unsorted",
+    "path": "board-games/unsorted"
   }
 ]
