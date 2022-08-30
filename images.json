@@ -4024,8 +4024,7 @@
     "path": "sri-lanka/yala",
     "filename": "20220123_140127.jpg",
     "thumbnail": "cloudinary",
-    "description": "the entrance to the Yala National Park",
-    "text": ""
+    "description": "the entrance to the Yala National Park"
   },
   {
     "path": "sri-lanka/yala",
@@ -4699,3195 +4698,2740 @@
   },
 
   {
-    "path": "board-games/unsorted",
-    "filename": "20170909_170322.jpg",
+    "path": "board-games",
+    "filename": "20220514_211704.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": "playing Bitoku (2021)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/7-wonders-architects",
+    "filename": "20220514_164216.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing 7 Wonders: Architects (2021)"
+  },
+  {
+    "path": "board-games/7-wonders-architects",
+    "filename": "20220514_164935.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing 7 Wonders: Architects (2021)"
+  },
+  {
+    "path": "board-games/a-game-of-thrones",
     "filename": "20171015_222954.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": "playing A Game of Thrones: The Board Game (Second Edition) (2011)"
   },
   {
-    "path": "board-games/unsorted",
-    "filename": "20171224_200908.jpg",
+    "path": "board-games/beyond-the-sun",
+    "filename": "20220509_192545.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": "playing Beyond the Sun (2020)"
   },
   {
-    "path": "board-games/unsorted",
-    "filename": "20171230_205330.jpg",
+    "path": "board-games/beyond-the-sun",
+    "filename": "20220509_192557.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": "playing Beyond the Sun (2020)"
   },
   {
-    "path": "board-games/unsorted",
-    "filename": "20180101_154937.jpg",
+    "path": "board-games/bitoku",
+    "filename": "20220514_193857.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": "playing Bitoku (2021)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/bitoku",
+    "filename": "20220514_215300.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Bitoku (2021)"
+  },
+  {
+    "path": "board-games/bitoku",
+    "filename": "20220520_221256.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Bitoku (2021)"
+  },
+  {
+    "path": "board-games/bitoku",
+    "filename": "20220520_221302.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Bitoku (2021)"
+  },
+  {
+    "path": "board-games/canvas",
+    "filename": "20220509_204234.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Canvas (2021)"
+  },
+  {
+    "path": "board-games/canvas",
+    "filename": "20220509_204251.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Canvas (2021)"
+  },
+  {
+    "path": "board-games/catan",
+    "filename": "20220618_191420.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing CATAN (1995)"
+  },
+  {
+    "path": "board-games/citadels",
     "filename": "20180101_200347.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": "playing Citadels (2000)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/concordia",
+    "filename": "20220228_214651.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Concordia (2013) with the Aegyptus / Creta (2017) expansion"
+  },
+  {
+    "path": "board-games/consumption",
+    "filename": "20220227_233611.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Consumption: Food and Choices (2019)"
+  },
+  {
+    "path": "board-games/consumption",
+    "filename": "20220227_233616.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Consumption: Food and Choices (2019)"
+  },
+  {
+    "path": "board-games/consumption",
+    "filename": "20220227_233627.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Consumption: Food and Choices (2019)"
+  },
+  {
+    "path": "board-games/dark-tales",
+    "filename": "20220319_192345.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Dark Tales (2014)"
+  },
+  {
+    "path": "board-games/five-tribes",
+    "filename": "20220320_175926.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Five Tribes (2014) with the The Artisans of Naqala (2015) and Whims of the Sultan (2017) expansions"
+  },
+  {
+    "path": "board-games/furnace",
+    "filename": "20220319_182656.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Furnace (2020)"
+  },
+  {
+    "path": "board-games/glen-more-ii",
+    "filename": "20220514_234926.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Glen More II: Chronicles (2019)"
+  },
+  {
+    "path": "board-games/go",
+    "filename": "20170909_170322.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Go (-2200)"
+  },
+  {
+    "path": "board-games/inis",
+    "filename": "20220625_200507.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Inis (2016)"
+  },
+  {
+    "path": "board-games/kanagawa",
+    "filename": "20220519_193557.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Kanagawa (2016)"
+  },
+  {
+    "path": "board-games/king-of-12",
+    "filename": "20220517_225934.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing King of 12 (2020)"
+  },
+  {
+    "path": "board-games/libertalia",
+    "filename": "20220625_210722.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Libertalia: Winds of Galecrest (2022)"
+  },
+  {
+    "path": "board-games/mansions-of-madness",
+    "filename": "20220513_223054.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Mansions of Madness: Second Edition (2016) with Horrific Journeys: Expansion (2018)"
+  },
+  {
+    "path": "board-games/mansions-of-madness",
+    "filename": "20220513_232108.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Mansions of Madness: Second Edition (2016) with Horrific Journeys: Expansion (2018)"
+  },
+  {
+    "path": "board-games/mansions-of-madness",
+    "filename": "20220513_232517.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Mansions of Madness: Second Edition (2016) with Horrific Journeys: Expansion (2018)"
+  },
+  {
+    "path": "board-games/memoir-44",
     "filename": "20180224_210603.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": "playing Memoir '44 (2004)"
   },
+  {
+    "path": "board-games/mississippi-queen",
+    "filename": "20220301_201101.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Mississippi Queen (1997)"
+  },
+  {
+    "path": "board-games/nexus-ops",
+    "filename": "20171224_200908.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Nexus Ops (2005)"
+  },
+  {
+    "path": "board-games/elves-vs-orcs",
+    "filename": "20180101_154937.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Pocket Battles: Elves vs. Orcs (2010)"
+  },
+  {
+    "path": "board-games/praga",
+    "filename": "20220511_215601.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Praga Caput Regni (2020)"
+  },
+  {
+    "path": "board-games/smash-up",
+    "filename": "20220319_172947.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Smash Up (2012)"
+  },
+  {
+    "path": "board-games/star-realms",
+    "filename": "20171230_205330.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Star Realms (2014)"
+  },
+  {
+    "path": "board-games/tokaido",
+    "filename": "20220508_210706.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Tokaido (2012) with the Crossroads (2013) expansion"
+  },
+  {
+    "path": "board-games/tokaido",
+    "filename": "20220508_210722.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Tokaido (2012) with the Crossroads (2013) expansion"
+  },
+  {
+    "path": "board-games/three-sisters",
+    "filename": "20220509_221349.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Three Sisters (2022)"
+  },
+  {
+    "path": "board-games/jurassic-park",
+    "filename": "20220319_161537.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Unmatched: Jurassic Park – InGen vs Raptors (2020)"
+  },
+  {
+    "path": "board-games/jurassic-park",
+    "filename": "20220319_162127.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Unmatched: Jurassic Park – InGen vs Raptors (2020)"
+  },
+  {
+    "path": "board-games/via-magica",
+    "filename": "20220517_191721.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Via Magica (2020)"
+  },
+  {
+    "path": "board-games/xia",
+    "filename": "20220510_224034.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Xia: Legends of a Drift System (2014)"
+  },
+  {
+    "path": "board-games/unsxiaorted",
+    "filename": "20220510_224725.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Xia: Legends of a Drift System (2014)"
+  },
+  {
+    "path": "board-games/xia",
+    "filename": "20220510_224731.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Xia: Legends of a Drift System (2014)"
+  },
+
   {
     "path": "board-games/unsorted",
     "filename": "20180301_222844.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20180414_230828.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20180819_161924.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20180819_173856.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20180825_225718.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20180908_203532.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20181104_184705.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20190426_224734.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20190823_214420.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20191116_231312.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20191116_231313.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20191213_195901.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20191213_202636.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20191213_205145.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20191214_195524.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20191228_204403.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20191228_204423.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20191228_204442.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200101_015130.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200118_194109.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200119_002022.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200119_004121.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200124_232218.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200201_222844.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200201_222929.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200222_235542.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200229_210259.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200229_231648.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200321_175426.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200321_195216.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200322_005426.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200403_232107.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200424_182150.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200509_214826.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200509_215035.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200511_213903.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200511_213923.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200515_213316.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200515_220854.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200515_220931.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200516_184912.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200519_001113.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200519_001139.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200519_224141.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200519_224154.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200524_134740.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200524_220729.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200528_005430.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200528_005759.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200529_231731.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200605_223213.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200613_002237.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200616_202658.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200616_205231.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200616_233114.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200616_233125.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200620_225323.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200620_225441.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200705_112117.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200707_213348.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200707_232347.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200707_233604.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200721_214347.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200721_214354.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200724_214844.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200725_181633.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200725_210515.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200726_002136.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200727_232018.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200729_224938.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200804_210611.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200811_212120.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200811_231351.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200813_222135.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200813_222217.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200815_170059.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200815_211415.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200815_211439.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200815_234922.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200816_215343.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200822_190817.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200825_130126.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200825_225026.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200829_170130.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200829_172920.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200829_201949.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200926_175740.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200926_190854.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200926_193056.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200926_200204.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200926_203401.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200926_212251.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200926_212644.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200926_212706.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20200927_012317.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201001_201119.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201002_232222.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201003_165358.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201003_195023.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201003_235016.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201004_011432.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201008_222556.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201017_191118.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201017_224321.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201018_030442.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201018_030601.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201020_223539.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201020_223900.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201020_231456.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201020_231727.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201025_232713.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201107_120820.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201114_181030.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201114_181059.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201115_015428.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201115_025814.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201121_194012.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201121_221114.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201121_222813.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201121_230807.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201121_231035.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201122_002642.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201125_191517.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201129_185831.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201129_195104.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201129_195134.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201206_154921.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201206_162122.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201206_170750.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201206_170808.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201213_221542.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201213_221619.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20201215_223936.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210112_220558.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210116_173717.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210116_180705.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210116_213431.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210117_010032.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210121_231425.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210123_180443.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210123_184404.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210123_185058.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210123_200222.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210123_203730.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210123_213008.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210123_220428.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210128_111713.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210128_233606.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210128_233724.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210130_202503.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210130_202516.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210130_223333.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210130_223348.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210131_000800.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210206_175341.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210206_210205.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210206_220847.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210213_165714.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210213_180553.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210213_195949.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210213_195955.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210213_200012.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210213_215041.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210213_215048.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210214_001255.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210214_001301.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210214_185611.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210214_222110.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210216_211438.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210216_211620.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210216_225417.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210216_225434.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210221_220754.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210221_220804.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210221_220843.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210323_194906.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210323_222641.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210330_222705.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210403_170837.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210403_191403.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210403_230641.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210403_230702.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210410_205348.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210410_205437.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210423_231754.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210425_231014.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210427_224656.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210511_213435.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210511_213445.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210515_184739.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210515_200431.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210515_200445.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210515_200503.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210515_220745.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210515_220825.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210515_220842.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210515_230554.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210515_230625.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210515_230641.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210522_173441.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210522_173501.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210522_204134.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210522_205507.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210522_205529.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210522_205548.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210522_224217.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210522_231626.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210529_175049.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210529_190150.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210529_220027.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210529_220701.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210605_172538.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210605_181709.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210605_202321.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210605_202336.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210605_212605.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210605_212616.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210606_004928.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210624_100955.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210624_215148.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210626_210342.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210626_210347.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210626_210420.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210626_210554.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210626_230402.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210626_235132.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210703_175345.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210703_180637.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210703_180643.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210703_212111.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210703_224948.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210703_234142.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210704_001121.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210710_192433.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210710_192448.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210710_204449.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210710_205057.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210710_225801.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210712_233804.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210712_233828.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210713_210351.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210713_210404.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210713_212423.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210713_212454.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210713_212705.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210713_222253.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210715_220557.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210715_220618.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210717_165536.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210717_165734.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210717_182801.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210717_193906.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210717_215642.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210717_222923.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210717_235641.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210718_003637.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210718_003900.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210814_172200.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210823_233230.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210824_222853.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210918_164532.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210918_220213.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210918_225055.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210921_204454.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210921_220813.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210921_220943.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210921_233151.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210921_235439.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20210923_212820.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211002_192357.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211002_194359.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211002_214754.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211002_235512.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211002_235532.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211003_000826.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211003_173520.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211003_181653.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211005_210602.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211005_210730.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211005_223857.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211005_231807.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211006_222106.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211009_163629.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211009_171225.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211009_174135.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211009_180029.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211009_194742.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211009_202145.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211009_214021.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211010_183656.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211010_183725.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211016_142757.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211016_142857.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211016_222319.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211016_222346.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211023_192852.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211023_192935.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211023_193104.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211023_205955.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211023_225145.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211023_225213.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211023_234838.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211024_002245.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211024_185738.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211024_185803.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211026_202734.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211026_211525.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211026_211556.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211026_230244.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211026_231242.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211028_211640.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211030_182555.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211030_182605.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211030_182619.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211030_223035.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211030_224241.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211031_015304.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211101_223658.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211106_163801.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211106_165352.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211106_190344.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211106_195713.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211106_214428.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211106_214459.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211107_011148.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211107_155611.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211107_155617.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211107_201854.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211107_201919.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211109_232442.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211110_221553.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211110_221602.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211115_223834.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211115_223932.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211116_214127.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211116_214153.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211116_220601.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211120_175655.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211120_184309.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211120_205437.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211120_221017.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211120_224635.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211120_235330.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211121_001043.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211127_173020.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211127_195557.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211128_004732.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211128_183518.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211128_193147.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211128_193226.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211128_224303.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211201_225008.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211201_225028.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211204_153928.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211204_153940.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211205_195838.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211205_195914.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211205_231341.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211205_231402.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211206_223823.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211206_223838.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211207_203055.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211207_203825.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211207_235213.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211214_194021.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211214_194045.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211214_200611.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211218_201122.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211218_201542.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211218_230915.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211219_001146.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211221_200224.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211221_200836.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211221_200922.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211221_211131.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211221_225503.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211225_191956.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211225_223006.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211225_223016.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211226_001806.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20211231_213015.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220101_105847.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220101_214221.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220101_214253.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220109_185031.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220109_185048.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220129_182342.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220129_182358.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220129_195932.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220129_205357.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220129_211509.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220129_234555.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220130_132319.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220201_215835.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220201_232048.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220201_232057.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220204_191709.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220205_165040.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220207_205058.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220215_202439.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220215_202612.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220215_214228.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220215_214305.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220222_220146.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220222_220218.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220222_221752.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220223_230930.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220223_231029.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220225_204236.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/unsorted",
     "filename": "20220225_211534.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220227_233611.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220227_233616.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220227_233627.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220228_214651.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220301_201101.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220319_161537.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220319_162127.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220319_172947.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220319_182656.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220319_192345.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220320_175926.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220508_210706.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220508_210722.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220509_192545.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220509_192557.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220509_204234.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220509_204251.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220509_221349.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220510_224034.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220510_224725.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220510_224731.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220511_215601.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220513_223054.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220513_232108.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220513_232517.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220514_164216.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220514_164935.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220514_193857.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220514_211704.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220514_215300.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220514_234926.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220517_191721.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220517_225934.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220519_193557.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220520_221256.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220520_221302.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220618_191420.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220625_200507.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "board-games/unsorted",
-    "filename": "20220625_210722.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   }
 ]

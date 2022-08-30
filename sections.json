@@ -627,11 +627,137 @@
   },
 
   {
-    "title": "Board Games",
-    "path": "board-games"
+    "title": "🎲 Board Games",
+    "path": "board-games",
+    "text": "Some board games I've played"
   },
   {
-    "title": "Unsorted",
+    "title": "7 Wonders: Architects (2021)",
+    "path": "board-games/7-wonders-architects"
+  },
+  {
+    "title": "A Game of Thrones: The Board Game (Second Edition) (2011)",
+    "path": "board-games/a-game-of-thrones"
+  },
+  {
+    "title": "Beyond the Sun (2020)",
+    "path": "board-games/beyond-the-sun"
+  },
+  {
+    "title": "Bitoku (2021)",
+    "path": "board-games/bitoku"
+  },
+  {
+    "title": "Canvas (2021)",
+    "path": "board-games/canvas"
+  },
+  {
+    "title": "CATAN (1995)",
+    "path": "board-games/catan"
+  },
+  {
+    "title": "Citadels (2000)",
+    "path": "board-games/citadels"
+  },
+  {
+    "title": "Concordia (2013)",
+    "path": "board-games/concordia"
+  },
+  {
+    "title": "Consumption: Food and Choices (2019)",
+    "path": "board-games/consumption"
+  },
+  {
+    "title": "Dark Tales (2014)",
+    "path": "board-games/dark-tales"
+  },
+  {
+    "title": "Five Tribes (2014)",
+    "path": "board-games/five-tribes"
+  },
+  {
+    "title": "Furnace (2020)",
+    "path": "board-games/furnace"
+  },
+  {
+    "title": "Glen More II: Chronicles (2019)",
+    "path": "board-games/glen-more-ii"
+  },
+  {
+    "title": "Go (-2200)",
+    "path": "board-games/go"
+  },
+  {
+    "title": "Inis (2016)",
+    "path": "board-games/inis"
+  },
+  {
+    "title": "Kanagawa (2016)",
+    "path": "board-games/kanagawa"
+  },
+  {
+    "title": "King of 12 (2020)",
+    "path": "board-games/king-of-12"
+  },
+  {
+    "title": "Libertalia: Winds of Galecrest (2022)",
+    "path": "board-games/libertalia"
+  },
+  {
+    "title": "Mansions of Madness: Second Edition (2016)",
+    "path": "board-games/mansions-of-madness"
+  },
+  {
+    "title": "Memoir '44 (2004)",
+    "path": "board-games/memoir-44"
+  },
+  {
+    "title": "Mississippi Queen (1997)",
+    "path": "board-games/mississippi-queen"
+  },
+  {
+    "title": "Nexus Ops (2005)",
+    "path": "board-games/nexus-ops"
+  },
+  {
+    "title": "Pocket Battles: Elves vs. Orcs (2010)",
+    "path": "board-games/elves-vs-orcs"
+  },
+  {
+    "title": "Praga Caput Regni (2020)",
+    "path": "board-games/praga"
+  },
+  {
+    "title": "Smash Up (2012)",
+    "path": "board-games/smash-up"
+  },
+  {
+    "title": "Star Realms (2014)",
+    "path": "board-games/star-realms"
+  },
+  {
+    "title": "Tokaido (2012)",
+    "path": "board-games/tokaido"
+  },
+  {
+    "title": "Three Sisters (2022)",
+    "path": "board-games/three-sisters"
+  },
+  {
+    "title": "Unmatched: Jurassic Park – InGen vs Raptors (2020)",
+    "path": "board-games/jurassic-park"
+  },
+  {
+    "title": "Via Magica (2020)",
+    "path": "board-games/via-magica"
+  },
+  {
+    "title": "Xia: Legends of a Drift System (2014)",
+    "path": "board-games/xia"
+  },
+
+  {
+    "title": "unsorted",
     "path": "board-games/unsorted"
   }
 ]

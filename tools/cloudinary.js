@@ -13,7 +13,7 @@ const PREFIXES = [
 ];
 const IMAGES_URL_FILE = "./image-urls.json";
 
-const AUTHORIZATION = `Basic ${Buffer.from(`${LOGIN}:${PASS}`).toString(
+const Authorization = `Basic ${Buffer.from(`${LOGIN}:${PASS}`).toString(
   "base64"
 )}`;
 
@@ -25,7 +25,7 @@ const getCloudinaryUrl = (prefix, isVideo = false) =>
 const request = (url) =>
   new Promise((resolve, reject) => {
     https
-      .get(url, { headers: { Authorization: AUTHORIZATION } }, (res) => {
+      .get(url, { headers: { Authorization } }, (res) => {
         const data = [];
         res.on("data", (chunk) => data.push(chunk));
         res.on("end", () =>
@@ -55,14 +55,15 @@ const getPrefixUrls = async (prefix) => {
 };
 
 (async () => {
-  const allUrls = [];
+  const urls = await Promise.all(
+    PREFIXES.map((prefix) => getPrefixUrls(prefix))
+  );
 
-  for (i = 0; i < PREFIXES.length; i++) {
-    console.log(`${i + 1} / ${PREFIXES.length}: ${PREFIXES[i]}`);
-    const urls = await getPrefixUrls(PREFIXES[i]);
-    allUrls.push(...urls);
-    console.log(urls.length);
-  }
+  PREFIXES.forEach((prefix, index) =>
+    console.log(`${prefix}: ${urls[index].length}`)
+  );
+
+  const allUrls = urls.reduce((acc, prefixUrls) => [...acc, ...prefixUrls], []);
 
   fs.writeFileSync(IMAGES_URL_FILE, JSON.stringify(allUrls));
   console.log(allUrls.length);
