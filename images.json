@@ -4698,22 +4698,10 @@
   },
 
   {
-    "path": "board-games",
-    "filename": "20220514_211704.jpg",
+    "path": "board-games/go",
+    "filename": "20170909_170322.jpg",
     "thumbnail": "cloudinary",
-    "description": "playing Bitoku (2021)"
-  },
-  {
-    "path": "board-games/7-wonders-architects",
-    "filename": "20220514_164216.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing 7 Wonders: Architects (2021)"
-  },
-  {
-    "path": "board-games/7-wonders-architects",
-    "filename": "20220514_164935.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing 7 Wonders: Architects (2021)"
+    "description": "playing Go (-2200)"
   },
   {
     "path": "board-games/a-game-of-thrones",
@@ -4722,196 +4710,10 @@
     "description": "playing A Game of Thrones: The Board Game (Second Edition) (2011)"
   },
   {
-    "path": "board-games/beyond-the-sun",
-    "filename": "20220509_192545.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Beyond the Sun (2020)"
-  },
-  {
-    "path": "board-games/beyond-the-sun",
-    "filename": "20220509_192557.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Beyond the Sun (2020)"
-  },
-  {
-    "path": "board-games/bitoku",
-    "filename": "20220514_193857.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Bitoku (2021)"
-  },
-  {
-    "path": "board-games/bitoku",
-    "filename": "20220514_215300.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Bitoku (2021)"
-  },
-  {
-    "path": "board-games/bitoku",
-    "filename": "20220520_221256.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Bitoku (2021)"
-  },
-  {
-    "path": "board-games/bitoku",
-    "filename": "20220520_221302.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Bitoku (2021)"
-  },
-  {
-    "path": "board-games/canvas",
-    "filename": "20220509_204234.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Canvas (2021)"
-  },
-  {
-    "path": "board-games/canvas",
-    "filename": "20220509_204251.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Canvas (2021)"
-  },
-  {
-    "path": "board-games/catan",
-    "filename": "20220618_191420.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing CATAN (1995)"
-  },
-  {
-    "path": "board-games/citadels",
-    "filename": "20180101_200347.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Citadels (2000)"
-  },
-  {
-    "path": "board-games/concordia",
-    "filename": "20220228_214651.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Concordia (2013) with the Aegyptus / Creta (2017) expansion"
-  },
-  {
-    "path": "board-games/consumption",
-    "filename": "20220227_233611.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Consumption: Food and Choices (2019)"
-  },
-  {
-    "path": "board-games/consumption",
-    "filename": "20220227_233616.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Consumption: Food and Choices (2019)"
-  },
-  {
-    "path": "board-games/consumption",
-    "filename": "20220227_233627.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Consumption: Food and Choices (2019)"
-  },
-  {
-    "path": "board-games/dark-tales",
-    "filename": "20220319_192345.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Dark Tales (2014)"
-  },
-  {
-    "path": "board-games/five-tribes",
-    "filename": "20220320_175926.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Five Tribes (2014) with the The Artisans of Naqala (2015) and Whims of the Sultan (2017) expansions"
-  },
-  {
-    "path": "board-games/furnace",
-    "filename": "20220319_182656.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Furnace (2020)"
-  },
-  {
-    "path": "board-games/glen-more-ii",
-    "filename": "20220514_234926.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Glen More II: Chronicles (2019)"
-  },
-  {
-    "path": "board-games/go",
-    "filename": "20170909_170322.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Go (-2200)"
-  },
-  {
-    "path": "board-games/inis",
-    "filename": "20220625_200507.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Inis (2016)"
-  },
-  {
-    "path": "board-games/kanagawa",
-    "filename": "20220519_193557.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Kanagawa (2016)"
-  },
-  {
-    "path": "board-games/king-of-12",
-    "filename": "20220517_225934.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing King of 12 (2020)"
-  },
-  {
-    "path": "board-games/libertalia",
-    "filename": "20220625_210722.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Libertalia: Winds of Galecrest (2022)"
-  },
-  {
-    "path": "board-games/mansions-of-madness",
-    "filename": "20220513_223054.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Mansions of Madness: Second Edition (2016) with Horrific Journeys: Expansion (2018)"
-  },
-  {
-    "path": "board-games/mansions-of-madness",
-    "filename": "20220513_232108.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Mansions of Madness: Second Edition (2016) with Horrific Journeys: Expansion (2018)"
-  },
-  {
-    "path": "board-games/mansions-of-madness",
-    "filename": "20220513_232517.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Mansions of Madness: Second Edition (2016) with Horrific Journeys: Expansion (2018)"
-  },
-  {
-    "path": "board-games/memoir-44",
-    "filename": "20180224_210603.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Memoir '44 (2004)"
-  },
-  {
-    "path": "board-games/mississippi-queen",
-    "filename": "20220301_201101.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Mississippi Queen (1997)"
-  },
-  {
     "path": "board-games/nexus-ops",
     "filename": "20171224_200908.jpg",
     "thumbnail": "cloudinary",
     "description": "playing Nexus Ops (2005)"
-  },
-  {
-    "path": "board-games/elves-vs-orcs",
-    "filename": "20180101_154937.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Pocket Battles: Elves vs. Orcs (2010)"
-  },
-  {
-    "path": "board-games/praga",
-    "filename": "20220511_215601.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Praga Caput Regni (2020)"
-  },
-  {
-    "path": "board-games/smash-up",
-    "filename": "20220319_172947.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Smash Up (2012)"
   },
   {
     "path": "board-games/star-realms",
@@ -4920,60 +4722,23 @@
     "description": "playing Star Realms (2014)"
   },
   {
-    "path": "board-games/tokaido",
-    "filename": "20220508_210706.jpg",
+    "path": "board-games/elves-vs-orcs",
+    "filename": "20180101_154937.jpg",
     "thumbnail": "cloudinary",
-    "description": "playing Tokaido (2012) with the Crossroads (2013) expansion"
+    "description": "playing Pocket Battles: Elves vs. Orcs (2010)"
   },
   {
-    "path": "board-games/tokaido",
-    "filename": "20220508_210722.jpg",
+    "path": "board-games/citadels",
+    "filename": "20180101_200347.jpg",
     "thumbnail": "cloudinary",
-    "description": "playing Tokaido (2012) with the Crossroads (2013) expansion"
+    "description": "playing Citadels (2000)"
   },
   {
-    "path": "board-games/three-sisters",
-    "filename": "20220509_221349.jpg",
+    "path": "board-games/memoir-44",
+    "filename": "20180224_210603.jpg",
     "thumbnail": "cloudinary",
-    "description": "playing Three Sisters (2022)"
+    "description": "playing Memoir '44 (2004)"
   },
-  {
-    "path": "board-games/jurassic-park",
-    "filename": "20220319_161537.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Unmatched: Jurassic Park – InGen vs Raptors (2020)"
-  },
-  {
-    "path": "board-games/jurassic-park",
-    "filename": "20220319_162127.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Unmatched: Jurassic Park – InGen vs Raptors (2020)"
-  },
-  {
-    "path": "board-games/via-magica",
-    "filename": "20220517_191721.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Via Magica (2020)"
-  },
-  {
-    "path": "board-games/xia",
-    "filename": "20220510_224034.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Xia: Legends of a Drift System (2014)"
-  },
-  {
-    "path": "board-games/unsxiaorted",
-    "filename": "20220510_224725.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Xia: Legends of a Drift System (2014)"
-  },
-  {
-    "path": "board-games/xia",
-    "filename": "20220510_224731.jpg",
-    "thumbnail": "cloudinary",
-    "description": "playing Xia: Legends of a Drift System (2014)"
-  },
-
   {
     "path": "board-games/unsorted",
     "filename": "20180301_222844.jpg",
@@ -7129,309 +6894,543 @@
     "description": ""
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/pax-pamir",
     "filename": "20211206_223823.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Pax Pamir: Second Edition (2019)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/pax-pamir",
     "filename": "20211206_223838.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Pax Pamir: Second Edition (2019)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/altiplano",
     "filename": "20211207_203055.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Altiplano (2017)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/altiplano",
     "filename": "20211207_203825.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Altiplano (2017)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/condottiere",
     "filename": "20211207_235213.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Condottiere (1995)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/it-s-a-wonderful-world",
     "filename": "20211214_194021.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing It's a Wonderful World (2019)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/it-s-a-wonderful-world",
     "filename": "20211214_194045.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing It's a Wonderful World (2019)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/it-s-a-wonderful-world",
     "filename": "20211214_200611.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing It's a Wonderful World (2019)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/clash-of-cultures",
     "filename": "20211218_201122.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Clash of Cultures (2012)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/clash-of-cultures",
     "filename": "20211218_201542.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Clash of Cultures (2012)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/clash-of-cultures",
     "filename": "20211218_230915.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Clash of Cultures (2012)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/king-of-new-york",
     "filename": "20211219_001146.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing King of New York (2014) with the Power Up! (2016) expansion"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/kanagawa",
     "filename": "20211221_200224.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Kanagawa (2016)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/kanagawa",
     "filename": "20211221_200836.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Kanagawa (2016)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/kanagawa",
     "filename": "20211221_200922.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Kanagawa (2016)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/duck",
     "filename": "20211221_211131.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Duck (2020)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/nusfjord",
     "filename": "20211221_225503.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Nusfjord (2017)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/undaunted-normandy",
     "filename": "20211225_191956.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Undaunted: Normandy (2019)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/aquatica",
     "filename": "20211225_223006.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Aquatica (2019)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/aquatica",
     "filename": "20211225_223016.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Aquatica (2019)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/marrakech",
     "filename": "20211226_001806.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Marrakech (2007)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/harry-potter",
     "filename": "20211231_213015.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Harry Potter: Hogwarts Battle (2016)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/a-feast-for-odin",
     "filename": "20220101_105847.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "the A Feast for Odin (2016) box"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/a-feast-for-odin",
     "filename": "20220101_214221.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing A Feast for Odin (2016)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/a-feast-for-odin",
     "filename": "20220101_214253.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing A Feast for Odin (2016)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/aquatica",
     "filename": "20220109_185031.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Aquatica (2019)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/aquatica",
     "filename": "20220109_185048.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Aquatica (2019)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/praga",
     "filename": "20220129_182342.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Praga Caput Regni (2020)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/praga",
     "filename": "20220129_182358.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Praga Caput Regni (2020)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/praga",
     "filename": "20220129_195932.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Praga Caput Regni (2020)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/meeple-circus",
     "filename": "20220129_205357.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Meeple Circus (2017)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/meeple-circus",
     "filename": "20220129_211509.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Meeple Circus (2017)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/paper-dungeons",
     "filename": "20220129_234555.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Paper Dungeons: A Dungeon Scrawler Game (2020)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/five-tribes",
     "filename": "20220130_132319.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Five Tribes (2014)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/gaia-project",
     "filename": "20220201_215835.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Gaia Project (2017)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/gaia-project",
     "filename": "20220201_232048.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Gaia Project (2017)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/gaia-project",
     "filename": "20220201_232057.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Gaia Project (2017)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/through-the-ages",
     "filename": "20220204_191709.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "the Through the Ages: A New Story of Civilization (2015) box"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/through-the-ages",
     "filename": "20220205_165040.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Through the Ages: A New Story of Civilization (2015)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/five-tribes",
     "filename": "20220207_205058.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Five Tribes (2014) with the The Artisans of Naqala (2015) expansion"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/world-of-warcraft",
     "filename": "20220215_202439.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing World of Warcraft: Wrath of the Lich King (2021)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/world-of-warcraft",
     "filename": "20220215_202612.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "World of Warcraft: Wrath of the Lich King (2021)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/queendomino",
     "filename": "20220215_214228.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Queendomino (2017)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/queendomino",
     "filename": "20220215_214305.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Queendomino (2017)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/black-angel",
     "filename": "20220222_220146.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Black Angel (2019)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/black-angel",
     "filename": "20220222_220218.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Black Angel (2019)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/black-angel",
     "filename": "20220222_221752.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Black Angel (2019)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/kingdomino-origins",
     "filename": "20220223_230930.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Kingdomino Origins (2021)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/kingdomino-origins",
     "filename": "20220223_231029.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Kingdomino Origins (2021)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/carcassonne",
     "filename": "20220225_204236.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Carcassonne (2000)"
   },
   {
-    "path": "board-games/unsorted",
+    "path": "board-games/carcassonne",
     "filename": "20220225_211534.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "playing Carcassonne (2000)"
+  },
+  {
+    "path": "board-games/consumption",
+    "filename": "20220227_233611.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Consumption: Food and Choices (2019)"
+  },
+  {
+    "path": "board-games/consumption",
+    "filename": "20220227_233616.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Consumption: Food and Choices (2019)"
+  },
+  {
+    "path": "board-games/consumption",
+    "filename": "20220227_233627.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Consumption: Food and Choices (2019)"
+  },
+  {
+    "path": "board-games/concordia",
+    "filename": "20220228_214651.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Concordia (2013) with the Aegyptus / Creta (2017) expansion"
+  },
+  {
+    "path": "board-games/mississippi-queen",
+    "filename": "20220301_201101.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Mississippi Queen (1997)"
+  },
+  {
+    "path": "board-games/jurassic-park",
+    "filename": "20220319_161537.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Unmatched: Jurassic Park – InGen vs Raptors (2020)"
+  },
+  {
+    "path": "board-games/jurassic-park",
+    "filename": "20220319_162127.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Unmatched: Jurassic Park – InGen vs Raptors (2020)"
+  },
+  {
+    "path": "board-games/smash-up",
+    "filename": "20220319_172947.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Smash Up (2012)"
+  },
+  {
+    "path": "board-games/furnace",
+    "filename": "20220319_182656.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Furnace (2020)"
+  },
+  {
+    "path": "board-games/dark-tales",
+    "filename": "20220319_192345.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Dark Tales (2014)"
+  },
+  {
+    "path": "board-games/five-tribes",
+    "filename": "20220320_175926.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Five Tribes (2014) with the The Artisans of Naqala (2015) and Whims of the Sultan (2017) expansions"
+  },
+  {
+    "path": "board-games/tokaido",
+    "filename": "20220508_210706.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Tokaido (2012) with the Crossroads (2013) expansion"
+  },
+  {
+    "path": "board-games/tokaido",
+    "filename": "20220508_210722.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Tokaido (2012) with the Crossroads (2013) expansion"
+  },
+  {
+    "path": "board-games/beyond-the-sun",
+    "filename": "20220509_192545.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Beyond the Sun (2020)"
+  },
+  {
+    "path": "board-games/beyond-the-sun",
+    "filename": "20220509_192557.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Beyond the Sun (2020)"
+  },
+  {
+    "path": "board-games/canvas",
+    "filename": "20220509_204234.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Canvas (2021)"
+  },
+  {
+    "path": "board-games/canvas",
+    "filename": "20220509_204251.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Canvas (2021)"
+  },
+  {
+    "path": "board-games/three-sisters",
+    "filename": "20220509_221349.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Three Sisters (2022)"
+  },
+  {
+    "path": "board-games/xia",
+    "filename": "20220510_224034.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Xia: Legends of a Drift System (2014)"
+  },
+  {
+    "path": "board-games/unsxiaorted",
+    "filename": "20220510_224725.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Xia: Legends of a Drift System (2014)"
+  },
+  {
+    "path": "board-games/xia",
+    "filename": "20220510_224731.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Xia: Legends of a Drift System (2014)"
+  },
+  {
+    "path": "board-games/praga",
+    "filename": "20220511_215601.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Praga Caput Regni (2020)"
+  },
+  {
+    "path": "board-games/mansions-of-madness",
+    "filename": "20220513_223054.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Mansions of Madness: Second Edition (2016) with Horrific Journeys: Expansion (2018)"
+  },
+  {
+    "path": "board-games/mansions-of-madness",
+    "filename": "20220513_232108.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Mansions of Madness: Second Edition (2016) with Horrific Journeys: Expansion (2018)"
+  },
+  {
+    "path": "board-games/mansions-of-madness",
+    "filename": "20220513_232517.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Mansions of Madness: Second Edition (2016) with Horrific Journeys: Expansion (2018)"
+  },
+  {
+    "path": "board-games/7-wonders-architects",
+    "filename": "20220514_164216.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing 7 Wonders: Architects (2021)"
+  },
+  {
+    "path": "board-games/7-wonders-architects",
+    "filename": "20220514_164935.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing 7 Wonders: Architects (2021)"
+  },
+  {
+    "path": "board-games/bitoku",
+    "filename": "20220514_193857.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Bitoku (2021)"
+  },
+  {
+    "path": "board-games",
+    "filename": "20220514_211704.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Bitoku (2021)"
+  },
+  {
+    "path": "board-games/bitoku",
+    "filename": "20220514_215300.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Bitoku (2021)"
+  },
+  {
+    "path": "board-games/glen-more-ii",
+    "filename": "20220514_234926.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Glen More II: Chronicles (2019)"
+  },
+  {
+    "path": "board-games/via-magica",
+    "filename": "20220517_191721.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Via Magica (2020)"
+  },
+  {
+    "path": "board-games/king-of-12",
+    "filename": "20220517_225934.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing King of 12 (2020)"
+  },
+  {
+    "path": "board-games/kanagawa",
+    "filename": "20220519_193557.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Kanagawa (2016)"
+  },
+  {
+    "path": "board-games/bitoku",
+    "filename": "20220520_221256.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Bitoku (2021)"
+  },
+  {
+    "path": "board-games/bitoku",
+    "filename": "20220520_221302.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Bitoku (2021)"
+  },
+  {
+    "path": "board-games/catan",
+    "filename": "20220618_191420.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing CATAN (1995)"
+  },
+  {
+    "path": "board-games/inis",
+    "filename": "20220625_200507.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Inis (2016)"
+  },
+  {
+    "path": "board-games/libertalia",
+    "filename": "20220625_210722.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Libertalia: Winds of Galecrest (2022)"
   }
 ]
