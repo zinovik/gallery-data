@@ -656,12 +656,20 @@
     "path": "board-games/aquatica"
   },
   {
+    "title": "Bärenpark (2017)",
+    "path": "board-games/barenpark"
+  },
+  {
     "title": "Barrage (2019)",
     "path": "board-games/barrage"
   },
   {
     "title": "Betrayal at House on the Hill (2004)",
     "path": "board-games/betrayal-at-house-on-the-hill"
+  },
+  {
+    "title": "Between Two Castles of Mad King Ludwig (2018)",
+    "path": "board-games/between-two-castles"
   },
   {
     "title": "Beyond the Sun (2020)",
@@ -720,8 +728,24 @@
     "path": "board-games/dark-tales"
   },
   {
+    "title": "Dice Forge (2017)",
+    "path": "board-games/dice-forge"
+  },
+  {
+    "title": "Downforce (2017)",
+    "path": "board-games/downforce"
+  },
+  {
+    "title": "Draftosaurus (2019)",
+    "path": "board-games/draftosaurus"
+  },
+  {
     "title": "Duck (2020)",
     "path": "board-games/duck"
+  },
+  {
+    "title": "Dune: Imperium (2020)",
+    "path": "board-games/dune-imperium"
   },
   {
     "title": "Enigma: Beyond Code (2020)",
@@ -760,6 +784,10 @@
     "path": "board-games/harry-potter"
   },
   {
+    "title": "Ilôs (2017)",
+    "path": "board-games/ilos"
+  },
+  {
     "title": "Inis (2016)",
     "path": "board-games/inis"
   },
@@ -776,12 +804,20 @@
     "path": "board-games/kanagawa"
   },
   {
+    "title": "Kemet (2012)",
+    "path": "board-games/kemet"
+  },
+  {
     "title": "King of 12 (2020)",
     "path": "board-games/king-of-12"
   },
   {
     "title": "King of New York (2014)",
     "path": "board-games/king-of-new-york"
+  },
+  {
+    "title": "Kingdomino (2016)",
+    "path": "board-games/kingdomino"
   },
   {
     "title": "Kingdomino Origins (2021)",
@@ -800,6 +836,10 @@
     "path": "board-games/lords-of-waterdeep"
   },
   {
+    "title": "Lords of Xidit (2014)",
+    "path": "board-games/lords-of-xidit"
+  },
+  {
     "title": "Lorenzo il Magnifico (2016)",
     "path": "board-games/lorenzo"
   },
@@ -810,6 +850,10 @@
   {
     "title": "Mansions of Madness: Second Edition (2016)",
     "path": "board-games/mansions-of-madness"
+  },
+  {
+    "title": "Marco Polo II: In the Service of the Khan (2019)",
+    "path": "board-games/marco-polo-ii"
   },
   {
     "title": "Marrakech (2007)",
@@ -826,6 +870,10 @@
   {
     "title": "Mississippi Queen (1997)",
     "path": "board-games/mississippi-queen"
+  },
+  {
+    "title": "NMBR 9 (2017)",
+    "path": "board-games/nmbr-9"
   },
   {
     "title": "Nexus Ops (2005)",
@@ -852,6 +900,10 @@
     "path": "board-games/praga"
   },
   {
+    "title": "Project L (2020)",
+    "path": "board-games/project-l"
+  },
+  {
     "title": "Queendomino (2017)",
     "path": "board-games/queendomino"
   },
@@ -860,12 +912,28 @@
     "path": "board-games/raptor"
   },
   {
+    "title": "Red Rising (2021)",
+    "path": "board-games/red-rising"
+  },
+  {
     "title": "Res Arcana (2019)",
     "path": "board-games/res-arcana"
   },
   {
+    "title": "Root (2018)",
+    "path": "board-games/root"
+  },
+  {
     "title": "Scythe (2016)",
     "path": "board-games/scythe"
+  },
+  {
+    "title": "Small World (2009)",
+    "path": "board-games/small-world"
+  },
+  {
+    "title": "Smartphone Inc. (2018)",
+    "path": "board-games/smartphone-inc"
   },
   {
     "title": "Smash Up (2012)",
@@ -884,6 +952,10 @@
     "path": "board-games/star-realms"
   },
   {
+    "title": "Tekhenu: Obelisk of the Sun (2020)",
+    "path": "board-games/tekhenu"
+  },
+  {
     "title": "Terraforming Mars (2016)",
     "path": "board-games/terraforming-mars"
   },
@@ -896,12 +968,28 @@
     "path": "board-games/tokaido"
   },
   {
+    "title": "The Castles of Burgundy (2011)",
+    "path": "board-games/the-castles-of-burgundy"
+  },
+  {
+    "title": "The Crew: The Quest for Planet Nine (2019)",
+    "path": "board-games/the-crew"
+  },
+  {
     "title": "The Isle of Cats (2019)",
     "path": "board-games/the-isle-of-cats"
   },
   {
+    "title": "The Mind (2018)",
+    "path": "board-games/the-mind"
+  },
+  {
     "title": "The Quacks of Quedlinburg (2018)",
     "path": "board-games/the-quacks-of-quedlinburg"
+  },
+  {
+    "title": "This War of Mine: The Board Game (2017)",
+    "path": "board-games/this-war-of-mine"
   },
   {
     "title": "Three Sisters (2022)",
@@ -912,8 +1000,20 @@
     "path": "board-games/through-the-ages"
   },
   {
+    "title": "Troyes (2010)",
+    "path": "board-games/troyes"
+  },
+  {
+    "title": "Tyrants of the Underdark (2016)",
+    "path": "board-games/tyrants-of-the-underdark"
+  },
+  {
     "title": "Undaunted: Normandy (2019)",
     "path": "board-games/undaunted-normandy"
+  },
+  {
+    "title": "Unmatched: Battle of Legends, Volume One (2019)",
+    "path": "board-games/unmatched-battle-of-legends-volume-one"
   },
   {
     "title": "Unmatched: Cobble & Fog (2020)",
