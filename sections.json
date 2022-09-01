@@ -648,8 +648,20 @@
     "path": "board-games/altiplano"
   },
   {
+    "title": "Anachrony (2017)",
+    "path": "board-games/anachrony"
+  },
+  {
     "title": "Aquatica (2019)",
     "path": "board-games/aquatica"
+  },
+  {
+    "title": "Barrage (2019)",
+    "path": "board-games/barrage"
+  },
+  {
+    "title": "Betrayal at House on the Hill (2004)",
+    "path": "board-games/betrayal-at-house-on-the-hill"
   },
   {
     "title": "Beyond the Sun (2020)",
@@ -680,6 +692,10 @@
     "path": "board-games/citadels"
   },
   {
+    "title": "Clans of Caledonia (2017)",
+    "path": "board-games/clans-of-caledonia"
+  },
+  {
     "title": "Clash of Cultures (2012)",
     "path": "board-games/clash-of-cultures"
   },
@@ -696,12 +712,24 @@
     "path": "board-games/consumption"
   },
   {
+    "title": "Cosmic Encounter (2008)",
+    "path": "board-games/cosmic-encounter"
+  },
+  {
     "title": "Dark Tales (2014)",
     "path": "board-games/dark-tales"
   },
   {
     "title": "Duck (2020)",
     "path": "board-games/duck"
+  },
+  {
+    "title": "Enigma: Beyond Code (2020)",
+    "path": "board-games/enigma"
+  },
+  {
+    "title": "Everdell (2018)",
+    "path": "board-games/everdell"
   },
   {
     "title": "Five Tribes (2014)",
@@ -724,6 +752,10 @@
     "path": "board-games/go"
   },
   {
+    "title": "Great Western Trail (2016)",
+    "path": "board-games/great-western-trail"
+  },
+  {
     "title": "Harry Potter: Hogwarts Battle (2016)",
     "path": "board-games/harry-potter"
   },
@@ -734,6 +766,10 @@
   {
     "title": "It's a Wonderful World (2019)",
     "path": "board-games/it-s-a-wonderful-world"
+  },
+  {
+    "title": "K2 (2010)",
+    "path": "board-games/k2"
   },
   {
     "title": "Kanagawa (2016)",
@@ -752,8 +788,24 @@
     "path": "board-games/kingdomino-origins"
   },
   {
+    "title": "La Granja (2014)",
+    "path": "board-games/la-granja"
+  },
+  {
     "title": "Libertalia: Winds of Galecrest (2022)",
     "path": "board-games/libertalia"
+  },
+  {
+    "title": "Lords of Waterdeep (2012)",
+    "path": "board-games/lords-of-waterdeep"
+  },
+  {
+    "title": "Lorenzo il Magnifico (2016)",
+    "path": "board-games/lorenzo"
+  },
+  {
+    "title": "Lost Ruins of Arnak (2020)",
+    "path": "board-games/lost-ruins-of-arnak"
   },
   {
     "title": "Mansions of Madness: Second Edition (2016)",
@@ -804,16 +856,52 @@
     "path": "board-games/queendomino"
   },
   {
+    "title": "Raptor (2015)",
+    "path": "board-games/raptor"
+  },
+  {
+    "title": "Res Arcana (2019)",
+    "path": "board-games/res-arcana"
+  },
+  {
+    "title": "Scythe (2016)",
+    "path": "board-games/scythe"
+  },
+  {
     "title": "Smash Up (2012)",
     "path": "board-games/smash-up"
+  },
+  {
+    "title": "Space Base (2018)",
+    "path": "board-games/space-base"
+  },
+  {
+    "title": "Spirit Island (2017)",
+    "path": "board-games/spirit-island"
   },
   {
     "title": "Star Realms (2014)",
     "path": "board-games/star-realms"
   },
   {
+    "title": "Terraforming Mars (2016)",
+    "path": "board-games/terraforming-mars"
+  },
+  {
+    "title": "Tiny Epic Kingdoms (2014)",
+    "path": "board-games/tiny-epic-kingdoms"
+  },
+  {
     "title": "Tokaido (2012)",
     "path": "board-games/tokaido"
+  },
+  {
+    "title": "The Isle of Cats (2019)",
+    "path": "board-games/the-isle-of-cats"
+  },
+  {
+    "title": "The Quacks of Quedlinburg (2018)",
+    "path": "board-games/the-quacks-of-quedlinburg"
   },
   {
     "title": "Three Sisters (2022)",
@@ -828,12 +916,20 @@
     "path": "board-games/undaunted-normandy"
   },
   {
+    "title": "Unmatched: Cobble & Fog (2020)",
+    "path": "board-games/unmatched-cobble-fog"
+  },
+  {
     "title": "Unmatched: Jurassic Park – InGen vs Raptors (2020)",
-    "path": "board-games/jurassic-park"
+    "path": "board-games/unmatched-jurassic-park"
   },
   {
     "title": "Via Magica (2020)",
     "path": "board-games/via-magica"
+  },
+  {
+    "title": "War of the Ring: Second Edition (2011)",
+    "path": "board-games/war-of-the-ring"
   },
   {
     "title": "World of Warcraft: Wrath of the Lich King (2021)",
