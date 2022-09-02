@@ -632,8 +632,21 @@
     "text": "Some board games I've played."
   },
   {
+    "title": "Intro",
+    "path": "board-games/intro",
+    "text": "The full list sorted by BGG rank is <a href=\"https://boardgamegeek.com/collection/user/zinovik?sort=rank&sortdir=asc&rankobjecttype=subtype&rankobjectid=1&columns=title%7Cthumbnail%7Cstatus%7Crank%7Cbggrating%7Cavgrating%7Cnumvoters%7Ccomment%7Cavgweight&geekranks=Board%20Game%20Rank&wishlist=1&objecttype=thing&ff=1&subtype=boardgame\" target=\"_blank\">here</a>"
+  },
+  {
+    "title": "7 Wonders",
+    "path": "board-games/7-wonders"
+  },
+  {
     "title": "7 Wonders: Architects (2021)",
     "path": "board-games/7-wonders-architects"
+  },
+  {
+    "title": "7 Wonders Duel (2015)",
+    "path": "board-games/7-wonders-duel"
   },
   {
     "title": "A Feast for Odin (2016)",
@@ -642,6 +655,14 @@
   {
     "title": "A Game of Thrones: The Board Game (Second Edition) (2011)",
     "path": "board-games/a-game-of-thrones"
+  },
+  {
+    "title": "Above and Below (2015)",
+    "path": "board-games/above-and-below"
+  },
+  {
+    "title": "Agricola (Revised Edition) (2016)",
+    "path": "board-games/agricola-revised-edition"
   },
   {
     "title": "Altiplano (2017)",
@@ -656,12 +677,24 @@
     "path": "board-games/aquatica"
   },
   {
+    "title": "Architects of the West Kingdom (2018)",
+    "path": "board-games/architects"
+  },
+  {
+    "title": "Azul (2017)",
+    "path": "board-games/azul"
+  },
+  {
     "title": "Bärenpark (2017)",
     "path": "board-games/barenpark"
   },
   {
     "title": "Barrage (2019)",
     "path": "board-games/barrage"
+  },
+  {
+    "title": "Battle Line (2000)",
+    "path": "board-games/battle-line"
   },
   {
     "title": "Betrayal at House on the Hill (2004)",
@@ -684,6 +717,30 @@
     "path": "board-games/black-angel"
   },
   {
+    "title": "Blood Rage (2015)",
+    "path": "board-games/blood-rage"
+  },
+  {
+    "title": "Brass: Birmingham (2018)",
+    "path": "board-games/brass-birmingham"
+  },
+  {
+    "title": "Broom Service (2015)",
+    "path": "board-games/broom-service"
+  },
+  {
+    "title": "Bruges (2013)",
+    "path": "board-games/bruges"
+  },
+  {
+    "title": "Bunny Kingdom (2017)",
+    "path": "board-games/bunny-kingdom"
+  },
+  {
+    "title": "Calico (2020)",
+    "path": "board-games/calico"
+  },
+  {
     "title": "Canvas (2021)",
     "path": "board-games/canvas"
   },
@@ -692,12 +749,32 @@
     "path": "board-games/carcassonne"
   },
   {
+    "title": "Cartographers (2019)",
+    "path": "board-games/cartographers"
+  },
+  {
     "title": "CATAN (1995)",
     "path": "board-games/catan"
   },
   {
+    "title": "Caylus 1303 (2019)",
+    "path": "board-games/caylus-1303"
+  },
+  {
+    "title": "Cerberus (2018)",
+    "path": "board-games/cerberus"
+  },
+  {
     "title": "Citadels (2000)",
     "path": "board-games/citadels"
+  },
+  {
+    "title": "Civilization: A New Dawn (2017)",
+    "path": "board-games/civilization-a-new-dawn"
+  },
+  {
+    "title": "Clank!: A Deck-Building Adventure (2016)",
+    "path": "board-games/clank"
   },
   {
     "title": "Clans of Caledonia (2017)",
@@ -706,6 +783,10 @@
   {
     "title": "Clash of Cultures (2012)",
     "path": "board-games/clash-of-cultures"
+  },
+  {
+    "title": "Colt Express (2014)",
+    "path": "board-games/colt-express"
   },
   {
     "title": "Concordia (2013)",
@@ -724,12 +805,40 @@
     "path": "board-games/cosmic-encounter"
   },
   {
+    "title": "Cryptid (2018)",
+    "path": "board-games/cryptid"
+  },
+  {
+    "title": "Cthulhu: Death May Die (2019)",
+    "path": "board-games/cthulhu-death-may-die"
+  },
+  {
+    "title": "Cyclades (2009)",
+    "path": "board-games/cyclades"
+  },
+  {
     "title": "Dark Tales (2014)",
     "path": "board-games/dark-tales"
   },
   {
+    "title": "Dead of Winter: A Crossroads Game (2014)",
+    "path": "board-games/dead-of-winter"
+  },
+  {
+    "title": "Dice City (2015)",
+    "path": "board-games/dice-city"
+  },
+  {
     "title": "Dice Forge (2017)",
     "path": "board-games/dice-forge"
+  },
+  {
+    "title": "Discworld: Ankh-Morpork (2011)",
+    "path": "board-games/discworld"
+  },
+  {
+    "title": "Dominion (2008)",
+    "path": "board-games/dominion"
   },
   {
     "title": "Downforce (2017)",
@@ -748,20 +857,48 @@
     "path": "board-games/dune-imperium"
   },
   {
+    "title": "Dungeoneer: Tomb of the Lich Lord (2003)",
+    "path": "board-games/dungeoneer-tomb-of-the-lich-lord"
+  },
+  {
+    "title": "Eldritch Horror (2013)",
+    "path": "board-games/eldritch-horror"
+  },
+  {
+    "title": "Endeavor: Age of Sail (2018)",
+    "path": "board-games/endeavor"
+  },
+  {
     "title": "Enigma: Beyond Code (2020)",
     "path": "board-games/enigma"
+  },
+  {
+    "title": "Ethnos (2017)",
+    "path": "board-games/ethnos"
   },
   {
     "title": "Everdell (2018)",
     "path": "board-games/everdell"
   },
   {
+    "title": "Fantasy Realms (2017)",
+    "path": "board-games/fantasy-realms"
+  },
+  {
     "title": "Five Tribes (2014)",
     "path": "board-games/five-tribes"
   },
   {
+    "title": "Flamme Rouge (2016)",
+    "path": "board-games/flamme-rouge"
+  },
+  {
     "title": "Furnace (2020)",
     "path": "board-games/furnace"
+  },
+  {
+    "title": "Fury of Dracula (Third/Fourth Edition) (2015)",
+    "path": "board-games/fury-of-dracula"
   },
   {
     "title": "Gaia Project (2017)",
@@ -776,8 +913,16 @@
     "path": "board-games/go"
   },
   {
+    "title": "Grand Austria Hotel (2015)",
+    "path": "board-games/grand-austria-hotel"
+  },
+  {
     "title": "Great Western Trail (2016)",
     "path": "board-games/great-western-trail"
+  },
+  {
+    "title": "Hansa Teutonica (2009)",
+    "path": "board-games/hansa-teutonica"
   },
   {
     "title": "Harry Potter: Hogwarts Battle (2016)",
@@ -788,12 +933,20 @@
     "path": "board-games/ilos"
   },
   {
+    "title": "Illusion (2018)",
+    "path": "board-games/illusion"
+  },
+  {
     "title": "Inis (2016)",
     "path": "board-games/inis"
   },
   {
     "title": "It's a Wonderful World (2019)",
     "path": "board-games/it-s-a-wonderful-world"
+  },
+  {
+    "title": "Jaipur (2009)",
+    "path": "board-games/jaipur"
   },
   {
     "title": "K2 (2010)",
@@ -806,6 +959,10 @@
   {
     "title": "Kemet (2012)",
     "path": "board-games/kemet"
+  },
+  {
+    "title": "Keyflower (2012)",
+    "path": "board-games/keyflower"
   },
   {
     "title": "King of 12 (2020)",
@@ -832,6 +989,10 @@
     "path": "board-games/libertalia"
   },
   {
+    "title": "London (Second Edition)",
+    "path": "board-games/london"
+  },
+  {
     "title": "Lords of Waterdeep (2012)",
     "path": "board-games/lords-of-waterdeep"
   },
@@ -842,6 +1003,10 @@
   {
     "title": "Lorenzo il Magnifico (2016)",
     "path": "board-games/lorenzo"
+  },
+  {
+    "title": "Lost Cities (1999)",
+    "path": "board-games/lost-cities"
   },
   {
     "title": "Lost Ruins of Arnak (2020)",
@@ -872,28 +1037,64 @@
     "path": "board-games/mississippi-queen"
   },
   {
-    "title": "NMBR 9 (2017)",
-    "path": "board-games/nmbr-9"
+    "title": "Nemesis (2018)",
+    "path": "board-games/nemesis"
   },
   {
     "title": "Nexus Ops (2005)",
     "path": "board-games/nexus-ops"
   },
   {
+    "title": "Nidavellir (2020)",
+    "path": "board-games/nidavellir"
+  },
+  {
+    "title": "NMBR 9 (2017)",
+    "path": "board-games/nmbr-9"
+  },
+  {
     "title": "Nusfjord (2017)",
     "path": "board-games/nusfjord"
+  },
+  {
+    "title": "Opale (2019)",
+    "path": "board-games/opale"
+  },
+  {
+    "title": "Oriflamme (2019)",
+    "path": "board-games/oriflamme"
+  },
+  {
+    "title": "Orléans (2014)",
+    "path": "board-games/orleans"
   },
   {
     "title": "Paper Dungeons: A Dungeon Scrawler Game (2020)",
     "path": "board-games/paper-dungeons"
   },
   {
+    "title": "Patchwork (2014)",
+    "path": "board-games/patchwork"
+  },
+  {
     "title": "Pax Pamir: Second Edition (2019)",
     "path": "board-games/pax-pamir"
   },
   {
+    "title": "Photosynthesis (2017)",
+    "path": "board-games/photosynthesis"
+  },
+  {
     "title": "Pocket Battles: Elves vs. Orcs (2010)",
     "path": "board-games/elves-vs-orcs"
+  },
+  {
+    "title": "Point Salad (2019)",
+    "path": "board-games/point-salad"
+  },
+  {
+    "title": "Power Grid (2004)",
+    "path": "board-games/power-grid"
   },
   {
     "title": "Praga Caput Regni (2020)",
@@ -904,28 +1105,76 @@
     "path": "board-games/project-l"
   },
   {
+    "title": "Puerto Rico (2002)",
+    "path": "board-games/puerto-rico"
+  },
+  {
     "title": "Queendomino (2017)",
     "path": "board-games/queendomino"
+  },
+  {
+    "title": "Race for the Galaxy (2007)",
+    "path": "board-games/race-for-the-galaxy"
+  },
+  {
+    "title": "Rajas of the Ganges (2017)",
+    "path": "board-games/rajas-of-the-ganges"
   },
   {
     "title": "Raptor (2015)",
     "path": "board-games/raptor"
   },
   {
+    "title": "Red Outpost (2019)",
+    "path": "board-games/red-outpost"
+  },
+  {
     "title": "Red Rising (2021)",
     "path": "board-games/red-rising"
+  },
+  {
+    "title": "Reliquium (2017)",
+    "path": "board-games/reliquium"
   },
   {
     "title": "Res Arcana (2019)",
     "path": "board-games/res-arcana"
   },
   {
+    "title": "Roll for the Galaxy (2014)",
+    "path": "board-games/roll-for-the-galaxy"
+  },
+  {
     "title": "Root (2018)",
     "path": "board-games/root"
   },
   {
+    "title": "Russian Railroads (2013)",
+    "path": "board-games/russian-railroads"
+  },
+  {
+    "title": "Sagrada (2017)",
+    "path": "board-games/sagrada"
+  },
+  {
+    "title": "Sail to India (2013)",
+    "path": "board-games/sail-to-india"
+  },
+  {
+    "title": "Santorini (2016)",
+    "path": "board-games/santorini"
+  },
+  {
     "title": "Scythe (2016)",
     "path": "board-games/scythe"
+  },
+  {
+    "title": "Seasons (2012)",
+    "path": "board-games/seasons"
+  },
+  {
+    "title": "Sheriff of Nottingham (2014)",
+    "path": "board-games/sheriff-of-nottingham"
   },
   {
     "title": "Small World (2009)",
@@ -952,20 +1201,68 @@
     "path": "board-games/star-realms"
   },
   {
+    "title": "Star Wars: Imperial Assault (2014)",
+    "path": "board-games/star-wars-imperial-assault"
+  },
+  {
+    "title": "Star Wars: Outer Rim (2019)",
+    "path": "board-games/star-wars-outer-rim"
+  },
+  {
+    "title": "Steampunk Rally (2015)",
+    "path": "board-games/steampunk-rally"
+  },
+  {
+    "title": "Stockpile (2015)",
+    "path": "board-games/stockpile"
+  },
+  {
+    "title": "Stone Age (2008)",
+    "path": "board-games/stone-age"
+  },
+  {
+    "title": "Takenoko (2011)",
+    "path": "board-games/takenoko"
+  },
+  {
     "title": "Tekhenu: Obelisk of the Sun (2020)",
     "path": "board-games/tekhenu"
+  },
+  {
+    "title": "Teotihuacan: City of Gods (2018)",
+    "path": "board-games/teotihuacan"
+  },
+  {
+    "title": "Terra Mystica (2012)",
+    "path": "board-games/terra-mystica"
   },
   {
     "title": "Terraforming Mars (2016)",
     "path": "board-games/terraforming-mars"
   },
   {
+    "title": "Ticket to Ride: Europe (2005)",
+    "path": "board-games/ticket-to-ride-europe"
+  },
+  {
+    "title": "Tikal (1999)",
+    "path": "board-games/tikal"
+  },
+  {
     "title": "Tiny Epic Kingdoms (2014)",
     "path": "board-games/tiny-epic-kingdoms"
   },
   {
+    "title": "Tiny Towns (2019)",
+    "path": "board-games/tiny-towns"
+  },
+  {
     "title": "Tokaido (2012)",
     "path": "board-games/tokaido"
+  },
+  {
+    "title": "That's Pretty Clever! (2018)",
+    "path": "board-games/that-s-pretty-clever"
   },
   {
     "title": "The Castles of Burgundy (2011)",
@@ -976,8 +1273,16 @@
     "path": "board-games/the-crew"
   },
   {
+    "title": "The Grizzled (2015)",
+    "path": "board-games/the-grizzled"
+  },
+  {
     "title": "The Isle of Cats (2019)",
     "path": "board-games/the-isle-of-cats"
+  },
+  {
+    "title": "The Kingdoms of Crusaders (2007)",
+    "path": "board-games/the-kingdoms-of-crusaders"
   },
   {
     "title": "The Mind (2018)",
@@ -1000,16 +1305,32 @@
     "path": "board-games/through-the-ages"
   },
   {
+    "title": "Trails of Tucana (2019)",
+    "path": "board-games/trails-of-tucana"
+  },
+  {
     "title": "Troyes (2010)",
     "path": "board-games/troyes"
+  },
+  {
+    "title": "Twilight Struggle (2005)",
+    "path": "board-games/twilight-struggle"
   },
   {
     "title": "Tyrants of the Underdark (2016)",
     "path": "board-games/tyrants-of-the-underdark"
   },
   {
+    "title": "Tzolk'in: The Mayan Calendar (2012)",
+    "path": "board-games/tzolk-in"
+  },
+  {
     "title": "Undaunted: Normandy (2019)",
     "path": "board-games/undaunted-normandy"
+  },
+  {
+    "title": "Underwater Cities (2018)",
+    "path": "board-games/underwater-cities"
   },
   {
     "title": "Unmatched: Battle of Legends, Volume One (2019)",
@@ -1028,8 +1349,20 @@
     "path": "board-games/via-magica"
   },
   {
+    "title": "Viticulture Essential Edition (2015)",
+    "path": "board-games/viticulture"
+  },
+  {
     "title": "War of the Ring: Second Edition (2011)",
     "path": "board-games/war-of-the-ring"
+  },
+  {
+    "title": "Welcome To... (2018)",
+    "path": "board-games/welcome-to"
+  },
+  {
+    "title": "Wingspan (2019)",
+    "path": "board-games/wingspan"
   },
   {
     "title": "World of Warcraft: Wrath of the Lich King (2021)",
@@ -1038,5 +1371,13 @@
   {
     "title": "Xia: Legends of a Drift System (2014)",
     "path": "board-games/xia"
+  },
+  {
+    "title": "Yellow & Yangtze (2018)",
+    "path": "board-games/yellow-yangtze"
+  },
+  {
+    "title": "Zombicide: Black Plague (2015)",
+    "path": "board-games/zombicide-black-plague"
   }
 ]

@@ -1,8 +1,8 @@
 const https = require("https");
 const fs = require("fs");
 
-const LOGIN = "";
-const PASS = "";
+const LOGIN = process.argv[2];
+const PASS = process.argv[3];
 const PREFIXES = [
   "gallery/zanzibar",
   "gallery/naliboki",
