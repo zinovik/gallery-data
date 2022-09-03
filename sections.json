@@ -685,6 +685,10 @@
     "path": "board-games/azul"
   },
   {
+    "title": "Azul: Stained Glass of Sintra (2018)",
+    "path": "board-games/azul-stained-glass-of-sintra"
+  },
+  {
     "title": "Bärenpark (2017)",
     "path": "board-games/barenpark"
   },
@@ -939,6 +943,10 @@
   {
     "title": "Inis (2016)",
     "path": "board-games/inis"
+  },
+  {
+    "title": "Istanbul (2014)",
+    "path": "board-games/istanbul"
   },
   {
     "title": "It's a Wonderful World (2019)",
