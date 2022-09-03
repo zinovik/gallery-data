@@ -634,7 +634,7 @@
   {
     "title": "Intro",
     "path": "board-games/intro",
-    "text": "The full list sorted by BGG rank is <a href=\"https://boardgamegeek.com/collection/user/zinovik?sort=rank&sortdir=asc&rankobjecttype=subtype&rankobjectid=1&columns=title%7Cthumbnail%7Cstatus%7Crank%7Cbggrating%7Cavgrating%7Cnumvoters%7Ccomment%7Cavgweight&geekranks=Board%20Game%20Rank&wishlist=1&objecttype=thing&ff=1&subtype=boardgame\" target=\"_blank\">here</a>"
+    "text": "The full list sorted by BGG rank is <a href=\"https://boardgamegeek.com/collection/user/zinovik?sort=rank&sortdir=asc&rankobjecttype=subtype&rankobjectid=1&columns=title%7Cthumbnail%7Cstatus%7Crank%7Cbggrating%7Cavgrating%7Cnumvoters%7Ccomment%7Cavgweight&geekranks=Board%20Game%20Rank&wishlist=1&objecttype=thing&ff=1&subtype=boardgame\" target=\"_blank\">here</a>."
   },
   {
     "title": "7 Wonders",
