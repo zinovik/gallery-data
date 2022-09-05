@@ -7414,5 +7414,35 @@
     "filename": "20220625_210722.jpg",
     "thumbnail": "cloudinary",
     "description": "playing Libertalia: Winds of Galecrest (2022)"
+  },
+  {
+    "path": "board-games/azul-stained-glass-of-sintra",
+    "filename": "20220903_162217.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Azul: Stained Glass of Sintra (2018)"
+  },
+  {
+    "path": "board-games/azul-stained-glass-of-sintra",
+    "filename": "20220903_172231.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Azul: Stained Glass of Sintra (2018)"
+  },
+  {
+    "path": "board-games/istanbul",
+    "filename": "20220903_181630.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Istanbul (2014)"
+  },
+  {
+    "path": "board-games/istanbul",
+    "filename": "20220903_184530.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Istanbul (2014)"
+  },
+  {
+    "path": "board-games/pocket-detective-2",
+    "filename": "20220904_192443.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Pocket Detective №2 (2020)"
   }
 ]
