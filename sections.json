@@ -627,14 +627,51 @@
   },
 
   {
+    "title": "🇺🇿 Exotic, but for some reason familiar Uzbekistan",
+    "path": "uzbekistan",
+    "text": "A safe shelter in middle Asia for any time."
+  },
+  {
+    "title": "Tashkent",
+    "path": "uzbekistan/tashkent"
+  },
+  {
+    "title": "Samarkand",
+    "path": "uzbekistan/samarkand"
+  },
+  {
+    "title": "Bukhara",
+    "path": "uzbekistan/bukhara"
+  },
+  {
+    "title": "Khiva",
+    "path": "uzbekistan/khiva"
+  },
+  {
+    "title": "Nature",
+    "path": "uzbekistan/nature"
+  },
+  {
+    "title": "Food",
+    "path": "uzbekistan/food"
+  },
+  {
+    "title": "unsorted",
+    "path": "uzbekistan/unsorted"
+  },
+
+  {
     "title": "🎲 Board Games",
     "path": "board-games",
-    "text": "Some board games I've played."
+    "text": "Some photos of some board games I've played."
   },
   {
     "title": "Intro",
     "path": "board-games/intro",
-    "text": "The full list sorted by BGG rank is <a href=\"https://boardgamegeek.com/collection/user/zinovik?sort=rank&sortdir=asc&rankobjecttype=subtype&rankobjectid=1&columns=title%7Cthumbnail%7Cstatus%7Crank%7Cbggrating%7Cavgrating%7Cnumvoters%7Ccomment%7Cavgweight&geekranks=Board%20Game%20Rank&wishlist=1&objecttype=thing&ff=1&subtype=boardgame\" target=\"_blank\">here</a>."
+    "text": [
+      "Modern board games are too colorful and beautiful not to be photographed that's why I have a lot of photos. On this page, I share some board game experiences I had.",
+      "Therefore, it turns out that I have two board games collections: the first one is <a href=\"https://boardgamegeek.com/collection/user/zinovik?sort=rank&sortdir=asc&rankobjecttype=subtype&rankobjectid=1&columns=title%7Cthumbnail%7Cstatus%7Crank%7Cbggrating%7Cavgrating%7Cnumvoters%7Ccomment%7Cavgweight&geekranks=Board%20Game%20Rank&own=1&objecttype=thing&ff=1&subtype=boardgame\" target=\"_blank\">the physical copies</a>, and the second is <a href=\"https://boardgamegeek.com/collection/user/zinovik?sort=rank&sortdir=asc&rankobjecttype=subtype&rankobjectid=1&columns=title%7Cthumbnail%7Cstatus%7Crank%7Cbggrating%7Cavgrating%7Cnumvoters%7Ccomment%7Cavgweight&geekranks=Board%20Game%20Rank&wishlist=1&objecttype=thing&ff=1&subtype=boardgame\" target=\"_blank\">the games that I tried to play</a> (I mark it with the **Wishlist(4) (Thinking about it)** label on BGG)."
+    ]
   },
   {
     "title": "7 Wonders",
@@ -946,7 +983,12 @@
   },
   {
     "title": "Istanbul (2014)",
-    "path": "board-games/istanbul"
+    "path": "board-games/istanbul",
+    "text": [
+      "Really nice game. It's pretty simple like the old games - it's not overloaded by the rules and nuances",
+      "Usually, board games motivate you to use different actions in the game (the same action becomes more expensive). But here you can perform an action if you leave or take your assistant. That's why you return to the tiles with the same actions.",
+      "The main cons of the game are: it's pretty simple - for some tiles layout, the most beneficial actions are pretty obvious; and it has pretty much random with the dices. I bet the expansions fix it. But I would play it again anyway."
+    ]
   },
   {
     "title": "It's a Wonderful World (2019)",

@@ -9,6 +9,7 @@ const PREFIXES = [
   "gallery/sakartvelo",
   "gallery/zalessie",
   "gallery/sri-lanka",
+  "gallery/uzbekistan",
   "gallery/board-games",
 ];
 const IMAGES_URL_FILE = "./image-urls.json";
