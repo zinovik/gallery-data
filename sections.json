@@ -636,8 +636,44 @@
     "path": "uzbekistan/tashkent"
   },
   {
+    "title": "Hazrati Imam complex",
+    "path": "uzbekistan/tashkent/hazrati-imam-complex"
+  },
+  {
     "title": "Samarkand",
     "path": "uzbekistan/samarkand"
+  },
+  {
+    "title": "Registan",
+    "path": "uzbekistan/samarkand/registan"
+  },
+  {
+    "title": "Ulugh Beg Madrasah (1417–1420)",
+    "path": "uzbekistan/samarkand/registan/ulugh-beg-madrasah"
+  },
+  {
+    "title": "Sher-Dor Madrasah (1619–1636)",
+    "path": "uzbekistan/samarkand/registan/sher-dor-madrasah"
+  },
+  {
+    "title": "Tilya-Kori Madrasah (1646–1660)",
+    "path": "uzbekistan/samarkand/registan/tilya-kori-madrasah"
+  },
+  {
+    "title": "Shah-i-Zinda",
+    "path": "uzbekistan/samarkand/shah-i-zinda"
+  },
+  {
+    "title": "Gur Emir Mausoleum",
+    "path": "uzbekistan/samarkand/gur-emir-mausoleum"
+  },
+  {
+    "title": "Bibi Khanym Mosque",
+    "path": "uzbekistan/samarkand/bibi-khanym-mosque"
+  },
+  {
+    "title": "Ulugh Beg Observatory",
+    "path": "uzbekistan/samarkand/ulugh-beg-observatory"
   },
   {
     "title": "Bukhara",
@@ -985,7 +1021,7 @@
     "title": "Istanbul (2014)",
     "path": "board-games/istanbul",
     "text": [
-      "Really nice game. It's pretty simple like the old games - it's not overloaded by the rules and nuances.",
+      "It's a really nice game. It's pretty simple like the old games - it's not overloaded by the rules and nuances.",
       "Usually, board games motivate you to use different actions in the game (the same action becomes more expensive). But here you can perform an action if you leave or take your assistant. That's why you return to the tiles with the same actions.",
       "The main cons of the game are: it's pretty simple - for some tiles layout, the most beneficial actions are obvious; and it has some random with the dices. I bet the expansions fix it. But I would play it again anyway."
     ]
