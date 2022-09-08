@@ -640,6 +640,38 @@
     "path": "uzbekistan/tashkent/hazrati-imam-complex"
   },
   {
+    "title": "Chorsu Bazaar",
+    "path": "uzbekistan/tashkent/chorsu-bazaar"
+  },
+  {
+    "title": "Magic City",
+    "path": "uzbekistan/tashkent/magic-city"
+  },
+  {
+    "title": "Minor Mosque",
+    "path": "uzbekistan/tashkent/minor-mosque"
+  },
+  {
+    "title": "Tashkent Tower",
+    "path": "uzbekistan/tashkent/tashkent-tower"
+  },
+  {
+    "title": "Navruz",
+    "path": "uzbekistan/tashkent/navruz"
+  },
+  {
+    "title": "Tashkent City Park",
+    "path": "uzbekistan/tashkent/tashkent-city-park"
+  },
+  {
+    "title": "Ilkhom Theatre",
+    "path": "uzbekistan/tashkent/ilkhom-theatre"
+  },
+  {
+    "title": "Pakhtakor FC",
+    "path": "uzbekistan/tashkent/pakhtakor"
+  },
+  {
     "title": "Samarkand",
     "path": "uzbekistan/samarkand"
   },
@@ -678,6 +710,14 @@
   {
     "title": "Bukhara",
     "path": "uzbekistan/bukhara"
+  },
+  {
+    "title": "Nadir Divan-Begi Madrasah",
+    "path": "uzbekistan/bukhara/nadir-divan-begi-madrasah"
+  },
+  {
+    "title": "Magoki Attor Mosque",
+    "path": "uzbekistan/bukhara/magoki-attor-mosque"
   },
   {
     "title": "Khiva",
