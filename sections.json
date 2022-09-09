@@ -640,6 +640,14 @@
     "path": "uzbekistan/tashkent/hazrati-imam-complex"
   },
   {
+    "title": "Zoopark",
+    "path": "uzbekistan/tashkent/zoopark"
+  },
+  {
+    "title": "Navruz Park",
+    "path": "uzbekistan/tashkent/navruz-park"
+  },
+  {
     "title": "Chorsu Bazaar",
     "path": "uzbekistan/tashkent/chorsu-bazaar"
   },
@@ -670,6 +678,10 @@
   {
     "title": "Pakhtakor FC",
     "path": "uzbekistan/tashkent/pakhtakor"
+  },
+  {
+    "title": "New Uzbekistan Park",
+    "path": "uzbekistan/tashkent/new-uzbekistan-park"
   },
   {
     "title": "Samarkand",
@@ -712,12 +724,80 @@
     "path": "uzbekistan/bukhara"
   },
   {
+    "title": "Lyabi Khause",
+    "path": "uzbekistan/bukhara/lyabi-khause"
+  },
+  {
     "title": "Nadir Divan-Begi Madrasah",
-    "path": "uzbekistan/bukhara/nadir-divan-begi-madrasah"
+    "path": "uzbekistan/bukhara/lyabi-khause/nadir-divan-begi-madrasah"
   },
   {
     "title": "Magoki Attor Mosque",
     "path": "uzbekistan/bukhara/magoki-attor-mosque"
+  },
+  {
+    "title": "Trading domes",
+    "path": "uzbekistan/bukhara/trading-domes"
+  },
+  {
+    "title": "Abdulaziz Khan Madrassah",
+    "path": "uzbekistan/bukhara/abdulaziz-khan-madrassah"
+  },
+  {
+    "title": "Po-i-Kalyan Complex",
+    "path": "uzbekistan/bukhara/po-i-kalyan-complex"
+  },
+  {
+    "title": "Mir-i-Arab Madrasa",
+    "path": "uzbekistan/bukhara/po-i-kalyan-complex/mir-i-arab-madrasa"
+  },
+  {
+    "title": "Kalan Mosque",
+    "path": "uzbekistan/bukhara/po-i-kalyan-complex/kalan-mosque"
+  },
+  {
+    "title": "Kalyan Minaret",
+    "path": "uzbekistan/bukhara/po-i-kalyan-complex/kalyan-minaret"
+  },
+  {
+    "title": "Khanaka Amir Alimkhan",
+    "path": "uzbekistan/bukhara/po-i-kalyan-complex/khanaka-amir-alimkhan"
+  },
+  {
+    "title": "Ark of Bukhara",
+    "path": "uzbekistan/bukhara/ark-of-bukhara"
+  },
+  {
+    "title": "Bolo Hauz Mosque",
+    "path": "uzbekistan/bukhara/bolo-hauz-mosque"
+  },
+  {
+    "title": "Chor Minor Madrassah",
+    "path": "uzbekistan/bukhara/chor-minor-madrassah"
+  },
+  {
+    "title": "Bukhara Tower",
+    "path": "uzbekistan/bukhara/bukhara-tower"
+  },
+  {
+    "title": "Sitori-i-Mokhi Khosa palace",
+    "path": "uzbekistan/bukhara/sitori-i-mokhi-khosa-palace"
+  },
+  {
+    "title": "Sitori-i-Mokhi Khosa palace",
+    "path": "uzbekistan/bukhara/sitori-i-mokhi-khosa-palace"
+  },
+  {
+    "title": "Chor Bakr Memorial Complex",
+    "path": "uzbekistan/bukhara/chor-bakr-memorial-complex"
+  },
+  {
+    "title": "Samanid Mausoleum",
+    "path": "uzbekistan/bukhara/samanid-mausoleum"
+  },
+  {
+    "title": "Khoja Gaukushan Ensemble",
+    "path": "uzbekistan/bukhara/khoja-gaukushan-ensemble"
   },
   {
     "title": "Khiva",
@@ -726,6 +806,22 @@
   {
     "title": "Nature",
     "path": "uzbekistan/nature"
+  },
+  {
+    "title": "Amirsoy Resort",
+    "path": "uzbekistan/nature/amirsoy-resort"
+  },
+  {
+    "title": "Charvak Lake",
+    "path": "uzbekistan/nature/charvak-lake"
+  },
+  {
+    "title": "Hojikent",
+    "path": "uzbekistan/Hojikent"
+  },
+  {
+    "title": "Parkent",
+    "path": "uzbekistan/parkent"
   },
   {
     "title": "Food",
