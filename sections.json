@@ -640,36 +640,40 @@
     "path": "uzbekistan/tashkent/hazrati-imam-complex"
   },
   {
-    "title": "Zoopark",
-    "path": "uzbekistan/tashkent/zoopark"
-  },
-  {
-    "title": "Navruz Park",
-    "path": "uzbekistan/tashkent/navruz-park"
+    "title": "Tashkent Tower",
+    "path": "uzbekistan/tashkent/tashkent-tower"
   },
   {
     "title": "Chorsu Bazaar",
     "path": "uzbekistan/tashkent/chorsu-bazaar"
   },
   {
-    "title": "Magic City",
-    "path": "uzbekistan/tashkent/magic-city"
+    "title": "Parks",
+    "path": "uzbekistan/tashkent/parks"
+  },
+  {
+    "title": "Tashkent City Park",
+    "path": "uzbekistan/tashkent/parks/tashkent-city"
+  },
+  {
+    "title": "Magic City Park",
+    "path": "uzbekistan/tashkent/parks/magic-city"
+  },
+  {
+    "title": "New Uzbekistan Park",
+    "path": "uzbekistan/tashkent/parks/new-uzbekistan"
+  },
+  {
+    "title": "Navruz Park",
+    "path": "uzbekistan/tashkent/parks/navruz-park"
+  },
+  {
+    "title": "Zoopark",
+    "path": "uzbekistan/tashkent/parks/zoopark"
   },
   {
     "title": "Minor Mosque",
     "path": "uzbekistan/tashkent/minor-mosque"
-  },
-  {
-    "title": "Tashkent Tower",
-    "path": "uzbekistan/tashkent/tashkent-tower"
-  },
-  {
-    "title": "Navruz",
-    "path": "uzbekistan/tashkent/navruz"
-  },
-  {
-    "title": "Tashkent City Park",
-    "path": "uzbekistan/tashkent/tashkent-city-park"
   },
   {
     "title": "Ilkhom Theatre",
@@ -680,8 +684,8 @@
     "path": "uzbekistan/tashkent/pakhtakor"
   },
   {
-    "title": "New Uzbekistan Park",
-    "path": "uzbekistan/tashkent/new-uzbekistan-park"
+    "title": "Navruz",
+    "path": "uzbekistan/navruz"
   },
   {
     "title": "Samarkand",
@@ -724,26 +728,6 @@
     "path": "uzbekistan/bukhara"
   },
   {
-    "title": "Lyabi Khause",
-    "path": "uzbekistan/bukhara/lyabi-khause"
-  },
-  {
-    "title": "Nadir Divan-Begi Madrasah",
-    "path": "uzbekistan/bukhara/lyabi-khause/nadir-divan-begi-madrasah"
-  },
-  {
-    "title": "Magoki Attor Mosque",
-    "path": "uzbekistan/bukhara/magoki-attor-mosque"
-  },
-  {
-    "title": "Trading domes",
-    "path": "uzbekistan/bukhara/trading-domes"
-  },
-  {
-    "title": "Abdulaziz Khan Madrassah",
-    "path": "uzbekistan/bukhara/abdulaziz-khan-madrassah"
-  },
-  {
     "title": "Po-i-Kalyan Complex",
     "path": "uzbekistan/bukhara/po-i-kalyan-complex"
   },
@@ -762,6 +746,26 @@
   {
     "title": "Khanaka Amir Alimkhan",
     "path": "uzbekistan/bukhara/po-i-kalyan-complex/khanaka-amir-alimkhan"
+  },
+  {
+    "title": "Lyabi Khause",
+    "path": "uzbekistan/bukhara/lyabi-khause"
+  },
+  {
+    "title": "Nadir Divan-Begi Madrasah",
+    "path": "uzbekistan/bukhara/lyabi-khause/nadir-divan-begi-madrasah"
+  },
+  {
+    "title": "Magoki Attor Mosque",
+    "path": "uzbekistan/bukhara/magoki-attor-mosque"
+  },
+  {
+    "title": "Trading domes",
+    "path": "uzbekistan/bukhara/trading-domes"
+  },
+  {
+    "title": "Abdulaziz Khan Madrassah",
+    "path": "uzbekistan/bukhara/abdulaziz-khan-madrassah"
   },
   {
     "title": "Ark of Bukhara",
@@ -813,7 +817,7 @@
   },
   {
     "title": "Hojikent",
-    "path": "uzbekistan/Hojikent"
+    "path": "uzbekistan/hojikent"
   },
   {
     "title": "Parkent",
