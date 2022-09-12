@@ -6361,91 +6361,63 @@
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/parkent",
     "filename": "20220410_140944.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/parkent",
     "filename": "20220410_154842.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/tashkent",
     "filename": "20220413_184832.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
-    "filename": "20220414_121246.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/tashkent/parks/tashkent-city",
     "filename": "20220414_210112.mp4",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
-    "filename": "20220415_145307.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/tashkent/parks/magic-city",
     "filename": "20220416_120455.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
-    "filename": "20220416_121206.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "uzbekistan/unsorted",
-    "filename": "20220416_123536.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/tashkent/museum-of-applied-arts",
     "filename": "20220416_134107.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/tashkent/museum-of-applied-arts",
     "filename": "20220416_134425.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/tashkent/museum-of-applied-arts",
     "filename": "20220416_134700.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/tashkent/museum-of-applied-arts",
     "filename": "20220416_134841.jpg",
     "thumbnail": "cloudinary",
     "description": "",
@@ -7875,6 +7847,34 @@
   {
     "path": "uzbekistan/food",
     "filename": "20220409_143258.jpg",
+    "thumbnail": "cloudinary",
+    "description": "",
+    "text": ""
+  },
+  {
+    "path": "uzbekistan/food",
+    "filename": "20220414_121246.jpg",
+    "thumbnail": "cloudinary",
+    "description": "",
+    "text": ""
+  },
+  {
+    "path": "uzbekistan/food",
+    "filename": "20220415_145307.jpg",
+    "thumbnail": "cloudinary",
+    "description": "",
+    "text": ""
+  },
+  {
+    "path": "uzbekistan/food",
+    "filename": "20220416_121206.jpg",
+    "thumbnail": "cloudinary",
+    "description": "",
+    "text": ""
+  },
+  {
+    "path": "uzbekistan/food",
+    "filename": "20220416_123536.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""

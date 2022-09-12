@@ -12,7 +12,7 @@ const PREFIXES = [
   "gallery/uzbekistan",
   "gallery/board-games",
 ];
-const IMAGES_URL_FILE = "./image-urls.json";
+const FILE_URLS_FILE = "./file-urls.json";
 
 const Authorization = `Basic ${Buffer.from(`${LOGIN}:${PASS}`).toString(
   "base64"
@@ -38,7 +38,7 @@ const request = (url) =>
       });
   });
 
-const getImageFilename = (url) => url.split("/").slice(-1)[0] || "";
+const getFilename = (url) => url.split("/").slice(-1)[0] || "";
 
 const getPrefixUrls = async (prefix) => {
   const [responseImages, responseVideo] = await Promise.all([
@@ -48,8 +48,8 @@ const getPrefixUrls = async (prefix) => {
 
   return [...responseImages.resources, ...responseVideo.resources]
     .sort((resource1, resource2) =>
-      getImageFilename(resource1.url).localeCompare(
-        getImageFilename(resource2.url)
+      getFilename(resource1.url).localeCompare(
+        getFilename(resource2.url)
       )
     )
     .map((resource) => resource.url.replace("http", "https"));
@@ -66,6 +66,6 @@ const getPrefixUrls = async (prefix) => {
 
   const allUrls = urls.reduce((acc, prefixUrls) => [...acc, ...prefixUrls], []);
 
-  fs.writeFileSync(IMAGES_URL_FILE, JSON.stringify(allUrls));
+  fs.writeFileSync(FILE_URLS_FILE, JSON.stringify(allUrls));
   console.log(allUrls.length);
 })();

@@ -1,25 +1,23 @@
-const images = require("../images.json");
-const imageUrls = require("../image-urls.json");
+const files = require("../files.json");
+const fileUrls = require("../file-urls.json");
 const sections = require("../sections.json");
 
-images.forEach((image) => {
-  const imageUrl = imageUrls.find((imageUrl) =>
-    imageUrl.includes(image.filename)
-  );
-  if (!imageUrl) console.log(`! Missing image url for image: ${image.filename}`);
+files.forEach((file) => {
+  const fileUrl = fileUrls.find((fileUrl) => fileUrl.includes(file.filename));
+  if (!fileUrl) console.log(`! Missing file url for file: ${file.filename}`);
 
-  const section = sections.find((section) => section.path === image.path);
+  const section = sections.find((section) => section.path === file.path);
   if (!section)
-    console.log(`! Missing section for the image path: ${image.path}`);
+    console.log(`! Missing section for the file path: ${file.path}`);
 });
 
-imageUrls.forEach((imageUrl) => {
-  const image = images.find((image) => imageUrl.includes(image.filename));
-  if (!image) console.log(`! Missing image for the url: ${imageUrl}`);
+fileUrls.forEach((fileUrl) => {
+  const file = files.find((file) => fileUrl.includes(file.filename));
+  if (!file) console.log(`! Missing file for the url: ${fileUrl}`);
 });
 
 sections.forEach((section) => {
-  const image = images.find((image) => image.path === section.path);
-  if (!image && !section.text)
-    console.log(`Missing images and text for the section: ${section.path}`);
+  const file = files.find((file) => file.path === section.path);
+  if (!file && !section.text)
+    console.log(`Missing files and text for the section: ${section.path}`);
 });

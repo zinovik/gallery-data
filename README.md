@@ -1,6 +1,6 @@
 Main repository: https://github.com/zinovik/gallery
 
-Interfaces:
+**SECTIONS_URL** - array of sections:
 
 ```typescript
 interface SectionInterface {
@@ -11,13 +11,22 @@ interface SectionInterface {
 }
 ```
 
+**FILES_URL** - array of files (images and videos):
+
 ```typescript
-interface ImageInterface {
+interface FileInterface {
   path: string;
   filename: string;
+  url: string;
   thumbnail?: string;
   description?: string;
   text?: string | string[];
   order?: number;
 }
+```
+
+**FILE_URLS_URL** - array of file urls:
+
+```typescript
+String[]
 ```
