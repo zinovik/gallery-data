@@ -2209,12 +2209,6 @@
     "text": "Pkhali is a traditional Georgian dish of chopped and minced vegetables, made of cabbage, eggplant, spinach, beans, beets and combined with ground walnuts, vinegar, onions, garlic, and herbs."
   },
   {
-    "path": "sakartvelo/food/appetizer",
-    "filename": "20210731_203329.jpg",
-    "thumbnail": "cloudinary",
-    "description": "Pkhali in Kala in Tbilisi"
-  },
-  {
     "path": "sakartvelo/food/salads",
     "filename": "20210727_132613.jpg",
     "thumbnail": "cloudinary",
@@ -2233,12 +2227,6 @@
     "filename": "20210731_142807.jpg",
     "thumbnail": "cloudinary",
     "description": "Kharcho in Racha restaurant in Tbilisi"
-  },
-  {
-    "path": "sakartvelo/food/soups",
-    "filename": "20210803_172430.jpg",
-    "thumbnail": "cloudinary",
-    "description": "Kharcho in Gudauri"
   },
   {
     "path": "sakartvelo/food/soups",
@@ -2283,16 +2271,10 @@
   },
   {
     "path": "sakartvelo/food/breads",
-    "filename": "20210727_093442.jpg",
+    "filename": "20210727_093503.mp4",
     "thumbnail": "cloudinary",
     "description": "Adjaruli (Adjarian) Khachapuri in Shumeruli in Batumi",
     "text": "🇬🇪 **Georgia** even made a patent on Chacha, Khachapuri, and Suluguni cheese!"
-  },
-  {
-    "path": "sakartvelo/food/breads",
-    "filename": "20210727_093503.mp4",
-    "thumbnail": "cloudinary",
-    "description": "Adjaruli (Adjarian) Khachapuri in Shumeruli in Batumi"
   },
   {
     "path": "sakartvelo/food/breads",
@@ -2312,12 +2294,6 @@
     "filename": "20210802_153647.jpg",
     "thumbnail": "cloudinary",
     "description": "Megruli (Megrelian) Khachapuri in Veliaminov in Tbilisi"
-  },
-  {
-    "path": "sakartvelo/food/breads",
-    "filename": "20210803_140047.jpg",
-    "thumbnail": "cloudinary",
-    "description": "Megruli (Megrelian) Khachapuri in Restaurant Chalet Gudauri"
   },
   {
     "path": "sakartvelo/food/breads",
@@ -2395,14 +2371,8 @@
     "filename": "20210806_222751.jpg",
     "thumbnail": "cloudinary",
     "description": "Khinkali in Mephaitone in Batumi",
-    "text": "The original recipe, the so-called **khevsuruli**, consisted of only minced 🥩 meat, onions, chili pepper, salt, and cumin."
-  },
-  {
-    "path": "sakartvelo/food/meat",
-    "filename": "20210802_105929.jpg",
-    "thumbnail": "cloudinary",
-    "description": "Khinkali in Tiflis 86 restaurant in Tbilisi",
     "text": [
+      "The original recipe, the so-called **khevsuruli**, consisted of only minced 🥩 meat, onions, chili pepper, salt, and cumin.",
       "However, the modern recipe, the so-called **kalakuri**, uses herbs like parsley and cilantro (also called coriander).",
       "There is Pushkin street in **Batumi**. But locals call it Khinkali street. The restaurants try to make the best Khinkali there."
     ]
@@ -2651,16 +2621,10 @@
   },
   {
     "path": "sakartvelo/wine",
-    "filename": "20210728_203232.jpg",
-    "thumbnail": "cloudinary",
-    "description": "Red wines in Garage Wines in Batumi",
-    "text": "The king of red 🍷 wines is Saperavi. It's named after the kind of grapes. But Saperavi is not only wine of this kind. Mukuzani is good as well."
-  },
-  {
-    "path": "sakartvelo/wine",
     "filename": "20210802_193721.jpg",
     "thumbnail": "cloudinary",
-    "description": "Saperavi red wine in Tiflis 86 restaurant in Tbilisi"
+    "description": "Saperavi red wine in Tiflis 86 restaurant in Tbilisi",
+    "text": "The king of red 🍷 wines is Saperavi. It's named after the kind of grapes. But Saperavi is not only wine of this kind. Mukuzani is good as well."
   },
   {
     "path": "sakartvelo/wine",
@@ -4837,13 +4801,6 @@
     "text": ""
   },
   {
-    "path": "uzbekistan/samarkand",
-    "filename": "20220312_074950.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
     "path": "uzbekistan/samarkand/bibi-khanym-mosque",
     "filename": "20220312_111840.jpg",
     "thumbnail": "cloudinary",
@@ -6424,231 +6381,169 @@
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/tashkent/kukeldash-madrasah",
     "filename": "20220416_143823.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/tashkent/kukeldash-madrasah",
     "filename": "20220416_144009.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/tashkent/chorsu-bazaar",
     "filename": "20220416_151346.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/tashkent/ilkhom-theatre",
     "filename": "20220416_183442.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/tashkent/parks/magic-city",
     "filename": "20220416_213309.mp4",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
-    "filename": "20220416_215112.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_103528.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_111546.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_111600.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_120025.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_120143.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_121535.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_122553.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_123244.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_123945.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_130030.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_132225.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_140631.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_140712.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_152058.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_152512.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_153230.mp4",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
+
   {
-    "path": "uzbekistan/unsorted",
-    "filename": "20220417_211938.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "uzbekistan/unsorted",
-    "filename": "20220417_212825.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "uzbekistan/unsorted",
-    "filename": "20220417_214352.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/tashkent/tashkent-tower",
     "filename": "20220421_213512.mp4",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/tashkent/tashkent-tower",
     "filename": "20220421_215817.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
   },
   {
-    "path": "uzbekistan/unsorted",
-    "filename": "20220422_120127.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "uzbekistan/unsorted",
-    "filename": "20220422_202729.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "uzbekistan/unsorted",
-    "filename": "20220422_205214.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "uzbekistan/unsorted",
-    "filename": "20220422_205723.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "uzbekistan/unsorted",
-    "filename": "20220423_095341.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "uzbekistan/unsorted",
+    "path": "uzbekistan/khiva/kalta-minor-minare",
     "filename": "20220423_110308.jpg",
     "thumbnail": "cloudinary",
     "description": "",
@@ -7503,13 +7398,6 @@
   },
   {
     "path": "uzbekistan/food",
-    "filename": "20220313_081209.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "uzbekistan/food",
     "filename": "20220313_155102.jpg",
     "thumbnail": "cloudinary",
     "description": "",
@@ -7525,13 +7413,6 @@
   {
     "path": "uzbekistan/food",
     "filename": "20220313_170718.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "uzbekistan/food",
-    "filename": "20220314_133147.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
@@ -7636,20 +7517,6 @@
   },
   {
     "path": "uzbekistan/food",
-    "filename": "20220320_151305.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "uzbekistan/food",
-    "filename": "20220320_151508.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "uzbekistan/food",
     "filename": "20220321_132050.jpg",
     "thumbnail": "cloudinary",
     "description": "",
@@ -7714,13 +7581,6 @@
   {
     "path": "uzbekistan/food",
     "filename": "20220327_133712.jpg",
-    "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
-  },
-  {
-    "path": "uzbekistan/food",
-    "filename": "20220327_133716.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""
@@ -7875,6 +7735,62 @@
   {
     "path": "uzbekistan/food",
     "filename": "20220416_123536.jpg",
+    "thumbnail": "cloudinary",
+    "description": "",
+    "text": ""
+  },
+  {
+    "path": "uzbekistan/food",
+    "filename": "20220416_215112.jpg",
+    "thumbnail": "cloudinary",
+    "description": "",
+    "text": ""
+  },
+  {
+    "path": "uzbekistan/nature/food",
+    "filename": "20220417_211938.jpg",
+    "thumbnail": "cloudinary",
+    "description": "",
+    "text": ""
+  },
+  {
+    "path": "uzbekistan/food",
+    "filename": "20220417_212825.jpg",
+    "thumbnail": "cloudinary",
+    "description": "",
+    "text": ""
+  },
+  {
+    "path": "uzbekistan/food",
+    "filename": "20220422_120127.jpg",
+    "thumbnail": "cloudinary",
+    "description": "",
+    "text": ""
+  },
+  {
+    "path": "uzbekistan/food",
+    "filename": "20220422_202729.jpg",
+    "thumbnail": "cloudinary",
+    "description": "",
+    "text": ""
+  },
+  {
+    "path": "uzbekistan/food",
+    "filename": "20220422_205214.jpg",
+    "thumbnail": "cloudinary",
+    "description": "",
+    "text": ""
+  },
+  {
+    "path": "uzbekistan/food",
+    "filename": "20220422_205723.jpg",
+    "thumbnail": "cloudinary",
+    "description": "",
+    "text": ""
+  },
+  {
+    "path": "uzbekistan/food",
+    "filename": "20220423_095341.jpg",
     "thumbnail": "cloudinary",
     "description": "",
     "text": ""

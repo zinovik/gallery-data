@@ -688,6 +688,10 @@
     "path": "uzbekistan/tashkent/pakhtakor"
   },
   {
+    "title": "Kukeldash Madrasah",
+    "path": "uzbekistan/tashkent/kukeldash-madrasah"
+  },
+  {
     "title": "Navruz",
     "path": "uzbekistan/navruz"
   },
@@ -808,6 +812,10 @@
     "path": "uzbekistan/khiva"
   },
   {
+    "title": "Khiva",
+    "path": "uzbekistan/khiva/kalta-minor-minare"
+  },
+  {
     "title": "Nature",
     "path": "uzbekistan/nature"
   },
@@ -820,8 +828,12 @@
     "path": "uzbekistan/nature/charvak-lake"
   },
   {
-    "title": "Hojikent",
-    "path": "uzbekistan/hojikent"
+    "title": "Charvak Lake",
+    "path": "uzbekistan/nature/charvak-lake"
+  },
+  {
+    "title": "Urunghach Lake",
+    "path": "uzbekistan/nature/urunghach-lake"
   },
   {
     "title": "Parkent",
