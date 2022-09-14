@@ -629,14 +629,14 @@
   {
     "title": "🇺🇿 Exotic, but for some reason familiar Uzbekistan",
     "path": "uzbekistan",
-    "text": "A safe shelter in middle Asia for any time."
+    "text": "A safe shelter in Central Asia for any time."
   },
   {
     "title": "Tashkent",
     "path": "uzbekistan/tashkent"
   },
   {
-    "title": "Hazrati Imam complex",
+    "title": "Hazrati Imam Complex",
     "path": "uzbekistan/tashkent/hazrati-imam-complex"
   },
   {
@@ -661,7 +661,7 @@
   },
   {
     "title": "New Uzbekistan Park",
-    "path": "uzbekistan/tashkent/parks/new-uzbekistan"
+    "path": "uzbekistan/tashkent/parks/new-uzbekistan-park"
   },
   {
     "title": "Navruz Park",
@@ -686,6 +686,10 @@
   {
     "title": "Pakhtakor FC",
     "path": "uzbekistan/tashkent/pakhtakor"
+  },
+  {
+    "title": "Suzuk-ota Complex",
+    "path": "uzbekistan/tashkent/suzuk-ota-complex"
   },
   {
     "title": "Kukeldash Madrasah",
@@ -812,32 +816,36 @@
     "path": "uzbekistan/khiva"
   },
   {
-    "title": "Kalta Minor Minaret",
-    "path": "uzbekistan/khiva/kalta-minor-minaret"
+    "title": "Itchan Kala",
+    "path": "uzbekistan/khiva/itchan-kala"
   },
   {
-    "title": "Mavzoley Pakhlavana Makhmuda",
-    "path": "uzbekistan/khiva/mavzoley-pakhlavana-makhmuda"
+    "title": "Kalta Minor Minaret",
+    "path": "uzbekistan/khiva/itchan-kala/kalta-minor-minaret"
+  },
+  {
+    "title": "Pakhlavan Makhmud Mausoleum",
+    "path": "uzbekistan/khiva/itchan-kala/pakhlavan-makhmud-mausoleum"
   },
   {
     "title": "Kunya-Ark Citadel",
-    "path": "uzbekistan/khiva/kunya-ark-citadel"
+    "path": "uzbekistan/khiva/itchan-kala/kunya-ark-citadel"
   },
   {
     "title": "Islam Khoja Minaret",
-    "path": "uzbekistan/khiva/islam-khoja-minaret"
+    "path": "uzbekistan/khiva/itchan-kala/islam-khoja-minaret"
   },
   {
     "title": "Juma Mosque",
-    "path": "uzbekistan/khiva/juma-mosque"
+    "path": "uzbekistan/khiva/itchan-kala/juma-mosque"
   },
   {
     "title": "Tach Khaouli Palace",
-    "path": "uzbekistan/khiva/tach-khaouli-palace"
+    "path": "uzbekistan/khiva/itchan-kala/tach-khaouli-palace"
   },
   {
     "title": "Amir Tura Madrasah",
-    "path": "uzbekistan/khiva/amir-tura-madrasah"
+    "path": "uzbekistan/khiva/itchan-kala/amir-tura-madrasah"
   },
   {
     "title": "Nurullaboy Palace",
@@ -850,10 +858,6 @@
   {
     "title": "Amirsoy Resort",
     "path": "uzbekistan/nature/amirsoy-resort"
-  },
-  {
-    "title": "Charvak Lake",
-    "path": "uzbekistan/nature/charvak-lake"
   },
   {
     "title": "Charvak Lake",
@@ -874,10 +878,6 @@
   {
     "title": "Food",
     "path": "uzbekistan/food"
-  },
-  {
-    "title": "unsorted",
-    "path": "uzbekistan/unsorted"
   },
 
   {

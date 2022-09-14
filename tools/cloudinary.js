@@ -1,5 +1,7 @@
 const https = require("https");
 const fs = require("fs");
+const { exec } = require("child_process");
+const { promisify } = require("util");
 
 const LOGIN = process.argv[2];
 const PASS = process.argv[3];
@@ -48,9 +50,7 @@ const getPrefixUrls = async (prefix) => {
 
   return [...responseImages.resources, ...responseVideo.resources]
     .sort((resource1, resource2) =>
-      getFilename(resource1.url).localeCompare(
-        getFilename(resource2.url)
-      )
+      getFilename(resource1.url).localeCompare(getFilename(resource2.url))
     )
     .map((resource) => resource.url.replace("http", "https"));
 };
@@ -66,6 +66,12 @@ const getPrefixUrls = async (prefix) => {
 
   const allUrls = urls.reduce((acc, prefixUrls) => [...acc, ...prefixUrls], []);
 
+  console.log("Writing file...");
   fs.writeFileSync(FILE_URLS_FILE, JSON.stringify(allUrls));
   console.log(allUrls.length);
+
+  console.log("Formatting file...");
+  await promisify(exec)(`npx prettier ${FILE_URLS_FILE} --write`);
+
+  console.log("Done!");
 })();
