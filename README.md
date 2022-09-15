@@ -38,3 +38,7 @@ Tools:
 - `node tools/cloudinary.js <user> <password>` - connects cloudinary, gets all uploaded files urls and saves it to the `file-urls.json` file
 - `node tools/find-missing-items.js` - checks the data errors like missing or unused urls
 - `node tools/sort-files-by-sections.js` - sorts files by sections
+
+```bash
+npx serve --cors
+```

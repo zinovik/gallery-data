@@ -78,7 +78,8 @@
   },
   {
     "title": "Intro",
-    "path": "naliboki/intro"
+    "path": "naliboki/intro",
+    "text": "Winter is not the best time for traveling, but you can see places underneath with a completely different perspective."
   },
   {
     "title": "From Brest to Naliboki forest",
@@ -337,12 +338,23 @@
   },
   {
     "title": "Kinchkha waterfall",
-    "path": "sakartvelo/kutaisi/kinchkha"
+    "path": "sakartvelo/kutaisi/kinchkha",
+    "text": [
+      "Kinchkha waterwall looks not really big but very high.",
+      "It has three steps:",
+      "1. the upper step with 25m height drop",
+      "2. the main waterfall with 70 meter height drop",
+      "3. the third one with 20 meters high drop, which has additional water supply from the small streams"
+    ]
   },
   {
     "title": "Prometheus cave",
     "path": "sakartvelo/kutaisi/prometheus",
     "text": "If you read The Lord of the Rings you had to imagine Moria. This cave looks exactly like the imagination."
+  },
+  {
+    "title": "Svaneti",
+    "path": "sakartvelo/svaneti"
   },
   {
     "title": "Dogs",
@@ -661,15 +673,15 @@
   },
   {
     "title": "New Uzbekistan Park",
-    "path": "uzbekistan/tashkent/parks/new-uzbekistan-park"
+    "path": "uzbekistan/tashkent/parks/new-uzbekistan"
   },
   {
-    "title": "Navruz Park",
-    "path": "uzbekistan/tashkent/parks/navruz-park"
+    "title": "Navruz (Anhor Lokomotiv) Park",
+    "path": "uzbekistan/tashkent/parks/navruz-anhor-lokomotiv"
   },
   {
-    "title": "Zoopark",
-    "path": "uzbekistan/tashkent/parks/zoopark"
+    "title": "Zoo",
+    "path": "uzbekistan/tashkent/parks/zoo"
   },
   {
     "title": "Minor Mosque",
@@ -744,8 +756,8 @@
     "path": "uzbekistan/bukhara/po-i-kalyan-complex"
   },
   {
-    "title": "Mir-i-Arab Madrasa",
-    "path": "uzbekistan/bukhara/po-i-kalyan-complex/mir-i-arab-madrasa"
+    "title": "Mir-i-Arab Madrasah",
+    "path": "uzbekistan/bukhara/po-i-kalyan-complex/mir-i-arab-madrasah"
   },
   {
     "title": "Kalan Mosque",
@@ -776,8 +788,8 @@
     "path": "uzbekistan/bukhara/trading-domes"
   },
   {
-    "title": "Abdulaziz Khan Madrassah",
-    "path": "uzbekistan/bukhara/abdulaziz-khan-madrassah"
+    "title": "Abdulaziz Khan Madrasah",
+    "path": "uzbekistan/bukhara/abdulaziz-khan-madrasah"
   },
   {
     "title": "Ark of Bukhara",
@@ -788,8 +800,8 @@
     "path": "uzbekistan/bukhara/bolo-hauz-mosque"
   },
   {
-    "title": "Chor Minor Madrassah",
-    "path": "uzbekistan/bukhara/chor-minor-madrassah"
+    "title": "Chor Minor Madrasah",
+    "path": "uzbekistan/bukhara/chor-minor-madrasah"
   },
   {
     "title": "Bukhara Tower",
@@ -1012,6 +1024,10 @@
   {
     "title": "Cartographers (2019)",
     "path": "board-games/cartographers"
+  },
+  {
+    "title": "Castles of Mad King Ludwig (2014)",
+    "path": "board-games/castles-of-mad-king-ludwig"
   },
   {
     "title": "CATAN (1995)",

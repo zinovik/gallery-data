@@ -829,7 +829,7 @@
     "filename": "from-brest-to-naliboki-forest-and-back.png",
     "description": "from Brest to Naliboki forest and back",
     "text": [
-      "Winter is not the best time for traveling, but you can see places underneath with a completely different perspective. So, here is our plan:",
+      "So, here is our plan:",
       "- 🟢 Green marks - nature points",
       "- 🔵 Blue marks - historical points",
       "- ⚫ Grey marks - missed points (next time)"
@@ -2076,20 +2076,13 @@
     "path": "sakartvelo/kutaisi/kinchkha",
     "filename": "20210806_140402.jpg",
     "thumbnail": "cloudinary",
-    "description": "Kinchkha waterfall not far from Kutaisi",
-    "text": "Kinchkha waterwall looks not really big but very high."
+    "description": "Kinchkha waterfall not far from Kutaisi"
   },
   {
     "path": "sakartvelo/kutaisi/kinchkha",
     "filename": "20210806_140648.jpg",
     "thumbnail": "cloudinary",
-    "description": "Kinchkha waterfall not far from Kutaisi",
-    "text": [
-      "It has three steps:",
-      "1. the upper step with 25m height drop",
-      "2. the main waterfall with 70 meter height drop",
-      "3. the third one with 20 meters high drop, which has additional water supply from the small streams"
-    ]
+    "description": "Kinchkha waterfall not far from Kutaisi"
   },
   {
     "path": "sakartvelo/kutaisi/kinchkha",
@@ -2164,6 +2157,312 @@
     "filename": "20210806_164227.jpg",
     "thumbnail": "cloudinary",
     "description": "inside the Prometheus cave not far from Kutaisi"
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_105708.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_110243.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_122002.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_122100.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_122123.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_154815.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_154826.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_170908.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_172305.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_173014.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_173039.mp4",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_173707.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_173846.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_183059.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_183601.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_185424.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_190418.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_190436.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_190508.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_190524.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_190608.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_190654.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_190755.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_194153.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_194215.mp4",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_194433.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_200444.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_225917.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220702_225952.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220703_085609.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220703_085737.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220703_103006.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220703_104320.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220703_104433.mp4",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220703_105331.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220703_105337.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220703_111351.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220703_111357.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220703_112452.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220703_112518.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220703_113039.mp4",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220703_133857.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220703_133908.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220703_133914.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220703_134016.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220703_134747.mp4",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220703_134935.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220703_140310.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220703_140449.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220703_140454.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "sakartvelo/svaneti",
+    "filename": "20220703_173506.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
   },
   {
     "path": "sakartvelo/dogs",
@@ -4659,3130 +4958,2683 @@
     "path": "uzbekistan",
     "filename": "20220312_195436.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": "Ulugh Beg, Sher-Dor and Tilya-Kori Madrasahs of Registan in Samarkand"
   },
   {
     "path": "uzbekistan/tashkent",
     "filename": "20220308_102208.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": "a mahalla street not far from Hazrati Imam Complex in Tashkent"
   },
   {
     "path": "uzbekistan/tashkent",
     "filename": "20220308_104306.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": "chickens not far from Hazrati Imam Complexin Tashkent"
   },
   {
     "path": "uzbekistan/tashkent",
     "filename": "20220308_124057.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": "Amir Temur Avenuein Tashkent"
   },
   {
     "path": "uzbekistan/tashkent",
     "filename": "20220310_140917.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": "a view of Tian Shan mountains from the appartment window in Tashkent"
   },
   {
     "path": "uzbekistan/tashkent",
     "filename": "20220310_223930.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent",
     "filename": "20220326_103132.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent",
     "filename": "20220326_131233.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent",
     "filename": "20220413_184832.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent",
     "filename": "20220503_134047.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent",
     "filename": "20220503_134845.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent",
     "filename": "20220503_135212.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent",
     "filename": "20220503_141628.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent",
     "filename": "20220503_145737.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent",
     "filename": "20220503_162801.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent",
     "filename": "20220503_162823.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent",
     "filename": "20220503_163547.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent",
     "filename": "20220503_174700.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent",
     "filename": "20220503_180738.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent",
     "filename": "20220503_180920.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent",
     "filename": "20220503_181226.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent",
     "filename": "20220503_181421.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent",
     "filename": "20220503_181425.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent",
     "filename": "20220503_181623.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent",
     "filename": "20220503_182558.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent",
     "filename": "20220503_190900.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent",
     "filename": "20220506_172046.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/hazrati-imam-complex",
     "filename": "20220308_100215.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": "Khazrati Imam Mosque"
   },
   {
     "path": "uzbekistan/tashkent/hazrati-imam-complex",
     "filename": "20220308_100710.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": "Barakhan Madrasah"
   },
   {
     "path": "uzbekistan/tashkent/hazrati-imam-complex",
     "filename": "20220308_101040.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": "a kite over Khazrati Imam Mosque"
   },
   {
     "path": "uzbekistan/tashkent/hazrati-imam-complex",
     "filename": "20220308_101125.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": "Barakhan Madrasah"
   },
   {
     "path": "uzbekistan/tashkent/hazrati-imam-complex",
     "filename": "20220308_101344.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": "Barakhan Madrasah"
   },
   {
     "path": "uzbekistan/tashkent/hazrati-imam-complex",
     "filename": "20220308_101836.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": "Kaffal Shashi Mausoleum"
   },
   {
     "path": "uzbekistan/tashkent/tashkent-tower",
     "filename": "20220319_114608.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/tashkent-tower",
     "filename": "20220321_111815.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/tashkent-tower",
     "filename": "20220321_112457.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/tashkent-tower",
     "filename": "20220321_112502.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/tashkent-tower",
     "filename": "20220321_113001.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/tashkent-tower",
     "filename": "20220421_213512.mp4",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/tashkent-tower",
     "filename": "20220421_215817.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/chorsu-bazaar",
     "filename": "20220313_180012.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/chorsu-bazaar",
     "filename": "20220313_180153.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/chorsu-bazaar",
     "filename": "20220416_151346.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/parks/tashkent-city",
     "filename": "20220322_180248.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/parks/tashkent-city",
     "filename": "20220327_143729.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/parks/tashkent-city",
     "filename": "20220327_170149.mp4",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/parks/tashkent-city",
     "filename": "20220327_170249.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/parks/tashkent-city",
     "filename": "20220327_170340.mp4",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/parks/tashkent-city",
     "filename": "20220409_200048.mp4",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/parks/tashkent-city",
     "filename": "20220409_210743.mp4",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/parks/tashkent-city",
     "filename": "20220409_211610.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/parks/tashkent-city",
     "filename": "20220409_212550.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/parks/tashkent-city",
     "filename": "20220414_210112.mp4",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/parks/tashkent-city",
     "filename": "20220430_204043.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/parks/tashkent-city",
     "filename": "20220430_210046.mp4",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/parks/tashkent-city",
     "filename": "20220504_212454.mp4",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/parks/magic-city",
     "filename": "20220313_211013.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/parks/magic-city",
     "filename": "20220313_211250.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/parks/magic-city",
     "filename": "20220313_211341.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/parks/magic-city",
     "filename": "20220313_212335.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/parks/magic-city",
     "filename": "20220313_213425.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/parks/magic-city",
     "filename": "20220313_213433.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/parks/magic-city",
     "filename": "20220313_214513.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/parks/magic-city",
     "filename": "20220326_110019.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/parks/magic-city",
     "filename": "20220326_111339.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/parks/magic-city",
     "filename": "20220326_111625.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/parks/magic-city",
     "filename": "20220326_114303.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/parks/magic-city",
     "filename": "20220326_114546.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/parks/magic-city",
     "filename": "20220416_120455.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/parks/magic-city",
     "filename": "20220416_213309.mp4",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
-    "path": "uzbekistan/tashkent/parks/new-uzbekistan-park",
+    "path": "uzbekistan/tashkent/parks/new-uzbekistan",
     "filename": "20220409_171704.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
-    "path": "uzbekistan/tashkent/parks/new-uzbekistan-park",
+    "path": "uzbekistan/tashkent/parks/new-uzbekistan",
     "filename": "20220409_173853.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
-    "path": "uzbekistan/tashkent/parks/navruz-park",
+    "path": "uzbekistan/tashkent/parks/navruz-anhor-lokomotiv",
     "filename": "20220310_214545.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
-    "path": "uzbekistan/tashkent/parks/navruz-park",
+    "path": "uzbekistan/tashkent/parks/navruz-anhor-lokomotiv",
     "filename": "20220310_220443.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
-    "path": "uzbekistan/tashkent/parks/navruz-park",
+    "path": "uzbekistan/tashkent/parks/navruz-anhor-lokomotiv",
     "filename": "20220310_220931.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
-    "path": "uzbekistan/tashkent/parks/navruz-park",
+    "path": "uzbekistan/tashkent/parks/navruz-anhor-lokomotiv",
     "filename": "20220310_220947.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
-    "path": "uzbekistan/tashkent/parks/navruz-park",
+    "path": "uzbekistan/tashkent/parks/navruz-anhor-lokomotiv",
     "filename": "20220310_221019.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
-    "path": "uzbekistan/tashkent/parks/navruz-park",
+    "path": "uzbekistan/tashkent/parks/navruz-anhor-lokomotiv",
     "filename": "20220430_220809.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
-    "path": "uzbekistan/tashkent/parks/zoopark",
+    "path": "uzbekistan/tashkent/parks/zoo",
     "filename": "20220308_144438.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": "a bear in Zoo in Tashkent"
   },
   {
-    "path": "uzbekistan/tashkent/parks/zoopark",
+    "path": "uzbekistan/tashkent/parks/zoo",
     "filename": "20220308_144751.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": "a hippo in Zoo in Tashkent"
   },
   {
     "path": "uzbekistan/tashkent/minor-mosque",
     "filename": "20220311_103329.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/minor-mosque",
     "filename": "20220319_095720.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/museum-of-applied-arts",
     "filename": "20220416_134107.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/museum-of-applied-arts",
     "filename": "20220416_134425.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/museum-of-applied-arts",
     "filename": "20220416_134700.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/museum-of-applied-arts",
     "filename": "20220416_134841.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/ilkhom-theatre",
     "filename": "20220327_174948.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/ilkhom-theatre",
     "filename": "20220327_183841.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/ilkhom-theatre",
     "filename": "20220416_183442.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/pakhtakor",
     "filename": "20220401_185751.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/pakhtakor",
     "filename": "20220401_193740.mp4",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/pakhtakor",
     "filename": "20220401_200030.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/pakhtakor",
     "filename": "20220401_200052.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/pakhtakor",
     "filename": "20220401_201111.mp4",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/pakhtakor",
     "filename": "20220401_202116.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/pakhtakor",
     "filename": "20220401_204940.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/pakhtakor",
     "filename": "20220401_205229.mp4",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/suzuk-ota-complex",
     "filename": "20220503_093759.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/suzuk-ota-complex",
     "filename": "20220503_094459.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/suzuk-ota-complex",
     "filename": "20220503_095408.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/kukeldash-madrasah",
     "filename": "20220416_143823.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/tashkent/kukeldash-madrasah",
     "filename": "20220416_144009.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/navruz",
     "filename": "20220320_122006.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/navruz",
     "filename": "20220320_122222.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/navruz",
     "filename": "20220320_122449.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/navruz",
     "filename": "20220320_122456.mp4",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/navruz",
     "filename": "20220320_123358.mp4",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/navruz",
     "filename": "20220320_123839.mp4",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/navruz",
     "filename": "20220320_123856.mp4",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/navruz",
     "filename": "20220320_124932.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/navruz",
     "filename": "20220320_125231.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/navruz",
     "filename": "20220320_143327.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/navruz",
     "filename": "20220320_143512.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/navruz",
     "filename": "20220321_100117.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/navruz",
     "filename": "20220321_100313.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/navruz",
     "filename": "20220327_101006.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand",
     "filename": "20220312_062954.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand",
     "filename": "20220312_124546.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand",
     "filename": "20220312_163325.jpg",
     "thumbnail": "cloudinary",
-    "description": "Hazrat Khizr Mosque",
-    "text": ""
+    "description": "Hazrat Khizr Mosque"
   },
   {
     "path": "uzbekistan/samarkand",
     "filename": "20220313_091108.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/registan",
     "filename": "20220312_120606.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/registan",
     "filename": "20220312_195659.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/registan",
     "filename": "20220312_214210.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/registan/ulugh-beg-madrasah",
     "filename": "20220312_120210.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/registan/ulugh-beg-madrasah",
     "filename": "20220312_145637.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/registan/ulugh-beg-madrasah",
     "filename": "20220312_145740.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/registan/ulugh-beg-madrasah",
     "filename": "20220312_151342.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/registan/sher-dor-madrasah",
     "filename": "20220312_120431.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/registan/sher-dor-madrasah",
     "filename": "20220312_154940.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/registan/sher-dor-madrasah",
     "filename": "20220312_154948.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/registan/tilya-kori-madrasah",
     "filename": "20220312_120217.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/registan/tilya-kori-madrasah",
     "filename": "20220312_151735.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/registan/tilya-kori-madrasah",
     "filename": "20220312_151741.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/registan/tilya-kori-madrasah",
     "filename": "20220312_151758.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/registan/tilya-kori-madrasah",
     "filename": "20220312_185028.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/shah-i-zinda",
     "filename": "20220312_165011.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/shah-i-zinda",
     "filename": "20220312_165337.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/shah-i-zinda",
     "filename": "20220312_165800.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/shah-i-zinda",
     "filename": "20220312_170246.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/shah-i-zinda",
     "filename": "20220312_170549.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/gur-emir-mausoleum",
     "filename": "20220312_124156.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/gur-emir-mausoleum",
     "filename": "20220312_134614.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/gur-emir-mausoleum",
     "filename": "20220312_140635.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/gur-emir-mausoleum",
     "filename": "20220312_141119.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/gur-emir-mausoleum",
     "filename": "20220312_141157.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/gur-emir-mausoleum",
     "filename": "20220312_141324.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/gur-emir-mausoleum",
     "filename": "20220312_141344.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/gur-emir-mausoleum",
     "filename": "20220312_141838.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/gur-emir-mausoleum",
     "filename": "20220312_142503.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/gur-emir-mausoleum",
     "filename": "20220312_221343.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/gur-emir-mausoleum",
     "filename": "20220312_221434.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/bibi-khanym-mosque",
     "filename": "20220312_111840.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/bibi-khanym-mosque",
     "filename": "20220312_112110.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/bibi-khanym-mosque",
     "filename": "20220312_112324.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/bibi-khanym-mosque",
     "filename": "20220312_112459.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/bibi-khanym-mosque",
     "filename": "20220312_112801.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/bibi-khanym-mosque",
     "filename": "20220312_112808.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/bibi-khanym-mosque",
     "filename": "20220312_112916.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/bibi-khanym-mosque",
     "filename": "20220312_113050.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/bibi-khanym-mosque",
     "filename": "20220312_113212.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/bibi-khanym-mosque",
     "filename": "20220312_113422.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/bibi-khanym-mosque",
     "filename": "20220312_114022.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/bibi-khanym-mosque",
     "filename": "20220312_114254.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/bibi-khanym-mosque",
     "filename": "20220312_114349.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/bibi-khanym-mosque",
     "filename": "20220312_114520.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/bibi-khanym-mosque",
     "filename": "20220312_163645.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/ulugh-beg-observatory",
     "filename": "20220312_175839.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/samarkand/ulugh-beg-observatory",
     "filename": "20220312_181501.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara",
     "filename": "20220402_131338.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara",
     "filename": "20220402_133535.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara",
     "filename": "20220402_152649.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara",
     "filename": "20220402_200429.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara",
     "filename": "20220403_090333.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara",
     "filename": "20220403_090535.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara",
     "filename": "20220403_121521.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/po-i-kalyan-complex",
     "filename": "20220402_202345.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/po-i-kalyan-complex",
     "filename": "20220402_205529.mp4",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/po-i-kalyan-complex",
     "filename": "20220402_205601.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
-    "path": "uzbekistan/bukhara/po-i-kalyan-complex/mir-i-arab-madrasa",
+    "path": "uzbekistan/bukhara/po-i-kalyan-complex/mir-i-arab-madrasah",
     "filename": "20220402_161525.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
-    "path": "uzbekistan/bukhara/po-i-kalyan-complex/mir-i-arab-madrasa",
+    "path": "uzbekistan/bukhara/po-i-kalyan-complex/mir-i-arab-madrasah",
     "filename": "20220402_161855.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
-    "path": "uzbekistan/bukhara/po-i-kalyan-complex/mir-i-arab-madrasa",
+    "path": "uzbekistan/bukhara/po-i-kalyan-complex/mir-i-arab-madrasah",
     "filename": "20220402_161904.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
-    "path": "uzbekistan/bukhara/po-i-kalyan-complex/mir-i-arab-madrasa",
+    "path": "uzbekistan/bukhara/po-i-kalyan-complex/mir-i-arab-madrasah",
     "filename": "20220402_162905.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
-    "path": "uzbekistan/bukhara/po-i-kalyan-complex/mir-i-arab-madrasa",
+    "path": "uzbekistan/bukhara/po-i-kalyan-complex/mir-i-arab-madrasah",
     "filename": "20220402_202437.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/po-i-kalyan-complex/kalan-mosque",
     "filename": "20220402_163442.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/po-i-kalyan-complex/kalan-mosque",
     "filename": "20220402_163514.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/po-i-kalyan-complex/kalan-mosque",
     "filename": "20220402_163957.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/po-i-kalyan-complex/kalan-mosque",
     "filename": "20220402_165244.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/po-i-kalyan-complex/kalyan-minaret",
     "filename": "20220402_165048.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/po-i-kalyan-complex/kalyan-minaret",
     "filename": "20220402_165202.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/po-i-kalyan-complex/khanaka-amir-alimkhan",
     "filename": "20220402_164855.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/lyabi-khause",
     "filename": "20220402_182636.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/lyabi-khause",
     "filename": "20220402_182706.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/lyabi-khause",
     "filename": "20220402_182827.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/lyabi-khause",
     "filename": "20220402_212122.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/lyabi-khause/nadir-divan-begi-madrasah",
     "filename": "20220402_134527.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/lyabi-khause/nadir-divan-begi-madrasah",
     "filename": "20220402_134818.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/lyabi-khause/nadir-divan-begi-madrasah",
     "filename": "20220402_134845.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/lyabi-khause/nadir-divan-begi-madrasah",
     "filename": "20220402_140809.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/magoki-attor-mosque",
     "filename": "20220402_144436.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/magoki-attor-mosque",
     "filename": "20220402_144454.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/magoki-attor-mosque",
     "filename": "20220403_091343.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/trading-domes",
     "filename": "20220402_152351.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/trading-domes",
     "filename": "20220402_153449.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/trading-domes",
     "filename": "20220402_153953.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/trading-domes",
     "filename": "20220402_160343.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/trading-domes",
     "filename": "20220402_160519.mp4",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/trading-domes",
     "filename": "20220403_091404.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
-    "path": "uzbekistan/bukhara/abdulaziz-khan-madrassah",
+    "path": "uzbekistan/bukhara/abdulaziz-khan-madrasah",
     "filename": "20220402_153757.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
-    "path": "uzbekistan/bukhara/abdulaziz-khan-madrassah",
+    "path": "uzbekistan/bukhara/abdulaziz-khan-madrasah",
     "filename": "20220402_153859.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
-    "path": "uzbekistan/bukhara/abdulaziz-khan-madrassah",
+    "path": "uzbekistan/bukhara/abdulaziz-khan-madrasah",
     "filename": "20220402_154131.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
-    "path": "uzbekistan/bukhara/abdulaziz-khan-madrassah",
+    "path": "uzbekistan/bukhara/abdulaziz-khan-madrasah",
     "filename": "20220402_154223.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
-    "path": "uzbekistan/bukhara/abdulaziz-khan-madrassah",
+    "path": "uzbekistan/bukhara/abdulaziz-khan-madrasah",
     "filename": "20220402_155131.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
-    "path": "uzbekistan/bukhara/abdulaziz-khan-madrassah",
+    "path": "uzbekistan/bukhara/abdulaziz-khan-madrasah",
     "filename": "20220402_155300.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
-    "path": "uzbekistan/bukhara/abdulaziz-khan-madrassah",
+    "path": "uzbekistan/bukhara/abdulaziz-khan-madrasah",
     "filename": "20220403_135609.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/ark-of-bukhara",
     "filename": "20220402_171018.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/ark-of-bukhara",
     "filename": "20220402_171342.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/ark-of-bukhara",
     "filename": "20220402_173044.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/ark-of-bukhara",
     "filename": "20220403_121053.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/bolo-hauz-mosque",
     "filename": "20220402_171926.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/bolo-hauz-mosque",
     "filename": "20220402_172121.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/bolo-hauz-mosque",
     "filename": "20220402_172131.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/bolo-hauz-mosque",
     "filename": "20220402_172647.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/bolo-hauz-mosque",
     "filename": "20220402_172653.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/bolo-hauz-mosque",
     "filename": "20220402_204258.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/bolo-hauz-mosque",
     "filename": "20220403_121338.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
-    "path": "uzbekistan/bukhara/chor-minor-madrassah",
+    "path": "uzbekistan/bukhara/chor-minor-madrasah",
     "filename": "20220402_195614.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/bukhara-tower",
     "filename": "20220402_204550.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/sitori-i-mokhi-khosa-palace",
     "filename": "20220403_093246.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/sitori-i-mokhi-khosa-palace",
     "filename": "20220403_094000.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/sitori-i-mokhi-khosa-palace",
     "filename": "20220403_094014.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/sitori-i-mokhi-khosa-palace",
     "filename": "20220403_094047.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/sitori-i-mokhi-khosa-palace",
     "filename": "20220403_094447.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/sitori-i-mokhi-khosa-palace",
     "filename": "20220403_094631.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/sitori-i-mokhi-khosa-palace",
     "filename": "20220403_100841.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/sitori-i-mokhi-khosa-palace",
     "filename": "20220403_100851.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/sitori-i-mokhi-khosa-palace",
     "filename": "20220403_101027.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/sitori-i-mokhi-khosa-palace",
     "filename": "20220403_102936.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/chor-bakr-memorial-complex",
     "filename": "20220403_105919.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/chor-bakr-memorial-complex",
     "filename": "20220403_110329.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/chor-bakr-memorial-complex",
     "filename": "20220403_110533.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/samanid-mausoleum",
     "filename": "20220403_115027.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/samanid-mausoleum",
     "filename": "20220403_115240.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/bukhara/khoja-gaukushan-ensemble",
     "filename": "20220403_132627.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva",
     "filename": "20220424_133505.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala",
     "filename": "20220423_130358.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala",
     "filename": "20220423_130406.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala",
     "filename": "20220423_130549.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala",
     "filename": "20220423_164104.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala",
     "filename": "20220423_181422.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala",
     "filename": "20220423_182930.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala",
     "filename": "20220424_102100.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala",
     "filename": "20220424_102229.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala",
     "filename": "20220424_102701.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala",
     "filename": "20220424_152047.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala",
     "filename": "20220424_152100.mp4",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala/kalta-minor-minaret",
     "filename": "20220423_110308.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala/kalta-minor-minaret",
     "filename": "20220423_221036.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala/pakhlavan-makhmud-mausoleum",
     "filename": "20220423_112357.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala/pakhlavan-makhmud-mausoleum",
     "filename": "20220423_132815.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala/kunya-ark-citadel",
     "filename": "20220423_130042.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala/kunya-ark-citadel",
     "filename": "20220423_130208.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala/kunya-ark-citadel",
     "filename": "20220423_184311.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala/islam-khoja-minaret",
     "filename": "20220423_132028.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala/islam-khoja-minaret",
     "filename": "20220423_173551.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala/islam-khoja-minaret",
     "filename": "20220423_174648.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala/islam-khoja-minaret",
     "filename": "20220423_211648.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala/juma-mosque",
     "filename": "20220423_134334.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala/juma-mosque",
     "filename": "20220423_134340.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala/juma-mosque",
     "filename": "20220423_162457.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala/juma-mosque",
     "filename": "20220423_162750.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala/juma-mosque",
     "filename": "20220423_163310.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala/tach-khaouli-palace",
     "filename": "20220423_135548.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala/tach-khaouli-palace",
     "filename": "20220423_135932.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala/tach-khaouli-palace",
     "filename": "20220423_140253.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala/tach-khaouli-palace",
     "filename": "20220423_141136.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala/tach-khaouli-palace",
     "filename": "20220423_142033.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala/tach-khaouli-palace",
     "filename": "20220423_164427.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala/tach-khaouli-palace",
     "filename": "20220423_164536.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala/tach-khaouli-palace",
     "filename": "20220423_165415.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala/tach-khaouli-palace",
     "filename": "20220423_172135.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala/tach-khaouli-palace",
     "filename": "20220423_172507.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/itchan-kala/amir-tura-madrasah",
     "filename": "20220424_105722.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/nurullaboy-palace",
     "filename": "20220424_120050.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/khiva/nurullaboy-palace",
     "filename": "20220424_123118.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/amirsoy-resort",
     "filename": "20220409_101308.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/amirsoy-resort",
     "filename": "20220409_102229.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/amirsoy-resort",
     "filename": "20220409_105831.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/amirsoy-resort",
     "filename": "20220409_110922.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/amirsoy-resort",
     "filename": "20220409_110956.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/amirsoy-resort",
     "filename": "20220409_111039.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/amirsoy-resort",
     "filename": "20220409_112507.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/charvak-lake",
     "filename": "20220409_132609.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/charvak-lake",
     "filename": "20220409_133950.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/charvak-lake",
     "filename": "20220409_135511.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/charvak-lake",
     "filename": "20220409_135523.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/charvak-lake",
     "filename": "20220409_135536.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/charvak-lake",
     "filename": "20220430_105543.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/charvak-lake",
     "filename": "20220430_111005.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/charvak-lake",
     "filename": "20220430_111320.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/charvak-lake",
     "filename": "20220430_113348.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/charvak-lake",
     "filename": "20220430_115026.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/charvak-lake",
     "filename": "20220430_121513.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/charvak-lake",
     "filename": "20220430_121949.mp4",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/charvak-lake",
     "filename": "20220430_122030.mp4",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/charvak-lake",
     "filename": "20220430_123257.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/charvak-lake",
     "filename": "20220430_131352.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/charvak-lake",
     "filename": "20220430_132201.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/charvak-lake",
     "filename": "20220430_140125.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/charvak-lake",
     "filename": "20220430_142029.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/charvak-lake",
     "filename": "20220430_142039.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/charvak-lake",
     "filename": "20220430_142050.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_103528.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_111546.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_111600.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_120025.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_120143.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_121535.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_122553.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_123244.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_123945.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_130030.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_132225.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_140631.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_140712.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_152058.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_152512.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/nature/urunghach-lake",
     "filename": "20220417_153230.mp4",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/parkent",
     "filename": "20220410_110753.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/parkent",
     "filename": "20220410_113104.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/parkent",
     "filename": "20220410_121642.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/parkent",
     "filename": "20220410_122824.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/parkent",
     "filename": "20220410_123043.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/parkent",
     "filename": "20220410_123221.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/parkent",
     "filename": "20220410_123232.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/parkent",
     "filename": "20220410_124239.mp4",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/parkent",
     "filename": "20220410_125846.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/parkent",
     "filename": "20220410_131105.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/parkent",
     "filename": "20220410_132457.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/parkent",
     "filename": "20220410_132508.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/parkent",
     "filename": "20220410_132733.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/parkent",
     "filename": "20220410_132858.mp4",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/parkent",
     "filename": "20220410_132929.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/parkent",
     "filename": "20220410_133031.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/parkent",
     "filename": "20220410_140944.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/parkent",
     "filename": "20220410_154842.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/hojikent",
     "filename": "20220409_152516.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/hojikent",
     "filename": "20220409_153936.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/hojikent",
     "filename": "20220409_154027.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/hojikent",
     "filename": "20220409_161317.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/hojikent",
     "filename": "20220430_103058.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/hojikent",
     "filename": "20220430_103334.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220305_115557.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220305_115739.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220305_173927.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220306_112402.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220306_113726.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220306_115934.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220306_195831.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220306_200019.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220306_200124.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220307_165955.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220308_203628.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": "desserts in Bee Happy in Tashkent"
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220309_130139.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220309_130636.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220310_120851.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220312_101047.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220312_101144.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220312_104838.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220312_191615.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220313_081017.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220313_081025.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220313_155102.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220313_155227.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220313_170718.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220315_120415.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220319_094613.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220319_094658.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220319_105224.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220319_110019.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220319_113603.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220319_113807.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220319_113813.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220319_113830.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220319_203917.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220319_204850.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220320_105241.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220320_110116.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220320_121036.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220321_132050.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220321_140940.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220321_141335.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220324_105951.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220325_135142.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220326_121042.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220326_122934.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220326_122951.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220327_133659.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220327_133712.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220327_133842.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220327_151046.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220331_120704.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220331_120912.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220401_120218.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220402_123205.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220402_191533.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220402_191552.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220403_130645.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220403_130843.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220403_141703.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220405_120146.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220406_121019.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220406_121147.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220407_113944.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220407_115347.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220407_115411.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220409_143258.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220414_121246.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220415_145307.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220416_121206.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220416_123536.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220416_215112.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220417_211938.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220417_212825.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220422_120127.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220422_202729.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220422_205214.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220422_205723.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220423_095341.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220423_153551.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220423_213424.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220424_112112.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220424_142759.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220424_172426.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220428_120654.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220429_123100.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220429_123847.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220430_145212.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220430_145819.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220430_150846.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220501_103848.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220501_104128.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220501_104625.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220501_203328.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220502_115437.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220503_113217.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220503_114409.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "uzbekistan/food",
     "filename": "20220506_111849.jpg",
     "thumbnail": "cloudinary",
-    "description": "",
-    "text": ""
+    "description": ""
   },
   {
     "path": "board-games/go",
@@ -10531,5 +10383,17 @@
     "filename": "20220904_192443.jpg",
     "thumbnail": "cloudinary",
     "description": "playing Pocket Detective №2 (2020)"
+  },
+  {
+    "path": "board-games/castles-of-mad-king-ludwig",
+    "filename": "20220914_210113.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Castles of Mad King Ludwig (2014)"
+  },
+  {
+    "path": "board-games/castles-of-mad-king-ludwig",
+    "filename": "20220914_211710.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Castles of Mad King Ludwig (2014)"
   }
 ]
