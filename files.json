@@ -4970,19 +4970,19 @@
     "path": "uzbekistan/tashkent",
     "filename": "20220308_104306.jpg",
     "thumbnail": "cloudinary",
-    "description": "chickens not far from Hazrati Imam Complexin Tashkent"
+    "description": "chickens not far from Hazrati Imam Complex in Tashkent"
   },
   {
     "path": "uzbekistan/tashkent",
     "filename": "20220308_124057.jpg",
     "thumbnail": "cloudinary",
-    "description": "Amir Temur Avenuein Tashkent"
+    "description": "Amir Temur Avenue in Tashkent"
   },
   {
     "path": "uzbekistan/tashkent",
     "filename": "20220310_140917.jpg",
     "thumbnail": "cloudinary",
-    "description": "a view of Tian Shan mountains from the appartment window in Tashkent"
+    "description": "a view of the Tian Shan mountains from the appartment window in Tashkent"
   },
   {
     "path": "uzbekistan/tashkent",
@@ -5120,37 +5120,37 @@
     "path": "uzbekistan/tashkent/hazrati-imam-complex",
     "filename": "20220308_100215.jpg",
     "thumbnail": "cloudinary",
-    "description": "Khazrati Imam Mosque"
+    "description": "Khazrati Imam Mosque in Tashkent"
   },
   {
     "path": "uzbekistan/tashkent/hazrati-imam-complex",
     "filename": "20220308_100710.jpg",
     "thumbnail": "cloudinary",
-    "description": "Barakhan Madrasah"
+    "description": "Barakhan Madrasah in Tashkent"
   },
   {
     "path": "uzbekistan/tashkent/hazrati-imam-complex",
     "filename": "20220308_101040.jpg",
     "thumbnail": "cloudinary",
-    "description": "a kite over Khazrati Imam Mosque"
+    "description": "a kite over Khazrati Imam Mosque in Tashkent"
   },
   {
     "path": "uzbekistan/tashkent/hazrati-imam-complex",
     "filename": "20220308_101125.jpg",
     "thumbnail": "cloudinary",
-    "description": "Barakhan Madrasah"
+    "description": "Barakhan Madrasah in Tashkent"
   },
   {
     "path": "uzbekistan/tashkent/hazrati-imam-complex",
     "filename": "20220308_101344.jpg",
     "thumbnail": "cloudinary",
-    "description": "Barakhan Madrasah"
+    "description": "Barakhan Madrasah in Tashkent"
   },
   {
     "path": "uzbekistan/tashkent/hazrati-imam-complex",
     "filename": "20220308_101836.jpg",
     "thumbnail": "cloudinary",
-    "description": "Kaffal Shashi Mausoleum"
+    "description": "Kaffal Shashi Mausoleum in Tashkent"
   },
   {
     "path": "uzbekistan/tashkent/tashkent-tower",
@@ -5390,19 +5390,19 @@
     "path": "uzbekistan/tashkent/parks/navruz-anhor-lokomotiv",
     "filename": "20220310_214545.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "a view of the Navruz (Anhor Lokomotiv) Park from the Ankhor embankment in Tashkent"
   },
   {
     "path": "uzbekistan/tashkent/parks/navruz-anhor-lokomotiv",
     "filename": "20220310_220443.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "a bridge under the Ankhor channel not far from the Navruz (Anhor Lokomotiv) Park in Tashkent"
   },
   {
     "path": "uzbekistan/tashkent/parks/navruz-anhor-lokomotiv",
     "filename": "20220310_220931.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "a ferris wheel in the Navruz (Anhor Lokomotiv) Park in Tashkent"
   },
   {
     "path": "uzbekistan/tashkent/parks/navruz-anhor-lokomotiv",
@@ -6917,6 +6917,42 @@
     "description": ""
   },
   {
+    "path": "uzbekistan/hojikent",
+    "filename": "20220409_152516.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "uzbekistan/hojikent",
+    "filename": "20220409_153936.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "uzbekistan/hojikent",
+    "filename": "20220409_154027.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "uzbekistan/hojikent",
+    "filename": "20220409_161317.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "uzbekistan/hojikent",
+    "filename": "20220430_103058.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
+    "path": "uzbekistan/hojikent",
+    "filename": "20220430_103334.jpg",
+    "thumbnail": "cloudinary",
+    "description": ""
+  },
+  {
     "path": "uzbekistan/parkent",
     "filename": "20220410_110753.jpg",
     "thumbnail": "cloudinary",
@@ -7025,118 +7061,40 @@
     "description": ""
   },
   {
-    "path": "uzbekistan/hojikent",
-    "filename": "20220409_152516.jpg",
-    "thumbnail": "cloudinary",
-    "description": ""
-  },
-  {
-    "path": "uzbekistan/hojikent",
-    "filename": "20220409_153936.jpg",
-    "thumbnail": "cloudinary",
-    "description": ""
-  },
-  {
-    "path": "uzbekistan/hojikent",
-    "filename": "20220409_154027.jpg",
-    "thumbnail": "cloudinary",
-    "description": ""
-  },
-  {
-    "path": "uzbekistan/hojikent",
-    "filename": "20220409_161317.jpg",
-    "thumbnail": "cloudinary",
-    "description": ""
-  },
-  {
-    "path": "uzbekistan/hojikent",
-    "filename": "20220430_103058.jpg",
-    "thumbnail": "cloudinary",
-    "description": ""
-  },
-  {
-    "path": "uzbekistan/hojikent",
-    "filename": "20220430_103334.jpg",
-    "thumbnail": "cloudinary",
-    "description": ""
-  },
-  {
-    "path": "uzbekistan/food",
-    "filename": "20220305_115557.jpg",
-    "thumbnail": "cloudinary",
-    "description": ""
-  },
-  {
-    "path": "uzbekistan/food",
-    "filename": "20220305_115739.jpg",
-    "thumbnail": "cloudinary",
-    "description": ""
-  },
-  {
-    "path": "uzbekistan/food",
-    "filename": "20220305_173927.jpg",
-    "thumbnail": "cloudinary",
-    "description": ""
-  },
-  {
-    "path": "uzbekistan/food",
-    "filename": "20220306_112402.jpg",
-    "thumbnail": "cloudinary",
-    "description": ""
-  },
-  {
-    "path": "uzbekistan/food",
-    "filename": "20220306_113726.jpg",
-    "thumbnail": "cloudinary",
-    "description": ""
-  },
-  {
-    "path": "uzbekistan/food",
-    "filename": "20220306_115934.jpg",
-    "thumbnail": "cloudinary",
-    "description": ""
-  },
-  {
     "path": "uzbekistan/food",
     "filename": "20220306_195831.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "local bread in Tarnov Boshi in Tashkent"
   },
   {
-    "path": "uzbekistan/food",
-    "filename": "20220306_200019.jpg",
-    "thumbnail": "cloudinary",
-    "description": ""
-  },
-  {
-    "path": "uzbekistan/food",
+    "path": "uzbekistan/food/manti",
     "filename": "20220306_200124.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "Manti in Tarnov Boshi in Tashkent"
   },
   {
-    "path": "uzbekistan/food",
+    "path": "uzbekistan/food/plov",
     "filename": "20220307_165955.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "Plov in Samarkand Plov in Tashkent"
   },
   {
-    "path": "uzbekistan/food",
+    "path": "uzbekistan/food/desserts",
     "filename": "20220308_203628.jpg",
     "thumbnail": "cloudinary",
     "description": "desserts in Bee Happy in Tashkent"
   },
   {
-    "path": "uzbekistan/food",
+    "path": "uzbekistan/food/samsa",
     "filename": "20220309_130139.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "Samsa in local cafe on Khurshid street in Tashkent"
   },
   {
-    "path": "uzbekistan/food",
+    "path": "uzbekistan/food/plov",
     "filename": "20220309_130636.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "Plov in local cafe on Khurshid street in Tashkent"
   },
   {
     "path": "uzbekistan/food",
@@ -7635,6 +7593,48 @@
     "filename": "20220506_111849.jpg",
     "thumbnail": "cloudinary",
     "description": ""
+  },
+  {
+    "path": "uzbekistan/food/plov",
+    "filename": "20220305_115557.jpg",
+    "thumbnail": "cloudinary",
+    "description": "Plov with Achik-Chuchuk salad in Milliy Taomlar cafe on Sebzar street in Tashkent"
+  },
+  {
+    "path": "uzbekistan/food/plov",
+    "filename": "20220306_112402.jpg",
+    "thumbnail": "cloudinary",
+    "description": "local bread with Achik-Chuchuk salad in Beshqozon (Central Asian Plov Centre) in Tashkent"
+  },
+  {
+    "path": "uzbekistan/food/plov",
+    "filename": "20220306_113726.jpg",
+    "thumbnail": "cloudinary",
+    "description": "Plov in Beshqozon (Central Asian Plov Centre) in Tashkent"
+  },
+  {
+    "path": "uzbekistan/food/plov",
+    "filename": "20220306_115934.jpg",
+    "thumbnail": "cloudinary",
+    "description": "Plov cooking in Beshqozon (Central Asian Plov Centre) in Tashkent"
+  },
+  {
+    "path": "uzbekistan/food/laghman",
+    "filename": "20220305_115739.jpg",
+    "thumbnail": "cloudinary",
+    "description": "Laghman in Milliy Taomlar cafe on Sebzar street in Tashkent"
+  },
+  {
+    "path": "uzbekistan/food/naryn",
+    "filename": "20220306_200019.jpg",
+    "thumbnail": "cloudinary",
+    "description": "Naryn in Tarnov Boshi in Tashkent"
+  },
+  {
+    "path": "uzbekistan/food/desserts",
+    "filename": "20220305_173927.jpg",
+    "thumbnail": "cloudinary",
+    "description": "coffee in Afiyet cafe in Tashkent"
   },
   {
     "path": "board-games/go",

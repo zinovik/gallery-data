@@ -357,6 +357,10 @@
     "path": "sakartvelo/svaneti"
   },
   {
+    "title": "Mestia",
+    "path": "sakartvelo/svaneti/mestia"
+  },
+  {
     "title": "Dogs",
     "path": "sakartvelo/dogs"
   },
@@ -880,16 +884,40 @@
     "path": "uzbekistan/nature/urunghach-lake"
   },
   {
-    "title": "Parkent",
-    "path": "uzbekistan/parkent"
-  },
-  {
     "title": "Hojikent",
     "path": "uzbekistan/hojikent"
   },
   {
+    "title": "Parkent",
+    "path": "uzbekistan/parkent"
+  },
+  {
     "title": "Food",
     "path": "uzbekistan/food"
+  },
+  {
+    "title": "Plov (pilaf)",
+    "path": "uzbekistan/food/plov"
+  },
+  {
+    "title": "Laghman",
+    "path": "uzbekistan/food/laghman"
+  },
+  {
+    "title": "Naryn",
+    "path": "uzbekistan/food/naryn"
+  },
+  {
+    "title": "Manti",
+    "path": "uzbekistan/food/manti"
+  },
+  {
+    "title": "Samsa",
+    "path": "uzbekistan/food/samsa"
+  },
+  {
+    "title": "Desserts",
+    "path": "uzbekistan/food/desserts"
   },
 
   {
@@ -963,7 +991,11 @@
   },
   {
     "title": "Barrage (2019)",
-    "path": "board-games/barrage"
+    "path": "board-games/barrage",
+    "text": [
+      "An absolutely amazing game! I really like it!",
+      "Really complicated because this game includes not only mechanics but the physics! A big part of the rulebook is not \"how to play it\" but \"how does it work\"."
+    ]
   },
   {
     "title": "Battle Line (2000)",
@@ -1356,7 +1388,12 @@
   },
   {
     "title": "Pandemic (2008)",
-    "path": "board-games/pandemic"
+    "path": "board-games/pandemic",
+    "text": [
+      "One of the most classical cooperative games with the tower defense mechanics.",
+      "During the game, you should combine your abilities and make decisions like completely eradicating one disease or stopping another to spread too much.",
+      "I am not a big fan of so simple cooperative games but this one is pretty popular that's why I had to try it. This game's rules are completely clear and easily understandable. Maybe, I would play a couple more times."
+    ]
   },
   {
     "title": "Paper Dungeons: A Dungeon Scrawler Game (2020)",

@@ -3,8 +3,8 @@ const fs = require("fs");
 const { exec } = require("child_process");
 const { promisify } = require("util");
 
-const LOGIN = process.argv[2];
-const PASS = process.argv[3];
+const API_KEY = process.argv[2];
+const API_SECRET = process.argv[3];
 const PREFIXES = [
   "gallery/zanzibar",
   "gallery/naliboki",
@@ -16,7 +16,7 @@ const PREFIXES = [
 ];
 const FILE_URLS_FILE = "./file-urls.json";
 
-const Authorization = `Basic ${Buffer.from(`${LOGIN}:${PASS}`).toString(
+const Authorization = `Basic ${Buffer.from(`${API_KEY}:${API_SECRET}`).toString(
   "base64"
 )}`;
 
