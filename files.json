@@ -7067,36 +7067,6 @@
     "description": "local bread in Tarnov Boshi in Tashkent"
   },
   {
-    "path": "uzbekistan/food/manti",
-    "filename": "20220306_200124.jpg",
-    "thumbnail": "cloudinary",
-    "description": "Manti in Tarnov Boshi in Tashkent"
-  },
-  {
-    "path": "uzbekistan/food/plov",
-    "filename": "20220307_165955.jpg",
-    "thumbnail": "cloudinary",
-    "description": "Plov in Samarkand Plov in Tashkent"
-  },
-  {
-    "path": "uzbekistan/food/desserts",
-    "filename": "20220308_203628.jpg",
-    "thumbnail": "cloudinary",
-    "description": "desserts in Bee Happy in Tashkent"
-  },
-  {
-    "path": "uzbekistan/food/samsa",
-    "filename": "20220309_130139.jpg",
-    "thumbnail": "cloudinary",
-    "description": "Samsa in local cafe on Khurshid street in Tashkent"
-  },
-  {
-    "path": "uzbekistan/food/plov",
-    "filename": "20220309_130636.jpg",
-    "thumbnail": "cloudinary",
-    "description": "Plov in local cafe on Khurshid street in Tashkent"
-  },
-  {
     "path": "uzbekistan/food",
     "filename": "20220310_120851.jpg",
     "thumbnail": "cloudinary",
@@ -7619,6 +7589,18 @@
     "description": "Plov cooking in Beshqozon (Central Asian Plov Centre) in Tashkent"
   },
   {
+    "path": "uzbekistan/food/plov",
+    "filename": "20220307_165955.jpg",
+    "thumbnail": "cloudinary",
+    "description": "Plov in Samarkand Plov in Tashkent"
+  },
+  {
+    "path": "uzbekistan/food/plov",
+    "filename": "20220309_130636.jpg",
+    "thumbnail": "cloudinary",
+    "description": "Plov in local cafe on Khurshid street in Tashkent"
+  },
+  {
     "path": "uzbekistan/food/laghman",
     "filename": "20220305_115739.jpg",
     "thumbnail": "cloudinary",
@@ -7631,10 +7613,28 @@
     "description": "Naryn in Tarnov Boshi in Tashkent"
   },
   {
+    "path": "uzbekistan/food/manti",
+    "filename": "20220306_200124.jpg",
+    "thumbnail": "cloudinary",
+    "description": "Manti in Tarnov Boshi in Tashkent"
+  },
+  {
+    "path": "uzbekistan/food/samsa",
+    "filename": "20220309_130139.jpg",
+    "thumbnail": "cloudinary",
+    "description": "Samsa in local cafe on Khurshid street in Tashkent"
+  },
+  {
     "path": "uzbekistan/food/desserts",
     "filename": "20220305_173927.jpg",
     "thumbnail": "cloudinary",
     "description": "coffee in Afiyet cafe in Tashkent"
+  },
+  {
+    "path": "uzbekistan/food/desserts",
+    "filename": "20220308_203628.jpg",
+    "thumbnail": "cloudinary",
+    "description": "desserts in Bee Happy in Tashkent"
   },
   {
     "path": "board-games/go",
