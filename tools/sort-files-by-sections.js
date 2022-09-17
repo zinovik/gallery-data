@@ -2,7 +2,14 @@ const fs = require("fs");
 const { exec } = require("child_process");
 const { promisify } = require("util");
 
-const SKIP_SECTIONS = ["board-games"];
+const SECTIONS_TO_SORT = [
+  "gallery/zanzibar",
+  "gallery/naliboki",
+  "gallery/sakartvelo",
+  "gallery/zalessie",
+  "gallery/sri-lanka",
+  "gallery/uzbekistan",
+];
 const SECTIONS_FILE = "./sections.json";
 const FILES_FILE = "./files.json";
 
@@ -21,12 +28,12 @@ const FILES_FILE = "./files.json";
   console.log("Files before sorting:", files.length);
 
   const filesSorted = [...files].sort((f1, f2) =>
-    SKIP_SECTIONS.some(
+    SECTIONS_TO_SORT.some(
       (section) =>
         f1.path.indexOf(section) === 0 || f2.path.indexOf(section) === 0
     )
-      ? 0
-      : sectionPaths.indexOf(f1.path) - sectionPaths.indexOf(f2.path)
+      ? sectionPaths.indexOf(f1.path) - sectionPaths.indexOf(f2.path)
+      : 0
   );
 
   console.log("Files after sorting:", filesSorted.length);
