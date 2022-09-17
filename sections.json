@@ -712,10 +712,6 @@
     "path": "uzbekistan/tashkent/kukeldash-madrasah"
   },
   {
-    "title": "Navruz",
-    "path": "uzbekistan/navruz"
-  },
-  {
     "title": "Samarkand",
     "path": "uzbekistan/samarkand"
   },
@@ -890,6 +886,10 @@
   {
     "title": "Parkent",
     "path": "uzbekistan/parkent"
+  },
+  {
+    "title": "Navruz",
+    "path": "uzbekistan/navruz"
   },
   {
     "title": "Food",
