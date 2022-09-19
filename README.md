@@ -22,6 +22,7 @@ interface FileInterface {
   description?: string;
   text?: string | string[];
   order?: number;
+  isVertical?: boolean;
 }
 ```
 
@@ -35,9 +36,9 @@ String[]
 
 Tools:
 
-- `node tools/cloudinary.js <user> <password>` - connects cloudinary, gets all uploaded files urls and saves it to the `file-urls.json` file
+- `node tools/cloudinary.js <api_key> <api_secret>` - connects cloudinary, gets all uploaded files urls and saves it to the `file-urls.json` file
 - `node tools/find-missing-items.js` - checks the data errors like missing or unused urls
-- `node tools/sort-files-by-sections.js` - sorts files by sections
+- `node tools/sort-files.js` - sorts files by sections
 
 ```bash
 npx serve --cors

@@ -3,23 +3,25 @@ const fileUrls = require("../file-urls.json");
 const sections = require("../sections.json");
 
 files.forEach((file) => {
-  const fileUrl = fileUrls.find((fileUrl) => fileUrl.includes(file.filename));
-  if (!fileUrl)
-    console.error(`ERROR: Missing file url for file: ${file.filename}`);
+  if (!fileUrls.some((fileUrl) => fileUrl.includes(file.filename)))
+    console.error(`ERROR: Missing file url for the file: ${file.filename}`);
 
-  const section = sections.find((section) => section.path === file.path);
-  if (!section)
+  if (!sections.some((section) => section.path === file.path))
     console.error(`ERROR: Missing section for the file path: ${file.path}`);
+
+  if (!file.description)
+    console.warn(
+      `WARNING: Missing file description for the file: ${file.filename}`
+    );
 });
 
 fileUrls.forEach((fileUrl) => {
-  const file = files.find((file) => fileUrl.includes(file.filename));
-  if (!file) console.error(`ERROR: Missing file for the url: ${fileUrl}`);
+  if (!files.some((file) => fileUrl.includes(file.filename)))
+    console.error(`ERROR: Missing file for the url: ${fileUrl}`);
 });
 
 sections.forEach((section) => {
-  const file = files.find((file) => file.path === section.path);
-  if (!file && !section.text)
+  if (!files.some((file) => file.path === section.path) && !section.text)
     console.warn(
       `WARNING: Missing files and text for the section: ${section.path}`
     );

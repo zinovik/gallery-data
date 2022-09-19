@@ -172,14 +172,14 @@
   {
     "title": "🇬🇪 Gorgeous and tasty Sakartvelo (Georgia)",
     "path": "sakartvelo",
-    "text": "A summer trip to a small and underrated country with unique nature, cuisine and culture."
+    "text": "A summer trip to a small country with unique nature, cuisine and culture."
   },
   {
     "title": "Intro",
     "path": "sakartvelo/intro",
     "text": [
       "🇬🇪 **Georgia** (locals call it Sakartvelo) is a small country between 🇷🇺 **Russia** on the north, Black sea on the west and 🇹🇷 **Turkey**, 🇦🇲 **Armenia** and 🇦🇿 **Azerbaijan** on the south and south-east.",
-      "🇬🇪 **Georgia** is really rich for the tourists: it has the 🌊 sea, ⛰️ mountains, 🍲 cuisine, and ⛪ culture. Everyone can find something interesting. Also, Georgians are 🍷 hospitable people, so feel yourself welcome guests here."
+      "🇬🇪 **Georgia** is really rich for the tourists: it has the 🌊 sea, ⛰️ mountains, 🍲 cuisine, and ⛪ culture. Everyone can find something interesting."
     ]
   },
   {
@@ -357,8 +357,28 @@
     "path": "sakartvelo/svaneti"
   },
   {
+    "title": "Enguri Dam",
+    "path": "sakartvelo/svaneti/enguri-dam"
+  },
+  {
+    "title": "Road to/from",
+    "path": "sakartvelo/svaneti/road-to-from"
+  },
+  {
     "title": "Mestia",
     "path": "sakartvelo/svaneti/mestia"
+  },
+  {
+    "title": "Heshkili",
+    "path": "sakartvelo/svaneti/heshkili"
+  },
+  {
+    "title": "Chalaadi Glacier",
+    "path": "sakartvelo/svaneti/chalaadi-glacier"
+  },
+  {
+    "title": "Cable car",
+    "path": "sakartvelo/svaneti/cable-car"
   },
   {
     "title": "Dogs",
@@ -425,8 +445,7 @@
     "path": "sakartvelo/outro",
     "text": [
       "An interesting fact that proves one more time the uniqueness of the country: Georgians count not by 10, but by 20: not twenty, thirty, forty, but something like twenty, twenty and ten, two-twenty...",
-      "It's impossible to put all impressions on one page. I have no more space for amazing toasts by <a href=\"https://youtube.com/watch?v=YgAQu8O7gFg\" target=\"_blank\">Vaja Davitadze</a>, for stories about two crazy 🏎️ drivers in Georgia and one in my country on the way home, and much more...",
-      "It was really nice trip, but I haven't been to **Svaneti** yet. Hope to return there one day."
+      "It's impossible to put all impressions on one page. I have no more space for amazing toasts by <a href=\"https://youtube.com/watch?v=YgAQu8O7gFg\" target=\"_blank\">Vaja Davitadze</a>, for stories about two crazy 🏎️ drivers in Georgia and one in my country on the way home, and much more..."
     ]
   },
 
@@ -688,6 +707,14 @@
     "path": "uzbekistan/tashkent/parks/zoo"
   },
   {
+    "title": "Channels",
+    "path": "uzbekistan/tashkent/channels"
+  },
+  {
+    "title": "Mahallas",
+    "path": "uzbekistan/tashkent/mahallas"
+  },
+  {
     "title": "Minor Mosque",
     "path": "uzbekistan/tashkent/minor-mosque"
   },
@@ -930,7 +957,8 @@
     "path": "board-games/intro",
     "text": [
       "Modern board games are too colorful and beautiful not to be photographed that's why I have a lot of photos. On this page, I share some board game experiences I had.",
-      "Therefore, it turns out that I have two board games collections: the first one is <a href=\"https://boardgamegeek.com/collection/user/zinovik?sort=rank&sortdir=asc&rankobjecttype=subtype&rankobjectid=1&columns=title%7Cthumbnail%7Cstatus%7Crank%7Cbggrating%7Cavgrating%7Cnumvoters%7Ccomment%7Cavgweight&geekranks=Board%20Game%20Rank&own=1&objecttype=thing&ff=1&subtype=boardgame\" target=\"_blank\">the physical copies</a>, and the second is <a href=\"https://boardgamegeek.com/collection/user/zinovik?sort=rank&sortdir=asc&rankobjecttype=subtype&rankobjectid=1&columns=title%7Cthumbnail%7Cstatus%7Crank%7Cbggrating%7Cavgrating%7Cnumvoters%7Ccomment%7Cavgweight&geekranks=Board%20Game%20Rank&wishlist=1&objecttype=thing&ff=1&subtype=boardgame\" target=\"_blank\">the games that I've played</a> (I mark it with the **Wishlist(4) (Thinking about it)** label on BGG)."
+      "Therefore, it turns out that I have two board games collections: the first one is <a href=\"https://boardgamegeek.com/collection/user/zinovik?sort=rank&sortdir=asc&rankobjecttype=subtype&rankobjectid=1&columns=title%7Cthumbnail%7Cstatus%7Crank%7Cbggrating%7Cavgrating%7Cnumvoters%7Ccomment%7Cavgweight&geekranks=Board%20Game%20Rank&own=1&objecttype=thing&ff=1&subtype=boardgame\" target=\"_blank\">the physical copies</a>, and the second is <a href=\"https://boardgamegeek.com/collection/user/zinovik?sort=rank&sortdir=asc&rankobjecttype=subtype&rankobjectid=1&columns=title%7Cthumbnail%7Cstatus%7Crank%7Cbggrating%7Cavgrating%7Cnumvoters%7Ccomment%7Cavgweight&geekranks=Board%20Game%20Rank&wishlist=1&objecttype=thing&ff=1&subtype=boardgame\" target=\"_blank\">the games I've played</a> (I mark it with the **Wishlist(4) (Thinking about it)** label on BGG).",
+      "Some photos are old and ugly. New ones should be better."
     ]
   },
   {
@@ -986,6 +1014,10 @@
     "path": "board-games/azul-stained-glass-of-sintra"
   },
   {
+    "title": "Azul: Summer Pavilion (2019)",
+    "path": "board-games/azul-summer-pavilion"
+  },
+  {
     "title": "Bärenpark (2017)",
     "path": "board-games/barenpark"
   },
@@ -993,8 +1025,11 @@
     "title": "Barrage (2019)",
     "path": "board-games/barrage",
     "text": [
-      "An absolutely amazing game! I really like it!",
-      "It's complicated because this game includes not only mechanics but the physics! A big part of the rulebook is not about \"how to play it\" but about \"how does it work\"."
+      "A very clever game, I like it!",
+      "It's a one complicated one because this game includes not only mechanics but the physics! A big part of the rulebook is not about \"how to play it\" but about \"how does it work\".",
+      "The game is about the flow of water and using it's power. Sometimes it's better to be above your opponents to steal their water but sometimes it's more convenient to be below of them to reuse it.",
+      "Also, the resource wheel are interesting mechanics - you spend your resources but later it come back to you and you can use it again.",
+      "The game feeling is similar to the **Brass** games: tough and grim industrial competition."
     ]
   },
   {
@@ -1056,6 +1091,10 @@
   {
     "title": "Cartographers (2019)",
     "path": "board-games/cartographers"
+  },
+  {
+    "title": "Cascadia (2021)",
+    "path": "board-games/cascadia"
   },
   {
     "title": "Castles of Mad King Ludwig (2014)",
@@ -1250,6 +1289,10 @@
     "path": "board-games/illusion"
   },
   {
+    "title": "Imhotep (2016)",
+    "path": "board-games/imhotep"
+  },
+  {
     "title": "Inis (2016)",
     "path": "board-games/inis"
   },
@@ -1333,6 +1376,10 @@
   {
     "title": "Lost Ruins of Arnak (2020)",
     "path": "board-games/lost-ruins-of-arnak"
+  },
+  {
+    "title": "Love Letter (2012)",
+    "path": "board-games/love-letter"
   },
   {
     "title": "Mansions of Madness: Second Edition (2016)",
