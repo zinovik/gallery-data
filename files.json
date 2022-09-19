@@ -10435,5 +10435,29 @@
     "filename": "20220918_210349.jpg",
     "thumbnail": "cloudinary",
     "description": "playing Azul: Summer Pavilion (2019)"
+  },
+  {
+    "path": "board-games/onitama",
+    "filename": "20220919_193516.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Onitama (2014)"
+  },
+  {
+    "path": "board-games/onitama",
+    "filename": "20220919_193549.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Onitama (2014)"
+  },
+  {
+    "path": "board-games/mystic-vale",
+    "filename": "20220919_221124.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Mystic Vale (2016)"
+  },
+  {
+    "path": "board-games/mystic-vale",
+    "filename": "20220919_222237.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Mystic Vale (2016)"
   }
 ]
