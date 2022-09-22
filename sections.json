@@ -1007,15 +1007,26 @@
   },
   {
     "title": "Azul (2017)",
-    "path": "board-games/azul"
+    "path": "board-games/azul",
+    "text": [
+      "The first classic Azul game is one of the best abstract games.",
+      "Everything is perfect here: simple rules but depth of decisions, amazing components, and the players' interaction...",
+      "The game is clear for people who don't play board games but it's also interesting for people who play board games."
+    ]
   },
   {
     "title": "Azul: Stained Glass of Sintra (2018)",
-    "path": "board-games/azul-stained-glass-of-sintra"
+    "path": "board-games/azul-stained-glass-of-sintra",
+    "text": [
+      "The second Azul game. This one is a bit more complicated - it's not so easy to explain the rules for people who don't play board games but it's still not really heavy.",
+      "The players have a glazier now who can restrict the places are available to put glass panes but the some more interesting move options like getting nothing and to move the glazier instead of it. I like it.",
+      "The results at the end of the game look not so beautiful because you remove filled windows and scoring is not so intuitive anymore but the game is really good and the feeling is similar to the first part."
+    ]
   },
   {
     "title": "Azul: Summer Pavilion (2019)",
-    "path": "board-games/azul-summer-pavilion"
+    "path": "board-games/azul-summer-pavilion",
+    "text": ["The third Azul game"]
   },
   {
     "title": "Bärenpark (2017)",
@@ -1351,7 +1362,12 @@
   },
   {
     "title": "Libertalia: Winds of Galecrest (2022)",
-    "path": "board-games/libertalia"
+    "path": "board-games/libertalia",
+    "text": [
+      "The game is a mix of the main **For Sale** mechanics (Auction: Sealed Bid) and playing a row of the cards one by one like in **Oriflamme**",
+      "This is a reimplementation of the **Libertalia** game 10 years after. It has more cards and some improvements. Also, the art was changed.",
+      "The rules are simple, and the decisions are interesting. The players' diapason (1-6) is perfect. The game flows easy and fun like another game of this author **Ethnos**."
+    ]
   },
   {
     "title": "London (Second Edition)",
@@ -1409,7 +1425,7 @@
     "title": "Mystic Vale (2016)",
     "path": "board-games/mystic-vale",
     "text": [
-      "The main idea of the game is card crafting mechanics. The authors tried to build the game around it.",
+      "The main idea of the game is a card crafting mechanics. The authors tried to build the game around it.",
       "But for me, the receipt of this game looks like this: get **Dominion**, improve it a little bit (e. g., add cards you can hold not in the deck), add push your luck mechanics when you get cards from your deck and finally add the possibility to improve your deck cards with advancements (each deck card is in the sleeve so you can add half-transparent advancements cards inside).",
       "It's a solid game that works fine. It looks unusual but it doesn't feel like that. If you like deck-building games - this is a pretty good one. Also, the setting is nice here."
     ]
@@ -1436,7 +1452,13 @@
   },
   {
     "title": "Onitama (2014)",
-    "path": "board-games/onitama"
+    "path": "board-games/onitama",
+    "text": [
+      "An abstract chess-like game without any random (after the game setup).",
+      "All your 5 figures have the same move options depending on the movement cards you have. After using a card you pass it to your opponent.",
+      "Since the game doesn't have any random you can calculate moves ahead, that's the main sense of the game",
+      "A fast and simple to learn game."
+    ]
   },
   {
     "title": "Opale (2019)",
