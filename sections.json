@@ -1010,8 +1010,8 @@
     "path": "board-games/azul",
     "text": [
       "The first classic Azul game is one of the best abstract games.",
-      "Everything is perfect here: simple rules but depth of decisions, amazing components, and the players' interaction...",
-      "The game is clear for people who don't play board games but it's also interesting for people who play board games."
+      "Everything is perfect here: simple rules but depth of decisions, amazing components, and the players' interaction... The interaction works especially well for the 2 players game.",
+      "The game is clear for people who don't play board games but it's also interesting for people who do play board games."
     ]
   },
   {
@@ -1019,14 +1019,18 @@
     "path": "board-games/azul-stained-glass-of-sintra",
     "text": [
       "The second Azul game. This one is a bit more complicated - it's not so easy to explain the rules for people who don't play board games but it's still not really heavy.",
-      "The players have a glazier now who can restrict the places are available to put glass panes but the some more interesting move options like getting nothing and to move the glazier instead of it. I like it.",
+      "The players have a glazier now who can restrict the places that are available to put glass panes. But there are some more interesting move options like getting nothing and moving the glazier instead of it. I like it.",
       "The results at the end of the game look not so beautiful because you remove filled windows and scoring is not so intuitive anymore but the game is really good and the feeling is similar to the first part."
     ]
   },
   {
     "title": "Azul: Summer Pavilion (2019)",
     "path": "board-games/azul-summer-pavilion",
-    "text": ["The third Azul game"]
+    "text": [
+      "The third Azul game. It has more variability like the second one (for example, it introduced the bonuses) but it saved the simplicity of the first one: calculating the points is the same elementary. I think that's why it's more popular than the second one.",
+      "Like the second game it has fixed rounds amount but unlike the second one it has wild color each round (in **Azul: Stained Glass of Sintra** you have a bonus color to earn more points each round).",
+      "The game is one of the best in the series and similar to other Azuls push you to play it again and again - the feeling of creating something beautiful during the game doesn't leave you."
+    ]
   },
   {
     "title": "Bärenpark (2017)",
@@ -1197,7 +1201,14 @@
   },
   {
     "title": "Dominant Species: Marine (2021)",
-    "path": "board-games/dominant-species-marine"
+    "path": "board-games/dominant-species-marine",
+    "text": [
+      "A big evolution game. I thought it's a euro-style game but not really - there is a lot of direct interaction here.",
+      "You can spread the elements your species need to live or adapt your species to new elements or even try to remove the elements your opponents need to live.",
+      "Also the worker placement mechanics has an interesting implementation here. You have a bunch of workers and can only put the next one below or right to the previous one. And the action spaces have a specific order. And then you retrieve all the workers.",
+      "One play is not enough to use effectively everything here. For example, I underestimated the cards - it's really powerful here.",
+      "And the last but not least point: the setting works perfectly with mechanics here."
+    ]
   },
   {
     "title": "Dominion (2008)",
@@ -1301,7 +1312,13 @@
   },
   {
     "title": "Imhotep (2016)",
-    "path": "board-games/imhotep"
+    "path": "board-games/imhotep",
+    "text": [
+      "The box is pretty big but the game is not complicated.",
+      "The main idea is to load ships with stones and ship them to different places. On your turn, you can get more stone, load a ship, ship it with the stones or play a card.",
+      "Each stone works for its owner. Taking into consideration that your can ship other players' stones it's an interesting decision: you can either increase the benefit you'll get after shipping or choose the place where to ship because these places work differently and can be more or less useful for you during the game.",
+      "This type of games seems to work better with 4 players, it's laconic and maybe it has some complexity reserve to play with the expansion."
+    ]
   },
   {
     "title": "Inis (2016)",
@@ -1366,7 +1383,7 @@
     "text": [
       "The game is a mix of the main **For Sale** mechanics (Auction: Sealed Bid) and playing a row of the cards one by one like in **Oriflamme**",
       "This is a reimplementation of the **Libertalia** game 10 years after. It has more cards and some improvements. Also, the art was changed.",
-      "The rules are simple, and the decisions are interesting. The players' diapason (1-6) is perfect. The game flows easy and fun like another game of this author **Ethnos**."
+      "The rules are simple, and the decisions are interesting. The players' diapason (1-6) is perfect. The game flows easy and fun like another game of this author: **Ethnos**."
     ]
   },
   {
