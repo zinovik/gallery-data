@@ -10459,5 +10459,59 @@
     "filename": "20220919_222237.jpg",
     "thumbnail": "cloudinary",
     "description": "playing Mystic Vale (2016)"
+  },
+  {
+    "path": "board-games/cafe",
+    "filename": "20220925_194207.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Café (2020)"
+  },
+  {
+    "path": "board-games/takenoko",
+    "filename": "20220926_191500.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Takenoko (2011)"
+  },
+  {
+    "path": "board-games/takenoko",
+    "filename": "20220926_191658.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Takenoko (2011)"
+  },
+  {
+    "path": "board-games/takenoko",
+    "filename": "20220926_191735.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Takenoko (2011)"
+  },
+  {
+    "path": "board-games/barenpark",
+    "filename": "20220926_214915.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Bärenpark (2017)"
+  },
+  {
+    "path": "board-games/living-forest",
+    "filename": "20220927_203054.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Living Forest (2021)"
+  },
+  {
+    "path": "board-games/living-forest",
+    "filename": "20220927_203115.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Living Forest (2021)"
+  },
+  {
+    "path": "board-games/gods-love-dinosaurs",
+    "filename": "20220927_221151.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Gods Love Dinosaurs (2020)"
+  },
+  {
+    "path": "board-games/gods-love-dinosaurs",
+    "filename": "20220927_223856.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Gods Love Dinosaurs (2020)"
   }
 ]

@@ -1092,6 +1092,10 @@
     "path": "board-games/bunny-kingdom"
   },
   {
+    "title": "Café (2020)",
+    "path": "board-games/cafe"
+  },
+  {
     "title": "Calico (2020)",
     "path": "board-games/calico"
   },
@@ -1287,6 +1291,10 @@
     "path": "board-games/go"
   },
   {
+    "title": "Gods Love Dinosaurs (2020)",
+    "path": "board-games/gods-love-dinosaurs"
+  },
+  {
     "title": "Grand Austria Hotel (2015)",
     "path": "board-games/grand-austria-hotel"
   },
@@ -1387,7 +1395,11 @@
     ]
   },
   {
-    "title": "London (Second Edition)",
+    "title": "Living Forest (2021)",
+    "path": "board-games/living-forest"
+  },
+  {
+    "title": "London (Second Edition) (2017)",
     "path": "board-games/london"
   },
   {

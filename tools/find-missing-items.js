@@ -11,7 +11,7 @@ files.forEach((file) => {
 
   if (!file.description)
     console.warn(
-      `WARNING: Missing file description for the file: ${file.filename}`
+      `WARNING: Missing file description for the file: ${file.filename} (${file.path})`
     );
 });
 
