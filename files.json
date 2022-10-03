@@ -5287,7 +5287,7 @@
     "path": "uzbekistan/samarkand",
     "filename": "20220312_124546.jpg",
     "thumbnail": "cloudinary",
-    "description": ""
+    "description": "Rukhobod Mausoleum in Samarkand"
   },
   {
     "path": "uzbekistan/samarkand/gur-emir-mausoleum",
@@ -10541,5 +10541,23 @@
     "filename": "20221001_233908.jpg",
     "thumbnail": "cloudinary",
     "description": "playing Paris: La Cité de la Lumière (2019)"
+  },
+  {
+    "path": "board-games/kanban-ev",
+    "filename": "20221002_200209.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Kanban EV (2020)"
+  },
+  {
+    "path": "board-games/kanban-ev",
+    "filename": "20221002_203406.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Kanban EV (2020)"
+  },
+  {
+    "path": "board-games/kanban-ev",
+    "filename": "20221002_203424.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Kanban EV (2020)"
   }
 ]
