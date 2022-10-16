@@ -10595,5 +10595,23 @@
     "filename": "20221015_131657.jpg",
     "thumbnail": "cloudinary",
     "description": "playing Ark Nova (2021)"
+  },
+  {
+    "path": "board-games/the-castles-of-burgundy",
+    "filename": "20221015_201349.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing The Castles of Burgundy (2011)"
+  },
+  {
+    "path": "board-games/goa",
+    "filename": "20221015_224003.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Goa (2004)"
+  },
+  {
+    "path": "board-games/goa",
+    "filename": "20221015_224015.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Goa (2004)"
   }
 ]
