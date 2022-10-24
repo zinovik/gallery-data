@@ -20,10 +20,10 @@ const Authorization = `Basic ${Buffer.from(`${API_KEY}:${API_SECRET}`).toString(
   "base64"
 )}`;
 
-const getCloudinaryUrl = (prefix, isVideo = false) =>
-  `https://api.cloudinary.com/v1_1/zinovik/resources/${
-    isVideo ? "video" : "image"
-  }?prefix=${prefix}&type=upload&max_results=500`;
+const getCloudinaryUrl = (prefix, type, nextCursor) =>
+  `https://api.cloudinary.com/v1_1/zinovik/resources/${type}?prefix=${prefix}&type=upload&max_results=500${
+    nextCursor ? `&next_cursor=${nextCursor}` : ""
+  }`;
 
 const request = (url) =>
   new Promise((resolve, reject) => {
@@ -42,13 +42,27 @@ const request = (url) =>
 
 const getFilename = (url) => url.split("/").slice(-1)[0] || "";
 
+const getCloudinaryResources = async (prefix, type) => {
+  const resources = [];
+  let nextCursor;
+
+  do {
+    const response = await request(getCloudinaryUrl(prefix, type, nextCursor));
+
+    resources.push(...response.resources);
+    nextCursor = response.next_cursor;
+  } while (nextCursor);
+
+  return resources;
+};
+
 const getPrefixUrls = async (prefix) => {
-  const [responseImages, responseVideo] = await Promise.all([
-    request(getCloudinaryUrl(prefix)),
-    request(getCloudinaryUrl(prefix, true)),
+  const [imageResources, videoResources] = await Promise.all([
+    getCloudinaryResources(prefix, "image"),
+    getCloudinaryResources(prefix, "video"),
   ]);
 
-  return [...responseImages.resources, ...responseVideo.resources]
+  return [...imageResources, ...videoResources]
     .sort((resource1, resource2) =>
       getFilename(resource1.url).localeCompare(getFilename(resource2.url))
     )
