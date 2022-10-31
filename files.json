@@ -10673,5 +10673,35 @@
     "filename": "20221023_202812.jpg",
     "thumbnail": "cloudinary",
     "description": "playing Targi (2012)"
+  },
+  {
+    "path": "board-games/karuba",
+    "filename": "20221028_184332.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Karuba (2015)"
+  },
+  {
+    "path": "board-games/karuba",
+    "filename": "20221028_185842.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Karuba (2015)"
+  },
+  {
+    "path": "board-games/coimbra",
+    "filename": "20221028_211246.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Coimbra (2018)"
+  },
+  {
+    "path": "board-games/coimbra",
+    "filename": "20221028_212033.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Coimbra (2018)"
+  },
+  {
+    "path": "board-games/coimbra",
+    "filename": "20221028_212043.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Coimbra (2018)"
   }
 ]
