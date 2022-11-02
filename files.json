@@ -10703,5 +10703,23 @@
     "filename": "20221028_212043.jpg",
     "thumbnail": "cloudinary",
     "description": "playing Coimbra (2018)"
+  },
+  {
+    "path": "board-games/mr-jack",
+    "filename": "20221102_192842.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Mr. Jack (2006)"
+  },
+  {
+    "path": "board-games/mr-jack",
+    "filename": "20221102_192847.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Mr. Jack (2006)"
+  },
+  {
+    "path": "board-games/karuba",
+    "filename": "20221102_214300.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Karuba (2015)"
   }
 ]

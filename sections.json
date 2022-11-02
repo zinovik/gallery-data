@@ -1160,9 +1160,9 @@
     "path": "board-games/coimbra",
     "text": [
       "I like the games like this lately. It's a pretty fast one but it's a real board game where you have to combine a lot of things together to get as many points as possible.",
-      "This is a typical euro-board game, it's similar to the earlier games of this Italian authors group (but I thought that it was released earlier because of the art).",
+      "This is a typical euro board game, it's similar to the earlier games of this Italian authors group (but I thought that it was released earlier because of the art).",
       "The players draft multicolored and multifunctional dice, and the value of the dice defined the order of the action (and it's important because the action is to draft the card with different types of bonuses). But also, it defines the cost of the drafted card (it can be considered as some kind of auction). But it's not everything - the color of the dice defines the production (4 tracks: money, victory points, and something else).",
-      "The game is about combining the dice with the cards for 4 rounds. It has nice components (for example, each player has his own dice holders) and good scalability (especially I like the tracks for 2 players - the victory points are got by the first player and by the second player if he is no further than three positions from the first one.)."
+      "The game is about combining the dice with the cards for 4 rounds. It has nice components (for example, each player has his own dice holders) and good scalability (especially I like the tracks for 2 players - the victory points are got by the first player and by the second player if he is no further than three positions from the first one)."
     ]
   },
   {
@@ -1503,6 +1503,10 @@
     "path": "board-games/mississippi-queen"
   },
   {
+    "title": "Mr. Jack (2006)",
+    "path": "board-games/mr-jack"
+  },
+  {
     "title": "Mystic Vale (2016)",
     "path": "board-games/mystic-vale",
     "text": [
@@ -1734,7 +1738,7 @@
     "title": "Targi (2012)",
     "path": "board-games/targi",
     "text": [
-      "This 2-players game looks fast and simple but it's much deeper than it looks. Usually, it takes more than an hour!",
+      "This 2-players game seems to be fast and simple but it's much deeper than it looks. Usually, it takes more than an hour!",
       "This is combination of worker placing with the set collection. Sounds pretty ordinary - players chose the actions, get some resources and buy some cards with victory points and different properties.",
       "But what is not ordinary - is action selection here. The board is modular and comprises 5 x 5 cards. Each player has only 3 meeples (targi) to place on the board cards that are not in the corner, not occupied, and also that don't have an opposite card occupied by the other player. After all the meeples are placed each player will perform usually 5 actions - actions from the cards with his meeples and from the cards on the intersection of the horizontal and vertical lines started from his meeples.",
       "Sounds complicated? It depends - the system itself is smart and clear but the decisions are not so easy.",
