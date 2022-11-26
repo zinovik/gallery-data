@@ -1112,6 +1112,10 @@
     "path": "board-games/carcassonne"
   },
   {
+    "title": "Carnegie (2022)",
+    "path": "board-games/carnegie"
+  },
+  {
     "title": "Cartographers (2019)",
     "path": "board-games/cartographers"
   },
@@ -1339,6 +1343,10 @@
   {
     "title": "Harry Potter: Hogwarts Battle (2016)",
     "path": "board-games/harry-potter"
+  },
+  {
+    "title": "Heat: Pedal to the Metal (2022)",
+    "path": "board-games/heat-pedal-to-the-metal"
   },
   {
     "title": "Ilôs (2017)",
