@@ -10781,5 +10781,41 @@
     "filename": "20221126_173024.jpg",
     "thumbnail": "cloudinary",
     "description": "playing Carnegie (2022)"
+  },
+  {
+    "path": "board-games/the-fox-in-the-forest",
+    "filename": "20221129_175734.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing The Fox in the Forest (2017)"
+  },
+  {
+    "path": "board-games/clank",
+    "filename": "20221129_195124.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Clank!: A Deck-Building Adventure (2016)"
+  },
+  {
+    "path": "board-games/dragon-castle",
+    "filename": "20221129_202941.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Dragon Castle (2017)"
+  },
+  {
+    "path": "board-games/dragon-castle",
+    "filename": "20221129_210453.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Dragon Castle (2017)"
+  },
+  {
+    "path": "board-games/dragon-castle",
+    "filename": "20221129_210532.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Dragon Castle (2017)"
+  },
+  {
+    "path": "board-games/sushi-go-party",
+    "filename": "20221129_215930.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Sushi Go Party! (2016)"
   }
 ]
