@@ -1301,6 +1301,10 @@
     "path": "board-games/five-tribes"
   },
   {
+    "title": "Flamecraft (2022)",
+    "path": "board-games/flamecraft"
+  },
+  {
     "title": "Flamme Rouge (2016)",
     "path": "board-games/flamme-rouge"
   },
@@ -1381,6 +1385,10 @@
   {
     "title": "Inis (2016)",
     "path": "board-games/inis"
+  },
+  {
+    "title": "Isle of Skye: From Chieftain to King (2015)",
+    "path": "board-games/isle-of-skye"
   },
   {
     "title": "Istanbul (2014)",
@@ -1562,6 +1570,10 @@
   {
     "title": "NMBR 9 (2017)",
     "path": "board-games/nmbr-9"
+  },
+  {
+    "title": "Nova Luna (2019)",
+    "path": "board-games/nova-luna"
   },
   {
     "title": "Nusfjord (2017)",
