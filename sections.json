@@ -1019,6 +1019,10 @@
     ]
   },
   {
+    "title": "Azul: Queen's Garden (2021)",
+    "path": "board-games/azul-queen-s-garden"
+  },
+  {
     "title": "Azul: Stained Glass of Sintra (2018)",
     "path": "board-games/azul-stained-glass-of-sintra",
     "text": [
@@ -1848,6 +1852,10 @@
   {
     "title": "The Castles of Burgundy (2011)",
     "path": "board-games/the-castles-of-burgundy"
+  },
+  {
+    "title": "The Castles of Tuscany (2020)",
+    "path": "board-games/the-castles-of-tuscany"
   },
   {
     "title": "The Crew: The Quest for Planet Nine (2019)",

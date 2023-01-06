@@ -10973,5 +10973,35 @@
     "filename": "20230105_212925.jpg",
     "thumbnail": "cloudinary",
     "description": "playing Flamecraft (2022)"
+  },
+  {
+    "path": "board-games/azul-queen-s-garden",
+    "filename": "20230106_182704.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Azul: Queen's Garden (2021)"
+  },
+  {
+    "path": "board-games/azul-queen-s-garden",
+    "filename": "20230106_184033.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Azul: Queen's Garden (2021)"
+  },
+  {
+    "path": "board-games/the-castles-of-tuscany",
+    "filename": "20230106_195340.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing The Castles of Tuscany (2020)"
+  },
+  {
+    "path": "board-games/santa-maria",
+    "filename": "20230106_213649.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Santa Maria (2017)"
+  },
+  {
+    "path": "board-games/santa-maria",
+    "filename": "20230106_213711.jpg",
+    "thumbnail": "cloudinary",
+    "description": "playing Santa Maria (2017)"
   }
 ]
