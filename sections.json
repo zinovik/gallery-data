@@ -990,6 +990,10 @@
     "path": "board-games/agricola-revised-edition"
   },
   {
+    "title": "Alhambra (2003)",
+    "path": "board-games/alhambra"
+  },
+  {
     "title": "Altiplano (2017)",
     "path": "board-games/altiplano"
   },
@@ -1228,6 +1232,10 @@
   {
     "title": "Dice Forge (2017)",
     "path": "board-games/dice-forge"
+  },
+  {
+    "title": "Dinosaur Island (2017)",
+    "path": "board-games/dinosaur-island"
   },
   {
     "title": "Discworld: Ankh-Morpork (2011)",
@@ -1697,6 +1705,10 @@
   {
     "title": "Reliquium (2017)",
     "path": "board-games/reliquium"
+  },
+  {
+    "title": "Renature (2020)",
+    "path": "board-games/renature"
   },
   {
     "title": "Res Arcana (2019)",
